@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03900429",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "MGL-3196 (Resmetirom)",
+      "role": "investigational"
+    },
+    {
+      "name": "Liver Biopsy",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Week 52 dual primary objectives: effect of 80 or 100 mg MGL-3196 versus placebo on liver biopsy (NASH CRN score) compared with baseline; and time to adjudicated composite clinical outcome event at Month 54.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1008,
+    "output_tokens": 148,
+    "cost_usd": 0.000175
+  }
+}

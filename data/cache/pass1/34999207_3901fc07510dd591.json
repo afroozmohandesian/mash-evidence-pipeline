@@ -1,0 +1,36 @@
+{
+  "data_source": "PubMed",
+  "source_id": "34999207",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "icosapent ethyl (Vascepa)",
+      "role": "investigational"
+    },
+    {
+      "name": "fenofibrate",
+      "role": "investigational"
+    },
+    {
+      "name": "cilofexor (CILO)",
+      "role": "background therapy"
+    },
+    {
+      "name": "firsocostat (FIR)",
+      "role": "background therapy"
+    }
+  ],
+  "mechanism_of_action": "Cilofexor is a farnesoid X receptor agonist; firsocostat is an acetyl-CoA carboxylase inhibitor. Mechanisms for icosapent ethyl and fenofibrate are not stated.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "At 6 weeks of combination treatment, median triglyceride change was +41 mg/dL with icosapent ethyl and −2 mg/dL with fenofibrate; in the fenofibrate group, the within-group change was not significant (P = .92), while the icosapent ethyl group increased (P < .001).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Treatments were well tolerated; most treatment-emergent adverse events were Grade 1–2, with no discontinuations due to adverse events.",
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1391,
+    "output_tokens": 621,
+    "cost_usd": 0.00045
+  }
+}

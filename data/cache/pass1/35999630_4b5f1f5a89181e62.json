@@ -1,0 +1,32 @@
+{
+  "data_source": "PubMed",
+  "source_id": "35999630",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Danshao Shugan Granules (DSSG)",
+      "role": "investigational"
+    },
+    {
+      "name": "rosiglitazone",
+      "role": "active comparator"
+    },
+    {
+      "name": "Silibinin",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": "The authors attributed DSSG effects to increased superoxide dismutase activity and reduced malondialdehyde and NF-κB activity in a rat NAFLD model.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "In patients, DSSG had significantly highest effects on ultrasound findings and reductions in total cholesterol, triglycerides, AST, and GGT; Silibinin had the highest ALT reduction and rosiglitazone the highest fasting glucose reduction. In rats, DSSG significantly reduced glucose, lipids, liver enzymes, and NF-κB expression versus untreated NAFLD animals (P < 0.001).",
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1259,
+    "output_tokens": 510,
+    "cost_usd": 0.000381
+  }
+}

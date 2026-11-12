@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01934777",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Docosahexaenoic Acid plus Vitamin E plus choline",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Improvement in NAFLD Activity Score (NAS) at 12 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 903,
+    "output_tokens": 103,
+    "cost_usd": 0.000142
+  }
+}

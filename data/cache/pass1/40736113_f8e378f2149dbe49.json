@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40736113",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "GLP-1RAs",
+      "role": "investigational"
+    },
+    {
+      "name": "semaglutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "MASH resolution without worsening of fibrosis or improvement in at least one fibrosis stage without worsening of MASH; liver fat reduction was also assessed.",
+  "efficacy_outcome": "In MASH with moderate-to-advanced fibrosis, GLP-1RAs increased the odds of MASH resolution (OR 3.48, 95% CI 2.69–4.51) and fibrosis improvement (OR 1.79, 95% CI 1.37–2.35) versus placebo. Liver fat decreased (mean difference −4.50%, 95% CI −6.60 to −2.40%); semaglutide did not improve MASH resolution or fibrosis in the single compensated-cirrhosis RCT.",
+  "efficacy_direction": "mixed",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1287,
+    "output_tokens": 482,
+    "cost_usd": 0.00037
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07704892",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Efimosfermin alfa",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Part A: Proportion achieving improvement in liver fibrosis by ≥1 stage with no worsening of MASH at Week 96.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 956,
+    "output_tokens": 151,
+    "cost_usd": 0.000171
+  }
+}

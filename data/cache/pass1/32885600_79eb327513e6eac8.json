@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32885600",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "gastric bypass",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "sleeve gastrectomy",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in transient hepatic elastography (THE) parameters from one week before surgery to three months after surgery.",
+  "efficacy_outcome": "THE decreased from 8.13 to 5.53 kPa with sleeve gastrectomy versus 9.25 to 8.81 kPa with gastric bypass (between-group P=.004). CAP decreased from 287 to 242 dB/m versus 290 to 276 dB/m, respectively (P<.0001).",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1120,
+    "output_tokens": 253,
+    "cost_usd": 0.000238
+  }
+}

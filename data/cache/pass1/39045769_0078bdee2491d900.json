@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "39045769",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "sulforaphane (SFN)",
+      "role": "investigational"
+    },
+    {
+      "name": "broccoli seed tablets",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Sulforaphane increased Bacteroides and Lactobacillus, promoting SCFA production and GPR41/43 activation, which increased GLP-1; it also protected the intestinal mucosal barrier and reduced inflammation.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "In the human NAFLD intervention, GLP-1 increased and was positively correlated with reductions in blood glucose and HOMA-IR; no numerical results were reported. In HFD-fed rats, SFN reduced blood glucose and HOMA-IRI and increased insulin sensitivity.",
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1375,
+    "output_tokens": 482,
+    "cost_usd": 0.000378
+  }
+}

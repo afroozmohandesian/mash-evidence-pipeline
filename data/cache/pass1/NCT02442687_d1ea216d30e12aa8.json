@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02442687",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "JKB-121",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in MRI-PDFF from baseline to Weeks 24 and 12 in the per-protocol population.",
+  "efficacy_outcome": "At Week 24, change was 0.38 (5 mg), -0.44 (10 mg), and -3.09 (placebo); reported p-values were 0.034 and 0.1731. At Week 12, changes were -1.78, -1.50, and -2.74, respectively; p-values were 0.5276 and 0.4968.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious AEs occurred in 1/21 participants receiving 5 mg, 1/22 receiving 10 mg, and 0/22 receiving placebo; no deaths.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1182,
+    "output_tokens": 483,
+    "cost_usd": 0.00036
+  }
+}

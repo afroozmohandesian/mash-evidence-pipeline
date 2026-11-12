@@ -1,0 +1,32 @@
+{
+  "data_source": "PubMed",
+  "source_id": "35860380",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "fecal microbiota transplantation (FMT)",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "oral probiotics",
+      "role": "active comparator"
+    },
+    {
+      "name": "healthy diet and regular exercise",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": "FMT was reported to improve gut microbiota dysbiosis.",
+  "primary_endpoint": null,
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1087,
+    "output_tokens": 399,
+    "cost_usd": 0.000308
+  }
+}

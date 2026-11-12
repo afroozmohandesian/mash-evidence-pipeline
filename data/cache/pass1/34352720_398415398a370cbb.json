@@ -1,0 +1,32 @@
+{
+  "data_source": "PubMed",
+  "source_id": "34352720",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "pioglitazone",
+      "role": "investigational"
+    },
+    {
+      "name": "omega-3 fatty acids",
+      "role": "investigational"
+    },
+    {
+      "name": "diet and exercise",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Liver fat content (LFC), measured by magnetic resonance spectroscopy or liver biopsy/NAS.",
+  "efficacy_outcome": "LFC decreased with pioglitazone (−8.0 ± 1.0%, p < 0.001), diet and exercise (−7.8 ± 1.7%, p < 0.001), and omega-3 fatty acids (−6.0 ± 2.5%, p = 0.02).",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1167,
+    "output_tokens": 312,
+    "cost_usd": 0.000273
+  }
+}

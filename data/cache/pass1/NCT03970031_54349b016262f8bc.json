@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03970031",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "MSDC-0602K",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Modulator of the mitochondrial pyruvate carrier.",
+  "primary_endpoint": "Change in HbA1c and change in the weighted average of standardized AST, CK-18, and HbA1c values from baseline to Week 26.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 991,
+    "output_tokens": 156,
+    "cost_usd": 0.000177
+  }
+}

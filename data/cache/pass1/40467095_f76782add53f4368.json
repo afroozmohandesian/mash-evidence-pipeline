@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40467095",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "dapagliflozin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Sodium-glucose cotransporter 2 inhibitor.",
+  "primary_endpoint": "MASH improvement without worsening of liver fibrosis at 48 weeks.",
+  "efficacy_outcome": "Primary endpoint occurred in 53% (41/78) with dapagliflozin vs 30% (23/76) with placebo (risk ratio 1.73, 95% CI 1.16–2.58; P=0.006).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Discontinuation because of adverse events occurred in 1% (1/78) with dapagliflozin and 3% (2/76) with placebo.",
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1365,
+    "output_tokens": 274,
+    "cost_usd": 0.000273
+  }
+}

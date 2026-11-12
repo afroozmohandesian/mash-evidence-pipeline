@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07763015",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Resmetirom (MGL-3196)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Safety and tolerability of multiple ascending doses of resmetirom from baseline through approximately Day 21 (or the protocol-defined safety follow-up period).",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "single-arm trial",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 941,
+    "output_tokens": 115,
+    "cost_usd": 0.000152
+  }
+}

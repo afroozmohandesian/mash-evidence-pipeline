@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40581300",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "rapirosiran",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "N-acetylgalactosamine-conjugated small-interfering RNA targeting liver-expressed HSD17B13 mRNA.",
+  "primary_endpoint": "Frequency of adverse events; no timepoint specified.",
+  "efficacy_outcome": "In Part B, liver HSD17B13 mRNA decreased dose-dependently, with a median reduction of 78% at 6 months in the 400 mg group.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "In Part A, injection-site reactions occurred in 11% of rapirosiran-treated participants and were mild and transient; no treatment-related serious AEs. In Part B, COVID-19 occurred in 14% (5/36) and was deemed treatment-unrelated; no drug-induced liver injury was observed.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 1",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1447,
+    "output_tokens": 377,
+    "cost_usd": 0.000333
+  }
+}

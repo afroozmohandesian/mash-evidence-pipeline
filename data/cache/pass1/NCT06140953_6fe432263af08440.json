@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06140953",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "trimetazidine",
+      "role": "investigational"
+    },
+    {
+      "name": "conventional therapy",
+      "role": "background therapy"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Highly sensitive CRP, liver fibrosis and steatosis, ALT, AST, CAP, and FAST score at six months (change from baseline).",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 952,
+    "output_tokens": 202,
+    "cost_usd": 0.000196
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "39002641",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "pemvidutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "GLP-1/glucagon dual receptor agonist.",
+  "primary_endpoint": "Relative reduction from baseline in liver fat content after 12 weeks.",
+  "efficacy_outcome": "At week 12, liver fat content fell by 46.6%, 68.5%, and 57.1% with pemvidutide 1.2, 1.8, and 2.4 mg, respectively, versus 4.4% with placebo (p<0.001 for each dose vs. placebo).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Well-tolerated at all doses; no severe or serious adverse events.",
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1563,
+    "output_tokens": 259,
+    "cost_usd": 0.000286
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05500586",
+  "relevant": false,
+  "drugs": [],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Rate of amino acid catabolism in the presence/absence of glucagon at 0, 120, and 240 minutes.",
+  "efficacy_outcome": "Reported amino acid catabolism values were 17, 26, and 20 at one timepoint; 12, 19, and 22 at another; and 10, 16, and 14 at the third, across the listed participant groups. The source does not clearly map these values to timepoints or report a treatment comparison.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "No serious adverse events or deaths were reported in the groups with participants; the two type 2 diabetes groups had 0 participants.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 1/2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1166,
+    "output_tokens": 502,
+    "cost_usd": 0.000368
+  }
+}

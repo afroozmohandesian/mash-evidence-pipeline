@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04202354",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "ARO-HSD",
+      "role": "investigational"
+    },
+    {
+      "name": "sterile normal saline (0.9% NaCl)",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Participants with treatment-emergent adverse events possibly or probably related to treatment, from first dose through Day 113 (±5 days).",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Possibly/probably treatment-related TEAEs occurred in 0 participants at 25 mg, 0 at 50 mg, 1 at 100 mg, and 3 at 200 mg in cohorts 1–4; pooled placebo had 0. Serious AEs occurred in 1/6 participants in the 200 mg cohort 4b and none in the other reported groups; no deaths were reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 1/2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1354,
+    "output_tokens": 326,
+    "cost_usd": 0.000298
+  }
+}

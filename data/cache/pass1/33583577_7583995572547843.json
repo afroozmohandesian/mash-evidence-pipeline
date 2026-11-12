@@ -1,0 +1,44 @@
+{
+  "data_source": "PubMed",
+  "source_id": "33583577",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "farnesoid X nuclear receptor agonists",
+      "role": "investigational"
+    },
+    {
+      "name": "C-C motif chemokine receptor 2 and receptor 5 antagonists",
+      "role": "investigational"
+    },
+    {
+      "name": "stearoyl-CoA desaturase-1",
+      "role": "investigational"
+    },
+    {
+      "name": "thyroid hormone receptor beta agonists",
+      "role": "investigational"
+    },
+    {
+      "name": "insulin sensitizers",
+      "role": "background therapy"
+    },
+    {
+      "name": "lifestyle changes to achieve weight loss",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": "Mechanisms under investigation include farnesoid X nuclear receptor agonism, C-C motif chemokine receptor 2 and receptor 5 antagonism, stearoyl-CoA desaturase-1, and thyroid hormone receptor beta agonism.",
+  "primary_endpoint": null,
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1109,
+    "output_tokens": 510,
+    "cost_usd": 0.000366
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05824156",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "CM-101",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Monoclonal antibody blocking CCL24.",
+  "primary_endpoint": "Treatment-emergent adverse events (TEAEs) during the 14-week treatment period.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 879,
+    "output_tokens": 205,
+    "cost_usd": 0.00019
+  }
+}

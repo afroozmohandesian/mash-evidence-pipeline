@@ -1,0 +1,18 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00267670",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Pentoxifylline",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Number of participants with a 30% reduction in ALT from baseline to 12 months.",
+  "efficacy_outcome": "A 30% ALT reduction at 12 months was reported in 19 participants receiving pentoxifylline versus 7 receiving placebo (p=0.46, ANOVA).",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events occurred in 0/19 pentoxifylline participants and 0/7 placebo participants; deaths were not reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2/3"
+}

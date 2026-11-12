@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04267393",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "BMS-986263",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percentage achieving ≥1-stage improvement in liver fibrosis by NASH CRN fibrosis score on biopsy at 12 weeks.",
+  "efficacy_outcome": "Fibrosis improvement: placebo 20.5%, Treatment 1 12.2%, Treatment 2 7.1%.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious AEs: placebo 1/39, Treatment 1 1/41, Treatment 2 2/42; no deaths in any group.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1075,
+    "output_tokens": 283,
+    "cost_usd": 0.000249
+  }
+}

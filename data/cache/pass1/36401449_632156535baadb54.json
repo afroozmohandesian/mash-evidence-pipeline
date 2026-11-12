@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36401449",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Pioglitazone",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "The pooled total effective rate favored pioglitazone (8 studies; Z=3.64, 95% CI 1.31–2.43, P=.0003); several metabolic and liver enzyme measures also significantly favored treatment.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1433,
+    "output_tokens": 248,
+    "cost_usd": 0.000267
+  }
+}

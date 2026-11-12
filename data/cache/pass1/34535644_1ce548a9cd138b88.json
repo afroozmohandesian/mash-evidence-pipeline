@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "34535644",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "HTD1801 (berberine ursodeoxycholate)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "An ionic salt of berberine and ursodeoxycholic acid.",
+  "primary_endpoint": "Reduction in liver fat content measured by MRI-PDFF at 18 weeks.",
+  "efficacy_outcome": "At 1000 mg twice daily, mean absolute liver-fat decrease was 4.8% versus 2.0% with placebo (p=0.011).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Diarrhea and abdominal discomfort were the most frequently reported adverse events.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1091,
+    "output_tokens": 244,
+    "cost_usd": 0.000231
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40305708",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Semaglutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Glucagon-like peptide-1 receptor agonist.",
+  "primary_endpoint": "At week 72: resolution of steatohepatitis without worsening of liver fibrosis, and reduction in liver fibrosis without worsening of steatohepatitis.",
+  "efficacy_outcome": "Resolution without worsening of fibrosis: 62.9% with semaglutide vs 34.3% with placebo (difference 28.7 percentage points; P<0.001). Fibrosis reduction without worsening of steatohepatitis: 36.8% vs 22.4% (difference 14.4 percentage points; P<0.001).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Gastrointestinal adverse events were more common with semaglutide.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1360,
+    "output_tokens": 272,
+    "cost_usd": 0.000272
+  }
+}

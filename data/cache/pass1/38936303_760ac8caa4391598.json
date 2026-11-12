@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38936303",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "epigallocatechin gallate (EGCG)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Inhibits the expression and activity of dipeptidyl peptidase 4 (DPP4).",
+  "primary_endpoint": null,
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1208,
+    "output_tokens": 283,
+    "cost_usd": 0.000262
+  }
+}

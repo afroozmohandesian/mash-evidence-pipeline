@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07900100",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Rupatadin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "H1 receptor antagonist that also inhibits the actions of platelet activation factor (PAF).",
+  "primary_endpoint": "Change in degree of steatosis by ultrasound at 3 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2/3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 912,
+    "output_tokens": 193,
+    "cost_usd": 0.000188
+  }
+}

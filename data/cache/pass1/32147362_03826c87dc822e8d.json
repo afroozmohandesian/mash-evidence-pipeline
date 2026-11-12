@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32147362",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "selonsertib",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Selective inhibitor of apoptosis signal-regulating kinase 1 (ASK1).",
+  "primary_endpoint": "Proportion with ≥1-stage improvement in fibrosis without worsening of NASH at week 48.",
+  "efficacy_outcome": "Neither trial met the primary endpoint. STELLAR-3: 10% (18 mg; p=0.49) and 12% (6 mg; p=0.93) vs 13% with placebo; STELLAR-4: 14% (18 mg; p=0.56) and 13% (6 mg; p=0.93) vs 13% with placebo.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Rates and types of adverse events were similar in selonsertib and placebo groups.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1409,
+    "output_tokens": 261,
+    "cost_usd": 0.000271
+  }
+}

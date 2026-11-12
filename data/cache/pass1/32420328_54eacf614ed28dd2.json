@@ -1,0 +1,19 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32420328",
+  "relevant": false,
+  "drugs": [],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Prevalence of metabolic syndrome and NAFLD among premenopausal and postmenopausal women.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "other",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1345,
+    "output_tokens": 157,
+    "cost_usd": 0.000213
+  }
+}

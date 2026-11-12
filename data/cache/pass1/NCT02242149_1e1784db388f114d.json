@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02242149",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Diacerein",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Evidence of improvement in glycemic control and liver steatosis within 12 and 24 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 921,
+    "output_tokens": 97,
+    "cost_usd": 0.000141
+  }
+}

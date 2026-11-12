@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32291277",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "tirzepatide",
+      "role": "investigational"
+    },
+    {
+      "name": "dulaglutide",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": "Dual agonist of glucose-dependent insulinotropic polypeptide and glucagon-like peptide 1 receptors.",
+  "primary_endpoint": "Changes from baseline in ALT, AST, K-18, Pro-C3, and adiponectin at 26 weeks.",
+  "efficacy_outcome": "At 26 weeks, tirzepatide significantly reduced ALT (all doses), AST (all except 10 mg), K-18 (5, 10, and 15 mg), and Pro-C3 (15 mg) from baseline. Versus placebo, K-18 decreased significantly with 10 mg and Pro-C3 with 15 mg; ALT decreased significantly versus dulaglutide with 10 and 15 mg. Adiponectin increased significantly versus placebo with 10 and 15 mg.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1148,
+    "output_tokens": 475,
+    "cost_usd": 0.000352
+  }
+}

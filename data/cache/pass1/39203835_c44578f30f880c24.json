@@ -1,0 +1,32 @@
+{
+  "data_source": "PubMed",
+  "source_id": "39203835",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "typical Mediterranean diet (TMD)",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "low-carbohydrate Mediterranean diet (LCMD)",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "low-fat Mediterranean diet (LFMD)",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "Across the 8-week diet groups, reported changes in dietary intake were significantly correlated with liver enzymes and fatty liver index (FLI) (p<0.05); group-specific effect estimates were not provided.",
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1063,
+    "output_tokens": 312,
+    "cost_usd": 0.000262
+  }
+}

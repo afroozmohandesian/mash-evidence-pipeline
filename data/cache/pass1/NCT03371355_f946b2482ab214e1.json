@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03371355",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "ISIS 703802",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percent change from baseline in fasting triglycerides at Week 27 for Cohort A and Week 25 for Cohorts B and C.",
+  "efficacy_outcome": "Fasting triglycerides changed by −16% with pooled placebo, −36% with ISIS 703802 40 mg Q4W (p=0.0343), −53% with 80 mg Q4W (p<0.0001), and −47% with 20 mg QW (p=0.0009).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious adverse events: placebo 1/27; 40 mg Q4W 1/26; 80 mg Q4W 2/26; 20 mg QW 1/26. No deaths were reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1321,
+    "output_tokens": 325,
+    "cost_usd": 0.000295
+  }
+}

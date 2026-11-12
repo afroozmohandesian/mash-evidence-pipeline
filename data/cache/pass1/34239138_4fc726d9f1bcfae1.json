@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "34239138",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "efruxifermin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Long-acting Fc-FGF21 fusion protein; FGF21 is described as anti-fibrotic and as improving metabolic status.",
+  "primary_endpoint": "Absolute change from baseline in hepatic fat fraction measured by MRI-PDFF at week 12.",
+  "efficacy_outcome": "At week 12, HFF changed by −12.3%, −13.4%, and −14.1% with efruxifermin 28, 50, and 70 mg, respectively, versus +0.3% with placebo (P<0.0001 for each dose vs placebo).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Among 79 patients receiving study drug, 70 (89%) had at least one TEAE; 64 (81%) had grade 1–2, five (6%) grade 3, and one grade 4. The most common drug-related TEAEs were grade 1–2 gastrointestinal events (36; 46%).",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1278,
+    "output_tokens": 365,
+    "cost_usd": 0.00031
+  }
+}

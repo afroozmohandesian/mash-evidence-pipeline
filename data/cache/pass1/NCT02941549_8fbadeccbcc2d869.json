@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02941549",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Epeleuton",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Changes in serum ALT and liver stiffness by transient elastography from baseline to Week 16; treatment-emergent adverse events leading to discontinuation through Week 20.",
+  "efficacy_outcome": "ALT changes were -16.3 U/L with placebo, -6.9 with 1000 mg, and -10.1 with 2000 mg (p=0.5946 and 0.7309 vs placebo). Liver stiffness changes were -2.226 kPa, -1.308 (p=0.0763), and -0.727 (p=0.0058), respectively.",
+  "efficacy_direction": "mixed",
+  "safety_signal": "Treatment discontinuations due to TEAEs: 1 with placebo and 0 in each epeleuton group. Serious AEs affected 1/31 placebo participants, 0/32 receiving 1000 mg, and 1/33 receiving 2000 mg; no deaths.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1238,
+    "output_tokens": 367,
+    "cost_usd": 0.000307
+  }
+}

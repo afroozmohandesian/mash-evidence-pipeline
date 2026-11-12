@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03028740",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Cenicriviroc",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Part 1: percentage of participants with ≥1-stage fibrosis improvement and no worsening of steatohepatitis at Month 12; time to first adjudicated event in the full study cohort.",
+  "efficacy_outcome": "At Month 12, the primary histology outcome occurred in 22.3% with cenicriviroc versus 25.5% with placebo (p=0.2067).",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious AEs affected 159/1,180 participants receiving cenicriviroc and 70/589 receiving placebo; deaths were 6 and 2, respectively.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1217,
+    "output_tokens": 269,
+    "cost_usd": 0.000256
+  }
+}

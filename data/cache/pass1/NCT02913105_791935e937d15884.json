@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02913105",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "LMB763",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Participants with AEs/SAEs through Day 112 and change from baseline in ALT at Day 84 (Week 12).",
+  "efficacy_outcome": "ALT outcome values were 67.215 (100 mg), 48.114 (50 mg), and 59.544 (placebo); additional reported values were 0.667, 0.702, and 0.901, respectively. Reported ANCOVA p-values were 0.7489, 0.0005, and 0.0005; the registry summary does not clearly map these p-values to treatment comparisons.",
+  "efficacy_direction": "mixed",
+  "safety_signal": "Participants with AEs: 35 (LMB763 100 mg), 37 (50 mg), and 33 (placebo); with SAEs: 2/37, 3/44, and 0/40, respectively. No deaths were reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1273,
+    "output_tokens": 591,
+    "cost_usd": 0.000423
+  }
+}

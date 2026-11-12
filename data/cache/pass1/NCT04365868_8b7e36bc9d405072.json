@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04365868",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "belapectin (GR MD-02)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Proportion of patients developing new esophageal varices by 78 weeks (18 months).",
+  "efficacy_outcome": "Reported participants with new esophageal varices: placebo 56, belapectin 2 mg/kg LBM 45, and 4 mg/kg LBM 51; denominators and statistical comparisons were not provided.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs: placebo 24/118 (2 deaths); belapectin 2 mg/kg LBM 29/119 (5 deaths); belapectin 4 mg/kg LBM 26/120 (1 death).",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2/3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1101,
+    "output_tokens": 487,
+    "cost_usd": 0.000354
+  }
+}

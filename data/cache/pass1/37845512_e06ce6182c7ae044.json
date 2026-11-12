@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37845512",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "resmetirom",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Incidence of treatment-emergent adverse events (TEAEs) over 52 weeks.",
+  "efficacy_outcome": "Versus placebo, resmetirom 80 mg and 100 mg reduced LDL-C by 11.1% and 12.6%, apoB by 15.6% and 18.0%, triglycerides by 15.4% and 20.4%, and hepatic fat at week 16 by 34.9% and 38.6% (P < 0.0001).",
+  "efficacy_direction": "not reported",
+  "safety_signal": "TEAEs occurred in 86.1% (100 mg), 88.4% (80 mg), 86.5% (open-label 100 mg), and 81.8% (placebo); diarrhea and nausea exceeded placebo at treatment initiation.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1213,
+    "output_tokens": 231,
+    "cost_usd": 0.000237
+  }
+}

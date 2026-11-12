@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04772352",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "febuxostat",
+      "role": "investigational"
+    },
+    {
+      "name": "lifestyle intervention",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Liver fat content at weeks 1, 24, and 48; serum uric acid levels at weeks 1, 4, 12, 24, 36, and 48.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1047,
+    "output_tokens": 132,
+    "cost_usd": 0.000171
+  }
+}

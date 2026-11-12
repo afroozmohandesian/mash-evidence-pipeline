@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02077374",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "IDN-6556",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in ALT and relative percent change in ALT from baseline to Day 28/early termination.",
+  "efficacy_outcome": "At Day 28/early termination, ALT change was -37.8 U/L with IDN-6556 vs -14.9 U/L with placebo (p=0.0195). Relative percent change was -39.2% vs -13.9%, respectively (p-value not reported).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious adverse events affected 1/19 participants in each group; deaths were not reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1063,
+    "output_tokens": 174,
+    "cost_usd": 0.000193
+  }
+}

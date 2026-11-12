@@ -1,0 +1,32 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40480879",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "N-acetyl cysteine (NAC)",
+      "role": "investigational"
+    },
+    {
+      "name": "rosuvastatin (RSV)",
+      "role": "investigational"
+    },
+    {
+      "name": "vitamin E",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "After 6 months, the NAC/RSV group had reductions in steatosis (16.49%, P=0.001) and fibrosis (approximately 19.5%, P=0.001); the vitamin E group had a 6.05% reduction in steatosis (P=0.017).",
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1480,
+    "output_tokens": 509,
+    "cost_usd": 0.000403
+  }
+}

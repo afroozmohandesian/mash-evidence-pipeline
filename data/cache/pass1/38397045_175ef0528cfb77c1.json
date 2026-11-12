@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38397045",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Cannabidiol (CBD)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Precise mechanism remains elusive; proposed receptors include CB1, CB2, PPARs, GPR55, and TRP channels.",
+  "primary_endpoint": null,
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1035,
+    "output_tokens": 227,
+    "cost_usd": 0.000217
+  }
+}

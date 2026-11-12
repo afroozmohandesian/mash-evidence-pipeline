@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02633956",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Obeticholic Acid (OCA)",
+      "role": "investigational"
+    },
+    {
+      "name": "Atorvastatin",
+      "role": "background therapy"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Least-squares mean change from baseline at Week 16 in LDL concentration, LDL particle size, and total LDL particle concentration.",
+  "efficacy_outcome": "At Week 16, LDL concentration changes were −33.2, −44.27, and −39.54 mg/dL with 5, 10, and 25 mg OCA, respectively, versus −53.33 mg/dL with placebo. LDL particle size changes were 0.02, −0.41, and −0.09 nm versus −0.49 nm; total LDL particle concentration changes were −224.79, −325.04, and −336.22 nmol/L versus −439.84 nmol/L. No statistical comparisons were reported.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events: 2/20 with 5 mg OCA, 1/21 with 10 mg, 1/22 with 25 mg, and 0/21 with placebo; no deaths.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1462,
+    "output_tokens": 596,
+    "cost_usd": 0.000444
+  }
+}

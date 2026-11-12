@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04929483",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "BIO89-100",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "At Week 24: histological NASH resolution without worsening of fibrosis, and ≥1-stage fibrosis improvement without worsening of NASH.",
+  "efficacy_outcome": "NASH resolution: 5 (15 mg QW), 12 (30 mg QW), and 11 (44 mg Q2W) vs 1 pooled placebo; p<0.0001, p=0.0009, and p=0.0005, respectively. Fibrosis improvement: 3, 14, and 11 vs 4 pooled placebo; p=0.1039, p=0.0085, and p=0.0077, respectively.",
+  "efficacy_direction": "mixed",
+  "safety_signal": "Serious AEs: 1/21 (15 mg QW), 5/72 (30 mg QW), and 8/57 (44 mg Q2W); placebo groups 6/50 and 2/19. No deaths reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1441,
+    "output_tokens": 375,
+    "cost_usd": 0.000332
+  }
+}

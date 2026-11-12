@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05613192",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Cholecalciferol",
+      "role": "investigational"
+    },
+    {
+      "name": "standard conventional therapy",
+      "role": "background therapy"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Efficacy on glycaemic control parameters at baseline and week 16.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 903,
+    "output_tokens": 106,
+    "cost_usd": 0.000143
+  }
+}

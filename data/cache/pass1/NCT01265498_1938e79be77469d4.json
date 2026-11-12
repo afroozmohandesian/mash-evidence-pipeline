@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01265498",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "obeticholic acid",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Farnesoid X receptor (FXR) ligand.",
+  "primary_endpoint": "Hepatic histological improvement in NAFLD Activity Score (NAS) from baseline to 72 weeks.",
+  "efficacy_outcome": "Histological improvement occurred in 50 participants receiving obeticholic acid versus 23 receiving placebo (p=0.0002).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious adverse events: 13/141 with obeticholic acid and 10/142 with placebo; deaths not reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1026,
+    "output_tokens": 159,
+    "cost_usd": 0.000182
+  }
+}

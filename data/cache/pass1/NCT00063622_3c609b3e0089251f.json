@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00063622",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Pioglitazone",
+      "role": "investigational"
+    },
+    {
+      "name": "Vitamin E",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Participants with improvement in NAFLD activity by standardized liver biopsy scoring from baseline to 96 weeks.",
+  "efficacy_outcome": "Improvement occurred in 27 participants on pioglitazone, 36 on vitamin E, and 16 on placebo; reported Mantel-Haenszel p-values were 0.001 and 0.04.",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious adverse events affected 2/80 participants on pioglitazone, 7/84 on vitamin E, and 10/83 on placebo; deaths were not reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1098,
+    "output_tokens": 302,
+    "cost_usd": 0.000261
+  }
+}

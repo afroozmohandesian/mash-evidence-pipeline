@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38892519",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "dietary supplement containing dry extracts of bergamot and artichoke",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "At 12 weeks, fatty liver index improved versus placebo (p < 0.05); several NAFLD indexes also improved versus baseline.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1175,
+    "output_tokens": 297,
+    "cost_usd": 0.000266
+  }
+}

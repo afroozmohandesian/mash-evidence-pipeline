@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "39798707",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "AZD2693",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Liver-targeted antisense oligonucleotide against PNPLA3 mRNA.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "At week 12, placebo-corrected least-square mean changes in hepatic steatosis were −7.6% with 25 mg and −12.2% with 50 mg. At 80 mg, liver PNPLA3 mRNA knockdown was 89%; the abstract also reports reduced protein levels.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Generally well tolerated, with no adverse events leading to discontinuation or treatment-related serious adverse events.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 1",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1415,
+    "output_tokens": 386,
+    "cost_usd": 0.000334
+  }
+}

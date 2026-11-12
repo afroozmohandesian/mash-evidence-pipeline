@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03400163",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "BMS-986036",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Mean change in MRI-measured percent hepatic fat fraction from baseline to Week 16.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious adverse events: 0/0 affected in both arms; deaths: 0. Other adverse-event results were listed as NA.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 2116,
+    "output_tokens": 287,
+    "cost_usd": 0.000355
+  }
+}

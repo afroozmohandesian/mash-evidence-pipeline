@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04669158",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Idebenone",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Participants with treatment-related adverse events assessed by CTCAE v4.0 at 60 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Treatment-related adverse events: 9 participants with idebenone vs 4 with placebo. Serious AEs: 1/29 vs 0/15; deaths: 1 vs 0.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 1/2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1022,
+    "output_tokens": 305,
+    "cost_usd": 0.000255
+  }
+}

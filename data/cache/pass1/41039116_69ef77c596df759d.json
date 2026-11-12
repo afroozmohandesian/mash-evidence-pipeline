@@ -1,0 +1,44 @@
+{
+  "data_source": "PubMed",
+  "source_id": "41039116",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "orlistat",
+      "role": "investigational"
+    },
+    {
+      "name": "semaglutide",
+      "role": "investigational"
+    },
+    {
+      "name": "liraglutide",
+      "role": "investigational"
+    },
+    {
+      "name": "tirzepatide",
+      "role": "investigational"
+    },
+    {
+      "name": "naltrexone/bupropion",
+      "role": "investigational"
+    },
+    {
+      "name": "phentermine/topiramate",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percentage of total body weight loss (TBWL%) at the end of the study.",
+  "efficacy_outcome": "All medications produced significantly greater TBWL% than placebo (P < 0.0001); semaglutide and tirzepatide produced more than 10% TBWL. Tirzepatide was reported effective in remission of MASH, with no quantitative result provided.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1124,
+    "output_tokens": 362,
+    "cost_usd": 0.000293
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05462353",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "ASC41",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Histological change in noncirrhotic subjects with NASH compared with placebo at Week 52 (baseline to Week 52).",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 950,
+    "output_tokens": 103,
+    "cost_usd": 0.000147
+  }
+}

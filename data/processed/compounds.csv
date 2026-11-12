@@ -1,0 +1,332 @@
+drug_name,moa_class,moa_detail,novel_mash_agent,highest_phase_rank,n_trials,n_publications,n_ongoing_trials,n_ongoing_industry_trials,lead_sponsor,main_sponsor_type,any_positive_result,highest_phase
+semaglutide,GLP-1 receptor agonist,GLP-1 receptor agonist,True,3.0,12,12,5,1,Novo Nordisk A/S,Industry,True,Phase 3
+vitamin e,Vitamin / antioxidant / supplement,Antioxidant vitamin,False,3.0,10,4,0,0,,Academic / hospital,True,Phase 3
+saroglitazar,PPAR agonist,PPAR-alpha/gamma agonist,True,3.0,8,1,0,0,Zydus Therapeutics Inc.,Industry,True,Phase 3
+efruxifermin,FGF21 analogue,FGF21 analogue activating FGF receptors,True,3.0,7,6,3,3,"Akero Therapeutics, Inc",Industry,True,Phase 3
+obeticholic acid,FXR agonist,farnesoid X receptor agonist,True,3.0,7,3,1,0,Intercept Pharmaceuticals,Industry,True,Phase 3
+pioglitazone,PPAR agonist,PPAR-gamma agonist,False,3.0,7,5,1,0,AstraZeneca,Academic / hospital,True,Phase 3
+resmetirom,THR-beta agonist,Selective thyroid hormone receptor beta agonist,True,3.0,7,4,5,5,"Madrigal Pharmaceuticals, Inc.",Industry,True,Phase 3
+dapagliflozin,SGLT2 inhibitor,Sodium-glucose cotransporter 2 inhibitor,False,3.0,6,3,1,0,AstraZeneca,Academic / hospital,True,Phase 3
+efimosfermin alfa,FGF21 analogue,Long-acting FGF21 analogue,True,3.0,6,0,5,5,GlaxoSmithKline,Industry,False,Phase 3
+empagliflozin,SGLT2 inhibitor,Sodium-glucose cotransporter 2 inhibitor,False,3.0,6,0,2,0,Boehringer Ingelheim,Academic / hospital,True,Phase 3
+metformin,Insulin sensitiser (other),reduces hepatic glucose production,False,3.0,6,1,0,0,,Government,True,Phase 3
+selonsertib,ASK1 / apoptosis inhibitor,Apoptosis signal-regulating kinase 1 inhibitor,True,3.0,6,1,0,0,Gilead Sciences,Industry,False,Phase 3
+cenicriviroc,CCR2/CCR5 antagonist,CCR2 and CCR5 antagonist,True,3.0,5,0,0,0,"Tobira Therapeutics, Inc.",Industry,False,Phase 3
+omega-3 fatty acids,Lipid-lowering (statin/omega-3/other),reduces triglyceride synthesis,False,3.0,5,1,0,0,,Academic / hospital,True,Phase 3
+pentoxifylline,Other anti-fibrotic / anti-inflammatory,Nonselective phosphodiesterase inhibitor,False,3.0,5,0,0,0,,Academic / hospital,False,Phase 3
+survodutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,3.0,5,4,3,3,Boehringer Ingelheim,Industry,True,Phase 3
+aramchol,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),SCD1 inhibitor,True,3.0,4,1,0,0,"Galmed Research and Development, Ltd.",Industry,False,Phase 3
+denifanstat,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Fatty acid synthase inhibitor,True,3.0,4,1,0,0,Sagimet Biosciences Inc.,Industry,True,Phase 3
+elafibranor,PPAR agonist,PPAR-alpha/delta agonist,True,3.0,4,0,0,0,Genfit,Industry,False,Phase 3
+emricasan,ASK1 / apoptosis inhibitor,Caspase inhibitor.,True,3.0,4,1,0,0,Conatus Pharmaceuticals Inc.,Industry,True,Phase 3
+lanifibranor,PPAR agonist,"Pan-PPAR alpha, delta and gamma agonist",True,3.0,4,3,1,1,Inventiva Pharma,Industry,True,Phase 3
+losartan,Other,Angiotensin II type 1 receptor blocker,False,3.0,4,0,0,0,,Academic / hospital,False,Phase 3
+acetylcysteine,Vitamin / antioxidant / supplement,glutathione precursor and antioxidant,False,3.0,3,1,0,0,ScandiBio Therapeutics AB,Academic / hospital,False,Phase 3
+aln-cideb,RNA therapy (siRNA/ASO),siRNA targeting CIDEB,True,3.0,3,0,3,3,Regeneron Pharmaceuticals,Industry,False,Phase 3
+cholecalciferol,Vitamin / antioxidant / supplement,Vitamin D3,False,3.0,3,0,0,0,,Academic / hospital,False,Phase 3
+hsk31679,Unknown,Mechanism not identified,False,3.0,3,0,1,1,"Haisco Pharmaceutical Group Co., Ltd.",Industry,False,Phase 3
+liraglutide,GLP-1 receptor agonist,GLP-1 receptor agonist,False,3.0,3,4,0,0,,Academic / hospital,True,Phase 3
+oltipraz,Other anti-fibrotic / anti-inflammatory,activates Nrf2 antioxidant response,False,3.0,3,0,0,0,PharmaKing,Industry,False,Phase 3
+pegozafermin,FGF21 analogue,GlycoPEGylated FGF21 analogue,True,3.0,3,2,2,2,Hoffmann-La Roche,Industry,True,Phase 3
+docosahexaenoic acid,Lipid-lowering (statin/omega-3/other),Omega-3 fatty acid,False,3.0,2,0,0,0,,Academic / hospital,False,Phase 3
+mazdutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,3.0,2,0,2,2,Innovent Biologics (Suzhou) Co. Ltd.,Industry,False,Phase 3
+mitoglitazone,Insulin sensitiser (other),"MPC inhibition was linked to activation of mTOR and AMPK signaling, reduced BCKDH phosphorylation, and increased BCAA catabolism.",True,3.0,2,1,0,0,"Cirius Therapeutics, Inc.",Industry,False,Phase 3
+pemvidutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,3.0,2,1,1,1,"Altimmune, Inc.",Industry,True,Phase 3
+rimonabant,Other,Cannabinoid CB1 receptor antagonist,False,3.0,2,0,0,0,Sanofi,Industry,False,Phase 3
+s-adenosylmethionine,Vitamin / antioxidant / supplement,Methyl donor and glutathione precursor,False,3.0,2,0,0,0,Abbott,Government,False,Phase 3
+vitamin d,Vitamin / antioxidant / supplement,Vitamin D supplement,False,3.0,2,2,0,0,,Academic / hospital,True,Phase 3
+13c-methacetin,Other,13C-labelled diagnostic probe,False,3.0,1,0,0,0,,Academic / hospital,False,Phase 3
+combination drug,Combination therapy,Unspecified combination therapy,False,3.0,1,0,0,0,,Academic / hospital,False,Phase 3
+diacerein,Other anti-fibrotic / anti-inflammatory,Interleukin-1 modulating anti-inflammatory,False,3.0,1,0,0,0,,Academic / hospital,False,Phase 3
+diamel,Unknown,Mechanism not established,False,3.0,1,0,0,0,Catalysis SL,Industry,False,Phase 3
+diosmin,Herbal / natural product,Citrus-derived flavonoid,False,3.0,1,0,0,0,,Academic / hospital,False,Phase 3
+dipeptidyl peptidase 4 inhibitor,DPP-4 inhibitor,Dipeptidyl peptidase 4 inhibition,False,3.0,1,0,0,0,,Academic / hospital,False,Phase 3
+docosahexaenoic acid + vitamin e + choline,Combination therapy,"Omega-3 fatty acid, vitamin, and nutrient",False,3.0,1,0,0,0,,Academic / hospital,False,Phase 3
+ergocalciferol,Vitamin / antioxidant / supplement,Vitamin D2,False,3.0,1,0,0,0,,Academic / hospital,False,Phase 3
+essential amino acid supplement,Vitamin / antioxidant / supplement,Essential amino acid nutritional supplementation,False,3.0,1,0,0,0,,Academic / hospital,False,Phase 3
+estradiol,Other,Estrogen receptor agonist hormone therapy,False,3.0,1,0,1,0,,Academic / hospital,False,Phase 3
+godex,Combination therapy,Multicomponent hepatoprotective formulation,False,3.0,1,0,1,0,,Academic / hospital,False,Phase 3
+human placenta hydrolysate,Other,Placenta-derived hydrolysate of unclear mechanism,False,3.0,1,0,1,1,Green Cross Wellbeing,Industry,False,Phase 3
+hydroxychloroquine,Other,Lysosomal and immunomodulatory effects,False,3.0,1,0,1,0,,Academic / hospital,False,Phase 3
+hydroxytyrosol,Vitamin / antioxidant / supplement,Antioxidant activity; the abstract attributes reduced systemic inflammation mainly to increased circulating IL-10 in response to DNA damage recovery.,False,3.0,1,1,0,0,,Academic / hospital,True,Phase 3
+lubiprostone,Other,chloride channel activator,False,3.0,1,0,0,0,,Academic / hospital,False,Phase 3
+metadoxine,Other,pyridoxine-pyrrolidone carboxylate salt,False,3.0,1,0,0,0,,Government,False,Phase 3
+micronutrients + probiotics,Combination therapy,micronutrient supplementation and microbiome modulation,False,3.0,1,0,0,0,"Bonn Education Association for Dietetics r.A., Cologne, Germany",Industry,False,Phase 3
+misocholic tab,Unknown,mechanism not established,False,3.0,1,0,1,0,,Academic / hospital,False,Phase 3
+phosphatidylcholine,Vitamin / antioxidant / supplement,Phospholipid nutritional supplement,False,3.0,1,0,0,0,,Academic / hospital,False,Phase 3
+rosuvastatin,Lipid-lowering (statin/omega-3/other),HMG-CoA reductase inhibitor,False,3.0,1,1,0,0,,Academic / hospital,False,Phase 3
+viusid,Vitamin / antioxidant / supplement,Multi-ingredient nutritional supplement,False,3.0,1,0,0,0,Catalysis SL,Industry,False,Phase 3
+belapectin,Galectin-3 inhibitor,Galectin-3 inhibitor,True,2.5,3,0,0,0,Galectin Therapeutics Inc.,Industry,False,Phase 2/3
+curcumin,Herbal / natural product,Turmeric-derived polyphenol,False,2.5,3,4,0,0,,Academic / hospital,True,Phase 2/3
+roflumilast,Other,Phosphodiesterase 4 inhibitor,False,2.5,3,0,1,0,AstraZeneca,Academic / hospital,False,Phase 2/3
+cysteamine,Other,Cysteine precursor; mechanism in MASH unclear,False,2.5,2,0,0,0,,Academic / hospital,False,Phase 2/3
+exenatide,GLP-1 receptor agonist,GLP-1 receptor agonist,False,2.5,2,2,0,0,,Academic / hospital,True,Phase 2/3
+resveratrol,Herbal / natural product,Plant-derived polyphenol antioxidant,False,2.5,2,1,0,0,,Academic / hospital,False,Phase 2/3
+alpha-tocopherol,Vitamin / antioxidant / supplement,Vitamin E antioxidant,False,2.5,1,0,0,0,,Academic / hospital,False,Phase 2/3
+ascorbic acid,Vitamin / antioxidant / supplement,Vitamin C antioxidant,False,2.5,1,0,0,0,,Academic / hospital,False,Phase 2/3
+caffeine,Other,Adenosine receptor antagonist,False,2.5,1,1,0,0,,Academic / hospital,False,Phase 2/3
+caffeine + chlorogenic acid,Combination therapy,Caffeine plus chlorogenic acid,False,2.5,1,0,0,0,,Academic / hospital,False,Phase 2/3
+chlorogenic acid,Herbal / natural product,Plant polyphenol,False,2.5,1,1,0,0,,Academic / hospital,False,Phase 2/3
+fenugreek seed extract,Herbal / natural product,Fenugreek seed extract,False,2.5,1,0,0,0,,Academic / hospital,False,Phase 2/3
+ginger,Herbal / natural product,Ginger-derived botanical supplement,False,2.5,1,0,0,0,,Academic / hospital,False,Phase 2/3
+rupatadine,Other,H1 receptor antagonist that also inhibits the actions of platelet activation factor (PAF).,False,2.5,1,0,1,0,,Academic / hospital,False,Phase 2/3
+synbiotic,Probiotic / microbiome,Probiotic and prebiotic combination,False,2.5,1,0,0,0,,Academic / hospital,False,Phase 2/3
+pegbelfermin,FGF21 analogue,PEGylated FGF21 analogue,True,2.0,5,1,0,0,Bristol-Myers Squibb,Industry,True,Phase 2
+amoxicillin,Other,Beta-lactam antibiotic,False,2.0,4,0,0,0,,Academic / hospital,False,Phase 2
+azithromycin,Other,Macrolide antibiotic,False,2.0,4,0,0,0,,Academic / hospital,False,Phase 2
+bismuth subcitrate,Other,Gastrointestinal mucosal protectant,False,2.0,4,0,0,0,,Academic / hospital,False,Phase 2
+cilofexor,FXR agonist,Farnesoid X receptor agonist,True,2.0,4,0,0,0,Gilead Sciences,Industry,False,Phase 2
+efinopegdutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,2.0,4,1,0,0,Merck Sharp & Dohme LLC,Industry,True,Phase 2
+firsocostat,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Acetyl-CoA carboxylase inhibitor,True,2.0,4,0,0,0,Gilead Sciences,Industry,False,Phase 2
+omeprazole,Other,Proton pump inhibitor,False,2.0,4,0,0,0,,Academic / hospital,False,Phase 2
+pf-05221304,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Acetyl-CoA carboxylase inhibitor,True,2.0,4,1,0,0,Pfizer,Industry,True,Phase 2
+tropifexor,FXR agonist,Farnesoid X receptor agonist,True,2.0,4,0,0,0,Novartis Pharmaceuticals,Industry,False,Phase 2
+aldafermin,FGF19 analogue,engineered FGF19 analogue,True,2.0,3,1,0,0,"NGM Biopharmaceuticals, Inc",Industry,True,Phase 2
+cotadutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,2.0,3,3,0,0,AstraZeneca,Industry,True,Phase 2
+hu6,Other,Mitochondrial uncoupling agent,True,2.0,3,0,2,2,"Rivus Pharmaceuticals, Inc.",Industry,False,Phase 2
+imm-124e,Other anti-fibrotic / anti-inflammatory,Oral bovine colostrum-derived immunotherapy,True,2.0,3,0,0,0,Immuron Ltd.,Industry,False,Phase 2
+metreleptin,Other,leptin receptor agonist,False,2.0,3,0,0,0,,Academic / hospital,True,Phase 2
+pemafibrate,PPAR agonist,Extended-release selective PPAR-alpha agonist,False,2.0,3,1,0,0,"Kowa Company, Ltd.",Industry,False,Phase 2
+pf-06865571,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Diacylglycerol acyltransferase 2 inhibitor,True,2.0,3,1,0,0,Pfizer,Industry,True,Phase 2
+CS060380,Unknown,Mechanism not established,False,2.0,2,0,2,0,,Academic / hospital,False,Phase 2
+EDP-305,FXR agonist,Farnesoid X receptor agonist,True,2.0,2,0,0,0,"Enanta Pharmaceuticals, Inc",Industry,False,Phase 2
+aln-pnp,RNA therapy (siRNA/ASO),siRNA targeting PNPLA3.,True,2.0,2,0,2,2,Regeneron Pharmaceuticals,Industry,False,Phase 2
+amlexanox,Insulin sensitiser (other),TBK1 and IKK-epsilon inhibitor,False,2.0,2,0,0,0,,Academic / hospital,True,Phase 2
+asc41,THR-beta agonist,Thyroid hormone receptor beta agonist,True,2.0,2,0,0,0,"Gannex Pharma Co., Ltd.",Industry,False,Phase 2
+atorvastatin,Lipid-lowering (statin/omega-3/other),HMG-CoA reductase inhibitor,False,2.0,2,0,1,0,,Academic / hospital,False,Phase 2
+berberine,Herbal / natural product,Plant-derived alkaloid; multiple metabolic actions,False,2.0,2,1,0,0,,Academic / hospital,False,Phase 2
+berberine + ursodeoxycholate,Combination therapy,Berberine combined with ursodeoxycholate,True,2.0,2,1,0,0,HighTide Therapeutics (Hong Kong) Limited,Industry,True,Phase 2
+betaine,Vitamin / antioxidant / supplement,Methyl donor and osmolyte supplement,False,2.0,2,0,1,0,,Academic / hospital,False,Phase 2
+chiglitazar,PPAR agonist,Pan-PPAR agonist,True,2.0,2,1,1,0,"Chipscreen Biosciences, Ltd.",Academic / hospital,True,Phase 2
+coenzyme q10,Vitamin / antioxidant / supplement,Mitochondrial antioxidant supplement,False,2.0,2,0,1,0,,Academic / hospital,False,Phase 2
+digoxin,Other,Cardiac glycoside; sodium-potassium ATPase inhibitor,False,2.0,2,0,1,0,,Academic / hospital,False,Phase 2
+elobixibat,Other,Ileal bile acid transporter inhibitor,False,2.0,2,0,0,0,Albireo,Academic / hospital,True,Phase 2
+ezetimibe,Lipid-lowering (statin/omega-3/other),NPC1L1 cholesterol absorption inhibitor,False,2.0,2,0,0,0,,Academic / hospital,False,Phase 2
+febuxostat,Other,Xanthine oxidase inhibitor,False,2.0,2,0,1,0,,Academic / hospital,False,Phase 2
+gemcabene,Lipid-lowering (statin/omega-3/other),Reduces hepatic apoC-III and inflammatory lipids,True,2.0,2,0,0,0,,Academic / hospital,False,Phase 2
+gsk4532990,RNA therapy (siRNA/ASO),17 β-Hydroxysteroid Dehydrogenase Type 13 minimization.,True,2.0,2,0,1,1,GlaxoSmithKline,Industry,True,Phase 2
+icosabutate,Lipid-lowering (statin/omega-3/other),Modulates PPAR signaling,True,2.0,2,0,0,0,Afimmune,Industry,False,Phase 2
+l-carnitine,Vitamin / antioxidant / supplement,Carnitine supports fatty-acid transport,False,2.0,2,0,0,0,ScandiBio Therapeutics AB,Academic / hospital,False,Phase 2
+levothyroxine,Other,Synthetic thyroid hormone replacement,False,2.0,2,0,1,0,,Academic / hospital,False,Phase 2
+licogliflozin,SGLT2 inhibitor,Dual SGLT1 and SGLT2 inhibitor,True,2.0,2,0,0,0,Novartis Pharmaceuticals,Industry,False,Phase 2
+lpcn 1144,Insulin sensitiser (other),Oral testosterone replacement prodrug,True,2.0,2,0,0,0,Lipocine Inc.,Industry,True,Phase 2
+miricorilant,Other anti-fibrotic / anti-inflammatory,glucocorticoid receptor modulator,True,2.0,2,0,0,0,Corcept Therapeutics,Industry,False,Phase 2
+namodenoson,Other,A3 adenosine receptor agonist,True,2.0,2,0,0,0,Can-Fite BioPharma,Industry,False,Phase 2
+nicotinamide,Vitamin / antioxidant / supplement,vitamin B3 form and NAD precursor,False,2.0,2,0,1,0,,Academic / hospital,False,Phase 2
+omega-3 carboxylic acids,Lipid-lowering (statin/omega-3/other),reduces triglyceride synthesis,False,2.0,2,0,0,0,AstraZeneca,Industry,True,Phase 2
+ormd-0801,Other,Oral insulin,True,2.0,2,0,0,0,"Oramed, Ltd.",Industry,False,Phase 2
+pf-06835919,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Ketohexokinase inhibitor,True,2.0,2,0,0,0,Pfizer,Industry,False,Phase 2
+rencofilstat,Other anti-fibrotic / anti-inflammatory,Cyclophilin inhibitor,True,2.0,2,1,0,0,"Hepion Pharmaceuticals, Inc.",Industry,False,Phase 2
+rosiglitazone,PPAR agonist,PPAR-gamma agonist,False,2.0,2,0,0,0,,Academic / hospital,False,Phase 2
+serine,Vitamin / antioxidant / supplement,Amino acid supplement,False,2.0,2,0,0,0,ScandiBio Therapeutics AB,Academic / hospital,False,Phase 2
+silymarin,Herbal / natural product,Milk thistle extract,False,2.0,2,3,0,0,Madaus Inc,Academic / hospital,True,Phase 2
+simtuzumab,Other anti-fibrotic / anti-inflammatory,Monoclonal antibody against lysyl oxidase-like 2 (LOXL2).,True,2.0,2,0,0,0,Gilead Sciences,Industry,False,Phase 2
+spironolactone,Other,Mineralocorticoid receptor antagonist,False,2.0,2,0,0,0,,Academic / hospital,False,Phase 2
+tern-101,FXR agonist,Farnesoid X receptor agonist,True,2.0,2,1,0,0,"Terns, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",Industry,True,Phase 2
+tesamorelin,Other,GHRH analog.,False,2.0,2,0,1,1,Hudson Biotech,Academic / hospital,False,Phase 2
+testosterone,Other,Androgen receptor agonist,False,2.0,2,0,0,0,Lipocine Inc.,Academic / hospital,True,Phase 2
+tipelukast,Other anti-fibrotic / anti-inflammatory,"Novel, orally bioavailable small molecule with anti-inflammatory activity.",True,2.0,2,0,1,1,MediciNova,Industry,False,Phase 2
+tirzepatide,GLP-1/GIP dual agonist,GLP-1 and GIP receptor agonist,True,2.0,2,5,0,0,Eli Lilly and Company,Academic / hospital,True,Phase 2
+ursodeoxycholic acid,Bile acid / UDCA,Hydrophilic bile acid,False,2.0,2,0,0,0,Axcan Pharma,Academic / hospital,False,Phase 2
+vk2809,THR-beta agonist,Liver-targeted THR-beta agonist,True,2.0,2,0,0,0,"Viking Therapeutics, Inc.",Industry,False,Phase 2
+vonafexor,FXR agonist,Farnesoid X receptor agonist,True,2.0,2,0,0,0,Enyo Pharma,Industry,True,Phase 2
+zsp1601,CCR2/CCR5 antagonist,CCR2 and CCR5 antagonist,True,2.0,2,0,1,1,"Guangdong Raynovent Biotech Co., Ltd",Industry,False,Phase 2
+68ga-fapi-46,Other,Radiolabelled fibroblast activation protein imaging tracer,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+CM-101,Other anti-fibrotic / anti-inflammatory,Monoclonal antibody blocking CCL24.,True,2.0,1,0,0,0,ChemomAb Ltd.,Industry,False,Phase 2
+CRV431,Other anti-fibrotic / anti-inflammatory,Cyclophilin inhibitor,True,2.0,1,0,0,0,"Hepion Pharmaceuticals, Inc.",Industry,False,Phase 2
+CSG452,Unknown,Mechanism not established,False,2.0,1,0,0,0,"Kowa Research Institute, Inc.",Industry,False,Phase 2
+DA-1241,Other,GPR119 agonist,True,2.0,1,0,0,0,NeuroBo Pharmaceuticals Inc.,Industry,False,Phase 2
+DD01,GLP-1/glucagon dual agonist,Dual GLP-1 and glucagon receptor agonist,True,2.0,1,0,0,0,"Neuraly, Inc.",Industry,False,Phase 2
+DR10624,GLP-1/GIP/glucagon triple agonist,"GLP-1, GIP, and glucagon receptor agonist",True,2.0,1,0,1,1,"Zhejiang Doer Biologics Co., Ltd.",Industry,False,Phase 2
+ECC0509,Unknown,ECC4703 is a thyroid hormone receptor beta isoform (THRβ) agonist; ECC0509 is a semicarbazide sensitive amine oxidase (SSAO) inhibitor.,False,2.0,1,0,1,1,Eccogene,Industry,False,Phase 2
+ECC4703,Unknown,ECC4703 is a thyroid hormone receptor beta isoform (THRβ) agonist; ECC0509 is a semicarbazide sensitive amine oxidase (SSAO) inhibitor.,False,2.0,1,0,1,1,Eccogene,Industry,False,Phase 2
+acarbose,Other,Alpha-glucosidase inhibitor,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+alg-055009,THR-beta agonist,Thyroid hormone receptor beta agonist,True,2.0,1,0,0,0,Aligos Therapeutics,Industry,False,Phase 2
+aln-hsd,RNA therapy (siRNA/ASO),siRNA targeting HSD17B13,True,2.0,1,0,1,1,Regeneron Pharmaceuticals,Industry,False,Phase 2
+als-l1023,Herbal / natural product,Lagenaria siceraria extract,False,2.0,1,0,0,0,"AngioLab, Inc.",Industry,False,Phase 2
+anaerobutyricum soehngenii,Probiotic / microbiome,Gut microbiome bacterial therapeutic,True,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+ari-3037mo,Unknown,Mechanism not established,False,2.0,1,0,0,0,Arisaph Pharmaceuticals Inc,Industry,False,Phase 2
+aro-inhbe,RNA therapy (siRNA/ASO),siRNA targeting INHBE,True,2.0,1,0,1,1,Arrowhead Pharmaceuticals,Industry,False,Phase 2
+asp9831,Unknown,PDE4 inhibitor,False,2.0,1,0,0,0,Astellas Pharma Inc,Industry,False,Phase 2
+avenciguat,Other anti-fibrotic / anti-inflammatory,Soluble guanylate cyclase stimulator,True,2.0,1,0,0,0,Boehringer Ingelheim,Industry,False,Phase 2
+axa1125,Combination therapy,Amino acid and metabolic substrate combination,True,2.0,1,0,0,0,"Axcella Health, Inc",Industry,False,Phase 2
+az compound,Unknown,Insufficiently specified compound,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+azd2693,RNA therapy (siRNA/ASO),Antisense oligonucleotide targeting PNPLA3,True,2.0,1,1,0,0,AstraZeneca,Industry,False,Phase 2
+bfkb8488a,FGF21 analogue,FGFR1c-beta-Klotho agonist antibody,True,2.0,1,0,0,0,"Genentech, Inc.",Industry,False,Phase 2
+bi 1467335,Other anti-fibrotic / anti-inflammatory,Semicarbazide-sensitive amine oxidase inhibitor,True,2.0,1,0,0,0,Boehringer Ingelheim,Industry,False,Phase 2
+bi 3802876,Unknown,Mechanism not established,False,2.0,1,0,1,1,Boehringer Ingelheim,Industry,False,Phase 2
+bi 770371,Unknown,Mechanism not established,False,2.0,1,0,0,0,Boehringer Ingelheim,Industry,False,Phase 2
+bifidobacterium animalis subsp. lactis,Probiotic / microbiome,Probiotic bacterial species,False,2.0,1,1,0,0,,Academic / hospital,True,Phase 2
+bms-986263,RNA therapy (siRNA/ASO),HSP47-targeting siRNA,True,2.0,1,0,0,0,Bristol-Myers Squibb,Industry,False,Phase 2
+cannabidiol,Herbal / natural product,Non-intoxicating cannabinoid,False,2.0,1,1,0,0,GW Research Ltd,Industry,False,Phase 2
+carbocisteine,Other,Free radical scavenging and anti-inflammatory properties.,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+chazhu xiaozhi decoction,Herbal / natural product,Traditional multi-herb decoction,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+cholestyramine,Bile acid / UDCA,Bile acid sequestrant,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+cilofexor + firsocostat,Combination therapy,FXR agonist plus ACC inhibitor,True,2.0,1,1,0,0,Gilead Sciences,Industry,True,Phase 2
+colesevelam,Bile acid / UDCA,Bile acid sequestrant,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+cynara scolymus + silybum marianum + curcuma longa + glycyrrhiza glabra,Combination therapy,Combination of herbal extracts,False,2.0,1,0,1,0,,Government,False,Phase 2
+docosahexaenoic acid ethyl ester,Lipid-lowering (statin/omega-3/other),omega-3 fatty acid ethyl ester,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+docosahexaenoic acid ethyl ester + alpha-tocopheryl acetate,Combination therapy,omega-3 fatty acid plus antioxidant vitamin,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+efamax,Unknown,Mechanism not established,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+efocipegtrutide,GLP-1/GIP/glucagon triple agonist,"GLP-1, GIP and glucagon receptor agonist",True,2.0,1,0,0,0,Hanmi Pharmaceutical Company Limited,Industry,False,Phase 2
+essential amino acid supplementation,Vitamin / antioxidant / supplement,Essential amino acid nutritional supplementation,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+fecal microbiota transplantation,Probiotic / microbiome,modulates gut microbiota,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+fenofibrate,PPAR agonist,Cilofexor is a farnesoid X receptor agonist; firsocostat is an acetyl-CoA carboxylase inhibitor. Mechanisms for icosapent ethyl and fenofibrate are not stated.,False,2.0,1,1,0,0,Gilead Sciences,Industry,True,Phase 2
+fish oil,Lipid-lowering (statin/omega-3/other),Omega-3 fatty acid supplement,False,2.0,1,1,0,0,,Academic / hospital,True,Phase 2
+fm101,Unknown,Unrecognized development code,False,2.0,1,0,0,0,Future Medicine,Industry,False,Phase 2
+foralumab,Other,Anti CD3 mAb,False,2.0,1,0,0,0,Tiziana Life Sciences LTD,Industry,False,Phase 2
+fructo-oligosaccharides,Probiotic / microbiome,Prebiotic selectively supporting gut bacteria,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+ganzhixiao,Herbal / natural product,Traditional herbal formulation,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+glucomannan,Vitamin / antioxidant / supplement,Soluble dietary fiber supplement,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+gs-9450,ASK1 / apoptosis inhibitor,"Caspase inhibitor targeting caspases 1, 8, 9",True,2.0,1,0,0,0,Gilead Sciences,Industry,False,Phase 2
+guanabenz,Other,Alpha-2 adrenergic receptor agonist,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+hec96719,FXR agonist,Farnesoid X receptor agonist,True,2.0,1,0,0,0,"Sunshine Lake Pharma Co., Ltd.",Industry,False,Phase 2
+hepar-p,Unknown,Unrecognized product name,False,2.0,1,0,0,0,Nova Laboratories Sdn Bhd,Industry,False,Phase 2
+heptex,Unknown,Anti-oxidant activity.,False,2.0,1,0,0,0,Natural Wellness Egypt,Industry,False,Phase 2
+hl,Unknown,Mechanism not identified,False,2.0,1,0,0,0,"Huons Co., Ltd.",Industry,False,Phase 2
+hp515,Unknown,Mechanism not identified,False,2.0,1,0,1,1,Hinova Pharmaceuticals Inc.,Industry,False,Phase 2
+hpg1860,Unknown,Mechanism not identified,False,2.0,1,0,0,0,"Hepagene (Shanghai) Co., Ltd.",Industry,False,Phase 2
+hrs-4729,Unknown,Mechanism not identified,False,2.0,1,0,1,1,"Fujian Shengdi Pharmaceutical Co., Ltd.",Industry,False,Phase 2
+hrs9531,GLP-1 receptor agonist,GLP-1 receptor agonist,True,2.0,1,0,1,1,"Fujian Shengdi Pharmaceutical Co., Ltd.",Industry,False,Phase 2
+huhuanglianzonggan,Herbal / natural product,Traditional multi-herb formulation,False,2.0,1,0,0,0,"Tasly Pharmaceutical Group Co., Ltd",Industry,False,Phase 2
+ibutamoren,Other,Oral growth hormone secretagogue.,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+icosapent ethyl,Lipid-lowering (statin/omega-3/other),Cilofexor is a farnesoid X receptor agonist; firsocostat is an acetyl-CoA carboxylase inhibitor. Mechanisms for icosapent ethyl and fenofibrate are not stated.,False,2.0,1,1,0,0,"Mochida Pharmaceutical Company, Ltd.",Industry,True,Phase 2
+insulin,Insulin sensitiser (other),Oral insulin replacement,False,2.0,1,0,0,0,"Oramed, Ltd.",Industry,True,Phase 2
+ion224,RNA therapy (siRNA/ASO),"Liver-directed antisense inhibitor of diacylglycerol O-acyltransferase 2 (DGAT2), suppressing de novo lipogenesis.",True,2.0,1,1,0,0,"Ionis Pharmaceuticals, Inc.",Industry,True,Phase 2
+itopride,Other,Dopamine D2 antagonist and acetylcholinesterase inhibitor,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+j2h-1702,Unknown,Mechanism not identified,False,2.0,1,0,0,0,J2H Biotech,Industry,False,Phase 2
+jkb-121,Other anti-fibrotic / anti-inflammatory,TLR4 antagonist,True,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+jkb-122,Other anti-fibrotic / anti-inflammatory,TLR4 antagonist,True,2.0,1,0,0,0,"TaiwanJ Pharmaceuticals Co., Ltd",Industry,False,Phase 2
+ketohexokinase inhibition,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Ketohexokinase inhibition,True,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+lactiplantibacillus plantarum probiotic mixture,Probiotic / microbiome,Designed to modulate gut microbiota and improve liver health in MASLD patients.,False,2.0,1,0,1,1,"AB Biotics, SA",Industry,False,Phase 2
+lactobacillus casei shirota,Probiotic / microbiome,Modulates gut microbiota,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+leronlimab,CCR2/CCR5 antagonist,CCR5 monoclonal antibody antagonist,False,2.0,1,0,0,0,"CytoDyn, Inc.",Industry,False,Phase 2
+linafexor,FXR agonist,Farnesoid X receptor agonist,True,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+linerixibat,Bile acid / UDCA,Apical sodium-dependent bile acid transport (ASBT) inhibitor.,True,2.0,1,0,0,0,"Mirum Pharmaceuticals, Inc.",Industry,False,Phase 2
+linzhi jianghuang fufang huoxue anshen,Herbal / natural product,Traditional multi-herb formulation,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+lisinopril,Other,Angiotensin-converting enzyme inhibitor,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+lmb763,FXR agonist,Farnesoid X receptor agonist,True,2.0,1,0,0,0,Novartis Pharmaceuticals,Industry,False,Phase 2
+longqi jiangzhi decoction,Herbal / natural product,Traditional multi-herb formulation,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+lys006,Other anti-fibrotic / anti-inflammatory,leukotriene A4 hydrolase inhibitor,True,2.0,1,0,0,0,Novartis Pharmaceuticals,Industry,False,Phase 2
+mb12066,Unknown,mechanism not established,False,2.0,1,0,0,0,"Yungjin Pharm. Co., Ltd.",Industry,False,Phase 2
+met409,FXR agonist,farnesoid X receptor agonist,True,2.0,1,0,0,0,"Metacrine, Inc.",Industry,False,Phase 2
+met642,FXR agonist,farnesoid X receptor agonist,True,2.0,1,0,0,0,"Metacrine, Inc.",Industry,False,Phase 2
+milk thistle,Herbal / natural product,silymarin-containing botanical extract,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+misoprostol,Other,Prostaglandin E1 analogue.,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+mitiperstat,Other anti-fibrotic / anti-inflammatory,Myeloperoxidase inhibitor,True,2.0,1,0,0,0,AstraZeneca,Industry,False,Phase 2
+mitoquinone,Vitamin / antioxidant / supplement,mitochondria-targeted antioxidant,False,2.0,1,0,0,0,"Antipodean Pharmaceuticals, Inc.",Industry,False,Phase 2
+mt-3995,PPAR agonist,peroxisome proliferator-activated receptor agonist,True,2.0,1,0,0,0,Tanabe Pharma Corporation,Industry,False,Phase 2
+multispecies probiotics + calcium butyrate + fructooligosaccharides,Combination therapy,Probiotics with butyrate and prebiotic fiber,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+muromonab-CD3,Other,Anti-CD3 monoclonal antibody; the study evaluates its immune-modulatory effects.,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+nicotinamide riboside,Vitamin / antioxidant / supplement,NAD precursor,False,2.0,1,0,0,0,ScandiBio Therapeutics AB,Industry,False,Phase 2
+nitazoxanide,Other,antiprotozoal and antimicrobial agent,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+nnc0174 0833,Unknown,mechanism not established,False,2.0,1,0,0,0,Novo Nordisk A/S,Industry,False,Phase 2
+nnc0194 0499,Unknown,mechanism not established,False,2.0,1,0,0,0,Novo Nordisk A/S,Industry,False,Phase 2
+norursodeoxycholic acid,Bile acid / UDCA,side-chain-shortened hydrophilic bile acid,True,2.0,1,0,0,0,Dr. Falk Pharma GmbH,Industry,False,Phase 2
+nrl972,Unknown,mechanism not established,False,2.0,1,0,0,0,Norgine,Industry,False,Phase 2
+ns-0200,Unknown,mechanism not established,False,2.0,1,0,0,0,NuSirt Biopharma,Industry,False,Phase 2
+olesoxime,Other,Mitochondrial membrane-targeting neuroprotective agent,False,2.0,1,0,0,0,Hoffmann-La Roche,Industry,False,Phase 2
+olezarsen,RNA therapy (siRNA/ASO),Antisense oligonucleotide targeting APOC3,True,2.0,1,0,0,0,Akcea Therapeutics,Industry,True,Phase 2
+omega-3-acid ethyl esters,Lipid-lowering (statin/omega-3/other),Omega-3 fatty acids reduce triglycerides,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+palm tocotrienols complex,Vitamin / antioxidant / supplement,Vitamin E tocotrienol antioxidant supplement,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+pasteurized akkermansia muciniphila,Probiotic / microbiome,Pasteurized gut microbiome bacterium,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+pegargiminase,Other,PEGylated arginine deiminase,True,2.0,1,0,1,1,Polaris Group,Industry,False,Phase 2
+phosphatidylcholine + curcumin,Combination therapy,Phospholipid and curcumin supplement combination,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+pradigastat,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Diacylglycerol acyltransferase 1 inhibitor,True,2.0,1,0,0,0,Novartis Pharmaceuticals,Industry,False,Phase 2
+prim-dj2727,Unknown,Mechanism not established,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+proliverenol,Unknown,Mechanism not established,False,2.0,1,0,0,0,Dexa Medica Group,Industry,False,Phase 2
+px-104,FXR agonist,Farnesoid X receptor (FXR) agonist.,True,2.0,1,1,0,0,Phenex Pharmaceuticals AG,Industry,False,Phase 2
+pxl065,Insulin sensitiser (other),Deuterated R-pioglitazone mitochondrial modulator,True,2.0,1,0,0,0,Poxel SA,Industry,True,Phase 2
+pxl770,Other,Direct AMP-activated protein kinase activator,True,2.0,1,0,0,0,Poxel SA,Industry,False,Phase 2
+ql2401,Unknown,Mechanism not established,False,2.0,1,0,1,1,"Qilu Pharmaceutical Co., Ltd.",Industry,False,Phase 2
+qurse revand,Herbal / natural product,Traditional botanical preparation,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+runihol,Unknown,Mechanism not established,False,2.0,1,0,0,0,POLYSAN Scientific & Technological Pharmaceutical Company,Industry,False,Phase 2
+rutin + ascorbic acid,Combination therapy,Flavonoid and vitamin antioxidant combination,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+seladelpar,PPAR agonist,PPAR-delta agonist,True,2.0,1,0,0,0,Gilead Sciences,Industry,False,Phase 2
+sgm-1019,Unknown,Unknown,False,2.0,1,0,0,0,Second Genome,Industry,False,Phase 2
+silybin,Herbal / natural product,Milk-thistle flavonolignan extract,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+sitagliptin,DPP-4 inhibitor,Dipeptidyl peptidase-4 inhibitor,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+snp-610,Unknown,Unknown,False,2.0,1,0,1,1,Sinew Pharma Inc.,Industry,False,Phase 2
+snp-612,Unknown,Unknown,False,2.0,1,0,0,0,Sinew Pharma Inc.,Industry,False,Phase 2
+solithromycin,Other,Ketolide antibiotic,False,2.0,1,0,0,0,"Melinta Therapeutics, Inc.",Industry,False,Phase 2
+somatropin,Other,Recombinant human growth hormone,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+standard soy milk,Other,Soy-based food,False,2.0,1,0,1,0,,Academic / hospital,False,Phase 2
+tern-501,THR-beta agonist,TERN-501 is a thyroid hormone receptor-beta (THRβ) agonist; TERN-101 is a farnesoid X receptor agonist.,True,2.0,1,1,0,0,"Terns, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",Industry,True,Phase 2
+tev-45478,Unknown,Unknown,False,2.0,1,0,0,0,"Teva Branded Pharmaceutical Products R&D, Inc.",Industry,False,Phase 2
+tlc-2716,Unknown,Unknown,False,2.0,1,0,0,0,"OrsoBio, Inc",Industry,False,Phase 2
+tocotrienol,Vitamin / antioxidant / supplement,Vitamin E family antioxidant,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+tqa2225 + ap025,Combination therapy,Recombinant human FGF21-Fc fusion protein.,False,2.0,1,0,1,1,"Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",Industry,False,Phase 2
+trimetazidine,Other,Inhibits fatty acid beta-oxidation,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+ubt251,GLP-1/GIP/glucagon triple agonist,"GLP-1, GIP and glucagon receptor agonist",True,2.0,1,0,1,1,"The United Bio-Technology (Hengqin) Co., Ltd.",Industry,False,Phase 2
+vas,Unknown,Unknown,False,2.0,1,0,0,0,Gilead Sciences,Industry,False,Phase 2
+vigabatrin,Other,Irreversible GABA transaminase inhibitor,False,2.0,1,0,0,0,,Academic / hospital,False,Phase 2
+vsa006,Unknown,Unknown,False,2.0,1,0,1,1,Visirna Therapeutics HK Limited,Industry,False,Phase 2
+zed1227,Other,Peptidomimetic designed to inhibit human tissue transglutaminase 2 (TG2).,False,2.0,1,0,0,0,Dr. Falk Pharma GmbH,Industry,False,Phase 2
+cilostazol,Other,Phosphodiesterase 3 inhibitor,False,1.5,2,0,1,0,,Academic / hospital,False,Phase 1/2
+align probiotic supplement,Probiotic / microbiome,Probiotic bacterial supplement,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+aro-hsd,RNA therapy (siRNA/ASO),siRNA targeting HSD17B13,True,1.5,1,0,0,0,Arrowhead Pharmaceuticals,Industry,False,Phase 1/2
+aspirin,Other,Cyclooxygenase inhibitor,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+beta-glucosylceramide,Other,Glycosphingolipid immunomodulator,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+bgt-002,Unknown,Mechanism not established,False,1.5,1,0,0,0,"Burgeon Therapeutics Co., Ltd.",Industry,False,Phase 1/2
+bms-986251,Unknown,Mechanism not established,False,1.5,1,0,0,0,Bristol-Myers Squibb,Industry,False,Phase 1/2
+bovine colostrum powder,Vitamin / antioxidant / supplement,Nutritional supplement,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+dasatinib,Other,Multikinase inhibitor; senolytic use investigated,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+deferasirox,Other,Oral iron chelator,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+dihydroartemisinin,Other,Artemisinin derivative; antimalarial,False,1.5,1,0,1,0,,Academic / hospital,False,Phase 1/2
+erdosteine,Other,Erdosteine is an oral mucoactive agent with antioxidant and anti-inflammatory properties; it also reduces bacterial adhesiveness and enhances the effects of antibiotic therapy.,False,1.5,1,0,1,0,,Academic / hospital,False,Phase 1/2
+esomeprazole,Other,Proton pump inhibitor,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+ft-4101,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Fatty acid synthase inhibitor,True,1.5,1,0,0,0,"Forma Therapeutics, Inc.",Industry,False,Phase 1/2
+gb1211,Galectin-3 inhibitor,Galectin-3 inhibitor; described as an orally available small-molecule anti-fibrotic.,True,1.5,1,0,0,0,Galecto Biotech AB,Industry,False,Phase 1/2
+gh509,Unknown,Unrecognized development code,False,1.5,1,0,0,0,"1Globe Biomedical Co., Ltd.",Industry,False,Phase 1/2
+hepastem,Other anti-fibrotic / anti-inflammatory,Allogeneic liver-derived progenitor cell therapy,True,1.5,1,0,0,0,Cellaion SA,Industry,False,Phase 1/2
+idebenone,Vitamin / antioxidant / supplement,Coenzyme Q10 analogue antioxidant,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+imm-h014,Unknown,Mechanism not identified,False,1.5,1,0,1,1,Changchun Intellicrown Pharmaceutical Co. LTD,Industry,False,Phase 1/2
+montelukast,Other anti-fibrotic / anti-inflammatory,Leukotriene receptor antagonist.,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+opk-88006,GLP-1 receptor agonist,GLP-1 receptor agonist,True,1.5,1,0,1,1,"OPKO Health, Inc.",Industry,False,Phase 1/2
+probiotic-containing powder,Probiotic / microbiome,Probiotic microbial formulation,False,1.5,1,0,0,0,,Government,False,Phase 1/2
+probiotics,Probiotic / microbiome,Live beneficial microorganisms,False,1.5,1,2,0,0,,Academic / hospital,True,Phase 1/2
+quercetin,Herbal / natural product,Plant-derived flavonoid antioxidant,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+tgm-312-sc01,Unknown,Unknown,False,1.5,1,0,1,1,Tangram Therapeutics Plc,Industry,False,Phase 1/2
+vsl#3,Probiotic / microbiome,Multistrain probiotic formulation,False,1.5,1,0,0,0,,Academic / hospital,False,Phase 1/2
+vv-14303,Unknown,Adeno-associated virus vector-mediated fibroblast growth factor 21 (FGF21) gene therapy.,False,1.5,1,0,1,1,"Kriya Therapeutics, Inc.",Industry,False,Phase 1/2
+rapirosiran,RNA therapy (siRNA/ASO),N-acetylgalactosamine-conjugated small-interfering RNA targeting liver-expressed HSD17B13 mRNA.,True,1.0,0,1,0,0,,,False,Phase 1
+DPP-4 inhibitors,DPP-4 inhibitor,Dipeptidyl peptidase 4 inhibition,False,,0,1,0,0,,,False,Not reported
+bergamot + artichoke extract,Combination therapy,Combination of botanical extracts,False,,0,1,0,0,,,True,Not reported
+beta-cryptoxanthin,Vitamin / antioxidant / supplement,Dietary carotenoid antioxidant,False,,0,1,0,0,,,True,Not reported
+bile acids,Bile acid / UDCA,Endogenous bile acids,False,,0,1,0,0,,,False,Not reported
+broccoli seed,Herbal / natural product,"Sulforaphane increased Bacteroides and Lactobacillus, promoting SCFA production and GPR41/43 activation, which increased GLP-1; it also protected the intestinal mucosal barrier and reduced inflammation.",False,,0,1,0,0,,,False,Not reported
+catechin,Herbal / natural product,Plant-derived flavonoid antioxidant,False,,0,1,0,0,,,False,Not reported
+ccr2 + ccr5 antagonists,CCR2/CCR5 antagonist,"Mechanisms under investigation include farnesoid X nuclear receptor agonism, C-C motif chemokine receptor 2 and receptor 5 antagonism, stearoyl-CoA desaturase-1, and thyroid hormone receptor beta agonism.",False,,0,1,0,0,,,False,Not reported
+chromium picolinate,Vitamin / antioxidant / supplement,Chromium supplement,False,,0,1,0,0,,,False,Not reported
+cilofexor + selonsertib,Combination therapy,FXR agonist plus ASK1 inhibitor,True,,0,1,0,0,,,True,Not reported
+curcuminoids,Herbal / natural product,Anti-inflammatory role; the source suggests improved inflammatory cytokine levels may contribute to anti-steatotic effects.,False,,0,1,0,0,,,True,Not reported
+danshao shugan granules,Herbal / natural product,The authors attributed DSSG effects to increased superoxide dismutase activity and reduced malondialdehyde and NF-κB activity in a rat NAFLD model.,False,,0,1,0,0,,,False,Not reported
+dulaglutide,GLP-1 receptor agonist,GLP-1 receptor agonists,False,,0,2,0,0,,,True,Not reported
+epigallocatechin gallate,Herbal / natural product,Inhibits the expression and activity of dipeptidyl peptidase 4 (DPP4).,False,,0,1,0,0,,,False,Not reported
+ertugliflozin,SGLT2 inhibitor,Sodium-glucose cotransporter 2 (SGLT2) inhibitor.,False,,0,1,0,0,,,True,Not reported
+farnesoid X receptor agonists,FXR agonist,"Mechanisms under investigation include farnesoid X nuclear receptor agonism, C-C motif chemokine receptor 2 and receptor 5 antagonism, stearoyl-CoA desaturase-1, and thyroid hormone receptor beta agonism.",False,,0,1,0,0,,,False,Not reported
+genistein,Herbal / natural product,Soy-derived isoflavone phytoestrogen,False,,0,1,0,0,,,False,Not reported
+glp-1 receptor agonists,GLP-1 receptor agonist,Glucagon-like peptide-1 receptor agonism,False,,0,4,0,0,,,True,Not reported
+green tea extract,Herbal / natural product,Tea-derived polyphenol mixture,False,,0,1,0,0,,,False,Not reported
+hesperidin,Herbal / natural product,Citrus-derived flavonoid,False,,0,2,0,0,,,True,Not reported
+inulin,Probiotic / microbiome,Prebiotic fermentable dietary fiber,False,,0,1,0,0,,,False,Not reported
+inulin-type fructans,Probiotic / microbiome,Prebiotic fermentable dietary fibers,False,,0,1,0,0,,,False,Not reported
+ipragliflozin,SGLT2 inhibitor,Sodium glucose cotransporter-2 inhibitor.,False,,0,1,0,0,,,True,Not reported
+lactobacillus acidophilus,Probiotic / microbiome,Modulates gut microbiota,False,,0,1,0,0,,,True,Not reported
+metronidazole,Other,nitroimidazole antimicrobial,False,,0,1,0,0,,,False,Not reported
+myo-inositol,Vitamin / antioxidant / supplement,inositol supplement affecting insulin signaling,False,,0,1,0,0,,,False,Not reported
+naltrexone + bupropion,Combination therapy,opioid antagonist plus norepinephrine-dopamine reuptake inhibitor,False,,0,1,0,0,,,True,Not reported
+naringenin,Herbal / natural product,citrus-derived flavonoid,False,,0,1,0,0,,,False,Not reported
+oligonol,Herbal / natural product,Modulation of gut bacterial composition.,False,,0,2,0,0,,,True,Not reported
+orlistat,Other,Gastrointestinal lipase inhibitor,False,,0,1,0,0,,,True,Not reported
+phentermine + topiramate,Combination therapy,Appetite suppression and anticonvulsant combination,False,,0,1,0,0,,,True,Not reported
+pinitol,Insulin sensitiser (other),Insulin-mimetic cyclitol,False,,0,1,0,0,,,False,Not reported
+piperine,Herbal / natural product,Anti-inflammatory role; the source suggests improved inflammatory cytokine levels may contribute to anti-steatotic effects.,False,,0,1,0,0,,,True,Not reported
+retatrutide,GLP-1/GIP/glucagon triple agonist,Glucagon-like peptide-1 receptor agonists (GLP-1RAs).,True,,0,1,0,0,,,True,Not reported
+sglt2 inhibitors,SGLT2 inhibitor,Sodium-glucose cotransporter 2 inhibition,False,,0,1,0,0,,,False,Not reported
+statins,Lipid-lowering (statin/omega-3/other),HMG-CoA reductase inhibitors,False,,0,2,0,0,,,True,Not reported
+sulforaphane,Herbal / natural product,"Sulforaphane increased Bacteroides and Lactobacillus, promoting SCFA production and GPR41/43 activation, which increased GLP-1; it also protected the intestinal mucosal barrier and reduced inflammation.",False,,0,1,0,0,,,False,Not reported
+thyroid hormone receptor beta agonists,THR-beta agonist,"Mechanisms under investigation include farnesoid X nuclear receptor agonism, C-C motif chemokine receptor 2 and receptor 5 antagonism, stearoyl-CoA desaturase-1, and thyroid hormone receptor beta agonism.",False,,0,1,0,0,,,False,Not reported
+tofogliflozin,SGLT2 inhibitor,Tofogliflozin is a sodium-glucose cotransporter 2 (SGLT2) inhibitor.,False,,0,1,0,0,,,False,Not reported
+turmeric,Herbal / natural product,Curcuma longa botanical product,False,,0,1,0,0,,,False,Not reported
+vitamin e + pioglitazone,Combination therapy,Antioxidant vitamin plus PPAR-gamma agonist,False,,0,1,0,0,,,True,Not reported

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00680407",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Silymarin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Improvement by at least 2 points in histology (NAS) at 48–50 weeks.",
+  "efficacy_outcome": "Primary endpoint events: 5 participants with silymarin 420 mg, 4 with silymarin 700 mg, and 3 with placebo. No statistical comparison is reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs affected 1/26 participants with silymarin 420 mg, 2/27 with silymarin 700 mg, and 1/25 with placebo; deaths not reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1088,
+    "output_tokens": 213,
+    "cost_usd": 0.000215
+  }
+}

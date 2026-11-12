@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04771273",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Survodutide (BI456906)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Improvement in liver histological findings from baseline after 48 weeks of treatment.",
+  "efficacy_outcome": "At 48 weeks, improvement with actual maintenance treatment occurred in 38.7%, 63.8%, and 55.8% with survodutide 2.4, 4.8, and 6.0 mg, respectively, versus 15.2% with placebo; reported logistic-regression p-values were 0.0010, <0.0001, and <0.0001, respectively.",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious AEs occurred in 5/93, 7/69, and 5/52 participants on survodutide 2.4, 4.8, and 6.0 mg, respectively, versus 5/79 on placebo; no deaths were reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1708,
+    "output_tokens": 294,
+    "cost_usd": 0.000318
+  }
+}

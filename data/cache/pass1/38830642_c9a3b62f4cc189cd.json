@@ -1,0 +1,32 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38830642",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "bariatric surgery",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "intragastric balloon",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "gastric banding",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Changes in MRI-PDFF and histologic features of MASH after bariatric intervention.",
+  "efficacy_outcome": "MRI-PDFF showed a 72% reduction at 6 months (ratio of means, 0.28); NAS decreased by 60% at 3–6 months, 40% at 12–24 months, and 50% at 36–60 months. Histologic features also improved, including significant fibrosis (≥F2), reduced by 18% at 12–24 months and 17% at 36–60 months.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1206,
+    "output_tokens": 387,
+    "cost_usd": 0.000314
+  }
+}

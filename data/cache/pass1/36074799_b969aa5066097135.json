@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36074799",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "oligonol",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "At 24 weeks, ≥30% reduction in MRI-PDFF.",
+  "efficacy_outcome": "Primary endpoint achieved by 20% with oligonol vs 15% with placebo (p=0.50); MRI-PDFF change was not different between groups.",
+  "efficacy_direction": "negative",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1077,
+    "output_tokens": 224,
+    "cost_usd": 0.00022
+  }
+}

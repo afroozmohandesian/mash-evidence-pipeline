@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02029586",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "MB12066",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in hepatic steatosis (%) from baseline to 12 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 926,
+    "output_tokens": 138,
+    "cost_usd": 0.000162
+  }
+}

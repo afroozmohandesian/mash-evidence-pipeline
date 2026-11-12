@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03008070",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "IVA337",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "SAF Activity Score decrease of at least 2 points with no worsening of CRN fibrosis score at 24 weeks.",
+  "efficacy_outcome": "The results list participant values of 41, 34, and 22, followed by 42, 49, and 59; reported p-values were 0.061 and 0.004 (Cochran-Mantel-Haenszel).",
+  "efficacy_direction": "mixed",
+  "safety_signal": "Serious AEs: IVA337 1200 mg, 7/83; IVA337 800 mg, 3/83; placebo, 3/81. No deaths.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1101,
+    "output_tokens": 418,
+    "cost_usd": 0.000319
+  }
+}

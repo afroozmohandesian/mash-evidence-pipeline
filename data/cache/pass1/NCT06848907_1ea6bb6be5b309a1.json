@@ -1,0 +1,32 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06848907",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Ganzhixiao Capsule",
+      "role": "investigational"
+    },
+    {
+      "name": "low-fat diet",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "aerobic exercise",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "MRI-PDFF at 16 weeks",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 973,
+    "output_tokens": 195,
+    "cost_usd": 0.000195
+  }
+}

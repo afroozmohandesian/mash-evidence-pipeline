@@ -1,0 +1,40 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05821010",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Lyophilized fecal microbiota transplantation capsules",
+      "role": "investigational"
+    },
+    {
+      "name": "A. soehngenii",
+      "role": "investigational"
+    },
+    {
+      "name": "Pasteurized A. muciniphila",
+      "role": "investigational"
+    },
+    {
+      "name": "B. animalis subsp. lactis",
+      "role": "investigational"
+    },
+    {
+      "name": "Fructo-oligosaccharides",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Liver histology at baseline and after 24 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1005,
+    "output_tokens": 164,
+    "cost_usd": 0.000182
+  }
+}

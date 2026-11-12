@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36296994",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "high-fiber rolls (12 g fiber/day)",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "high-fiber rolls (24 g fiber/day)",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "The 12 g/day group had significantly reduced liver steatosis and BMI. In the 24 g/day group, liver steatosis reduction was a trend (p = 0.07); AST and total cholesterol decreased significantly (both p = 0.03).",
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1246,
+    "output_tokens": 380,
+    "cost_usd": 0.000315
+  }
+}

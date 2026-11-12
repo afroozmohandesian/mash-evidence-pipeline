@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06884293",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "IBI362",
+      "role": "investigational"
+    },
+    {
+      "name": "semaglutide",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percentage change in body weight and percentage change in liver fat content measured by MRI-PDFF, both from baseline at Week 48.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1083,
+    "output_tokens": 224,
+    "cost_usd": 0.00022
+  }
+}

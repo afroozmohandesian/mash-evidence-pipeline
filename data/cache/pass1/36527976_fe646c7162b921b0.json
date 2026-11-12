@@ -1,0 +1,19 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36527976",
+  "relevant": false,
+  "drugs": [],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Overall survival (OS).",
+  "efficacy_outcome": "After IPTW adjustment, atezolizumab plus bevacizumab showed no OS advantage over lenvatinib (HR 0.97; p=0.739).",
+  "efficacy_direction": "negative",
+  "safety_signal": null,
+  "evidence_type": "other",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1199,
+    "output_tokens": 346,
+    "cost_usd": 0.000293
+  }
+}

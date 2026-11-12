@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00063232",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Metformin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in Histological NASH Activity Index from baseline to 48 weeks, reported as number of participants in each change category.",
+  "efficacy_outcome": "At 48 weeks, the four change categories included 9, 11, 5, and 1 participants; paired t-test p<0.001.",
+  "efficacy_direction": "positive",
+  "safety_signal": "No serious adverse events among 26 participants; deaths not reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1033,
+    "output_tokens": 281,
+    "cost_usd": 0.000244
+  }
+}

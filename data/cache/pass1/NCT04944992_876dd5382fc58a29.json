@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04944992",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Efinopegdutide (MK-6024)",
+      "role": "investigational"
+    },
+    {
+      "name": "Semaglutide",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Mean relative reduction from baseline in MRI-PDFF-measured liver fat content at 24 weeks.",
+  "efficacy_outcome": "At 24 weeks, liver fat content decreased by 72.7% with efinopegdutide and 42.3% with semaglutide (p<0.0001).",
+  "efficacy_direction": "positive",
+  "safety_signal": "AEs occurred in 88.9% with efinopegdutide and 72.6% with semaglutide; discontinuations due to AEs were 5.6% and 0%, respectively. Serious AEs affected 1 participant in each group; there were no deaths.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1296,
+    "output_tokens": 268,
+    "cost_usd": 0.000264
+  }
+}

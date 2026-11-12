@@ -1,0 +1,32 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03118310",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "5:2 diet",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "LCHF",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "Placebo diet",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Liver fat at three months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 855,
+    "output_tokens": 111,
+    "cost_usd": 0.000141
+  }
+}

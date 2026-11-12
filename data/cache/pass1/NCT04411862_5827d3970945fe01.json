@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04411862",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Phosphatidyl Choline",
+      "role": "investigational"
+    },
+    {
+      "name": "Lifestyle modification",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Changes from baseline at 3 and 6 months in BMI, liver stiffness, lipid profile, oxidative stress markers, NAFLD score, and HOMA-IR.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1014,
+    "output_tokens": 192,
+    "cost_usd": 0.000197
+  }
+}

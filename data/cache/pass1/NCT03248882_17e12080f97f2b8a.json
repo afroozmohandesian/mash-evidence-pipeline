@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03248882",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "PF-05221304",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percent change from baseline in liver fat by MRI-PDFF at Week 16.",
+  "efficacy_outcome": "Mean percent change: placebo −7.2%; PF-05221304 2 mg −17.1%, 10 mg −49.9%, 25 mg −55.9%, and 50 mg −64.8%. Statistical comparisons were not provided.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs: placebo 0/61; PF-05221304 2 mg 1/63, 10 mg 1/62, 25 mg 2/58, and 50 mg 2/61. No deaths were reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1199,
+    "output_tokens": 317,
+    "cost_usd": 0.000278
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "33722778",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "obeticholic acid (OCA)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Histological improvement in NASH, including fibrosis improvement.",
+  "efficacy_outcome": "OCA improved NASH fibrosis versus control (OR 1.95, 95% CI 1.47–2.59; p<0.001); results were significant for 10 mg (OR 1.61; p=0.03) and 25 mg (OR 2.23; p<0.001).",
+  "efficacy_direction": "positive",
+  "safety_signal": "In NASH, 25 mg OCA increased adverse events leading to discontinuation (OR 2.8; p<0.001), while 10 mg did not (OR 0.95; p=0.84). Pruritus risk was lowest with 5 mg OCA.",
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1395,
+    "output_tokens": 415,
+    "cost_usd": 0.000347
+  }
+}

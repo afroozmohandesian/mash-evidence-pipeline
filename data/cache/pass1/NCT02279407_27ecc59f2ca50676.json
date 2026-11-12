@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02279407",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Omega-3 carboxylic acids",
+      "role": "investigational"
+    },
+    {
+      "name": "Dapagliflozin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change from baseline to week 12 in MRI-assessed liver fat (%), compared with placebo.",
+  "efficacy_outcome": "At week 12, the liver-fat ratio was 0.79 with Epanova + dapagliflozin and 0.97 with placebo (p=0.046).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious AEs: 0/22 with Epanova + dapagliflozin, 0/20 with Epanova, 1/21 with dapagliflozin, and 1/21 with placebo; deaths not reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1125,
+    "output_tokens": 349,
+    "cost_usd": 0.000287
+  }
+}

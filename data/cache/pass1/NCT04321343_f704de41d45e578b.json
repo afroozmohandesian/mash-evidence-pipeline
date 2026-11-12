@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04321343",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "PXL065",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Relative change from baseline to Week 36 in liver fat content by MRI-PDFF.",
+  "efficacy_outcome": "At Week 36, LFC changed by −22.900%, −18.590%, and −21.335% with PXL065 7.5, 15, and 22.5 mg QD, respectively, versus +2.413% with placebo; reported ANCOVA p-values were 0.0083, 0.0237, and 0.0087, respectively.",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious AEs occurred in 1/25, 3/32, and 1/30 participants receiving PXL065 7.5, 15, and 22.5 mg QD, respectively, versus 2/30 with placebo; deaths were 0, 0, 0, and 1, respectively.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1381,
+    "output_tokens": 328,
+    "cost_usd": 0.000302
+  }
+}

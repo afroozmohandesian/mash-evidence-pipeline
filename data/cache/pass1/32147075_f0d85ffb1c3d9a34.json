@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32147075",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "curcuminoids",
+      "role": "investigational"
+    },
+    {
+      "name": "piperine",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Anti-inflammatory role; the source suggests improved inflammatory cytokine levels may contribute to anti-steatotic effects.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "After 8 weeks, curcuminoids improved ultrasound-assessed NAFLD severity (p=0.002) and reduced weight versus placebo (p=0.016); TNF-alpha (p=0.024), MCP-1 (p=0.008), and EGF (p=0.0001) also improved.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1228,
+    "output_tokens": 505,
+    "cost_usd": 0.000375
+  }
+}

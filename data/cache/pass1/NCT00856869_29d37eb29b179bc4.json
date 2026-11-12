@@ -1,0 +1,19 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00856869",
+  "relevant": false,
+  "drugs": [],
+  "mechanism_of_action": null,
+  "primary_endpoint": "NRL972 clearance after a standard meal and while fasted in healthy volunteers and patients with NASH or hepatic cirrhosis, up to 4 hours post-administration.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 1/2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1118,
+    "output_tokens": 316,
+    "cost_usd": 0.00027
+  }
+}

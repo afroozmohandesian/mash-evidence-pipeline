@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03639623",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Saroglitazar",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Number of participants with adverse events assessed by CTCAE at 24 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "12 participants had adverse events; serious adverse events affected 2/20 participants; no deaths.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 976,
+    "output_tokens": 234,
+    "cost_usd": 0.000215
+  }
+}

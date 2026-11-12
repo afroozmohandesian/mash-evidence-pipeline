@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06168383",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "HSK31679",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Proportion of patients with NASH improvement and no worsening of fibrosis at Week 52 versus baseline.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 986,
+    "output_tokens": 98,
+    "cost_usd": 0.000148
+  }
+}

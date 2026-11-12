@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04618744",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "ORMD-0801 (Insulin)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Number of treatment-emergent adverse events from screening through Week 16.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Treatment-emergent adverse events: 2 with ORMD-0801 and 0 with placebo. Serious AEs occurred in 1/21 ORMD-0801 participants and 1/11 placebo participants; no deaths.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1032,
+    "output_tokens": 288,
+    "cost_usd": 0.000247
+  }
+}

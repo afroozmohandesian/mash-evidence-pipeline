@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37088458",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Pegbelfermin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "A polyethylene glycol-conjugated analog of human fibroblast growth factor 21, a nonmitogenic hormone that regulates energy metabolism.",
+  "primary_endpoint": "At week 48, improvement of ≥1 stage in the NASH Clinical Research Network fibrosis score without NASH worsening.",
+  "efficacy_outcome": "Primary endpoint responses occurred in 24%–28% of pegbelfermin arms versus 31% with placebo (P = .361).",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events were more frequent with pegbelfermin than placebo, though none were treatment related. One patient receiving 40 mg discontinued because of worsening ascites.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1328,
+    "output_tokens": 274,
+    "cost_usd": 0.00027
+  }
+}

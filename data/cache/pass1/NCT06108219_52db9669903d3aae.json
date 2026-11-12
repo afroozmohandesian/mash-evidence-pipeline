@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06108219",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Miricorilant",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percent relative change from baseline in liver-fat content assessed by MRI-PDFF at Week 24 (Cohorts A and B).",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1032,
+    "output_tokens": 152,
+    "cost_usd": 0.000179
+  }
+}

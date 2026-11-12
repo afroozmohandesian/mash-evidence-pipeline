@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04308980",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Specialized product for medical nutrition (SPP-1)",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "individualized diet",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Multiple outcomes at 14 days, including weight, satiety, hunger, adverse events, body composition, and blood fatty-acid concentrations.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2/3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1135,
+    "output_tokens": 199,
+    "cost_usd": 0.000213
+  }
+}

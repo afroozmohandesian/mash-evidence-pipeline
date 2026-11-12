@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05589584",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "N acetyl cysteine",
+      "role": "investigational"
+    },
+    {
+      "name": "weight reduction",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Effect of NAC on leptin at 3 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 855,
+    "output_tokens": 216,
+    "cost_usd": 0.000193
+  }
+}

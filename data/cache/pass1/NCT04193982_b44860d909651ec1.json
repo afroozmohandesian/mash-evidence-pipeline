@@ -1,0 +1,36 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04193982",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Saroglitazar",
+      "role": "investigational"
+    },
+    {
+      "name": "Vitamin E",
+      "role": "investigational"
+    },
+    {
+      "name": "Combination drug",
+      "role": "investigational"
+    },
+    {
+      "name": "Lifestyle Changes",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in Non alcoholic fatty liver fibrosis score at 8, 16, and 24 weeks (6 months).",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1020,
+    "output_tokens": 293,
+    "cost_usd": 0.000249
+  }
+}

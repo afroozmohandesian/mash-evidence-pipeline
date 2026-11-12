@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36705359",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "probiotics",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "Across 21 RCTs (1,037 patients), probiotic intervention significantly reduced liver function, lipid, blood glucose, and insulin measures and improved hepatic steatosis; BMI, inflammatory factors, and HOMA-IR did not significantly improve. ALT, GGT, triglycerides, and blood glucose improved more with treatment lasting ≥12 weeks.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1081,
+    "output_tokens": 332,
+    "cost_usd": 0.000274
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04501406",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Pioglitazone",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "An insulin-sensitizer.",
+  "primary_endpoint": "Proportion achieving an improvement of ≥2 points in NAS without an increase in fibrosis stage at 72 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 933,
+    "output_tokens": 106,
+    "cost_usd": 0.000146
+  }
+}

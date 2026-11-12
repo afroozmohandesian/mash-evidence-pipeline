@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "39984821",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "MK-3655",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Monoclonal antibody that binds beta-klotho and selectively activates the FGFR1c/beta-klotho co-receptor complex.",
+  "primary_endpoint": "MASH resolution without worsening of fibrosis by histology at Week 52.",
+  "efficacy_outcome": "At Week 24, relative liver fat content reductions versus placebo were 19.1% with 50 mg, 19.0% with 100 mg, and 26.1% with 300 mg. Interim differences from placebo were deemed insufficient to continue the trial.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "MK-3655 was generally well tolerated; no specific adverse events or rates were reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1284,
+    "output_tokens": 328,
+    "cost_usd": 0.000292
+  }
+}

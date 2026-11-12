@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38857788",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "survodutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Glucagon/glucagon-like peptide-1 receptor dual agonist.",
+  "primary_endpoint": "Single-dose cohorts: AUC from 0 to infinity and Cmax. Multiple-dose cohorts: drug-related treatment-emergent adverse events.",
+  "efficacy_outcome": "After 28 weeks, liver fat content, liver stiffness, liver volume, body weight, and other hepatic and metabolic markers were generally reduced; no numerical estimates or comparator were reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Drug-related adverse events occurred in 25.0% of healthy participants and ≤25.0% of participants with cirrhosis after single doses; rates in multiple-dose cohorts were 82.4% and 87.5%, respectively.",
+  "evidence_type": "single-arm trial",
+  "study_phase": "Phase 1",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1422,
+    "output_tokens": 399,
+    "cost_usd": 0.000342
+  }
+}

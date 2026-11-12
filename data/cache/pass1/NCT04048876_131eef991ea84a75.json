@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04048876",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "CC-90001",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percentage of participants with ≥1-stage improvement in liver fibrosis on the NASH CRN histological scoring system at Week 52.",
+  "efficacy_outcome": "Fibrosis improvement: 15.4% with CC-90001 100 mg, 0% with 200 mg, 7.7% with 400 mg, and 6.7% with placebo. No statistical comparison was reported.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious AEs occurred in 2/13 participants on 100 mg, 1/15 on 200 mg, 2/13 on 400 mg, and 0/15 on placebo; no deaths were reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1164,
+    "output_tokens": 461,
+    "cost_usd": 0.000347
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06564584",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "TLC-2716",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in fasting triglycerides and incidence of TLC-2716 treatment-emergent adverse events through Day 28.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 944,
+    "output_tokens": 162,
+    "cost_usd": 0.000175
+  }
+}

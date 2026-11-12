@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04171765",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "BFKB8488A",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Proportion with NASH resolution without worsening of fibrosis at Week 52.",
+  "efficacy_outcome": "At Week 52, NASH resolution rates were 16.7% with placebo, 37.5% with BFKB8488A 50 mg, 14.3% with 75 mg, and 33.3% with 100 mg; no statistical comparisons were reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious adverse events occurred in 0/13 placebo participants, 1/11 in the 50 mg group, 1/11 in the 75 mg group, and 0/11 in the 100 mg group; no deaths were reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1130,
+    "output_tokens": 406,
+    "cost_usd": 0.000316
+  }
+}

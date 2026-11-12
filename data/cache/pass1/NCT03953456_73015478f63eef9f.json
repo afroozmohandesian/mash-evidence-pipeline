@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03953456",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "elafibranor",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in relative amount of saturated fatty acids in the liver after 6 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 923,
+    "output_tokens": 128,
+    "cost_usd": 0.000156
+  }
+}

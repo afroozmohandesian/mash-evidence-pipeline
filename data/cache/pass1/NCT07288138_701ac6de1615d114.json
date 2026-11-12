@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07288138",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "ECC4703",
+      "role": "investigational"
+    },
+    {
+      "name": "ECC0509",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "ECC4703 is a thyroid hormone receptor beta isoform (THRβ) agonist; ECC0509 is a semicarbazide sensitive amine oxidase (SSAO) inhibitor.",
+  "primary_endpoint": "Relative change from baseline in liver fat content by MRI-PDFF for ECC4703 monotherapy versus placebo at Week 12.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1001,
+    "output_tokens": 228,
+    "cost_usd": 0.000214
+  }
+}

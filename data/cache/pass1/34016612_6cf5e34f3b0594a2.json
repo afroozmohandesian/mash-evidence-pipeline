@@ -1,0 +1,32 @@
+{
+  "data_source": "PubMed",
+  "source_id": "34016612",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Cotadutide",
+      "role": "investigational"
+    },
+    {
+      "name": "liraglutide",
+      "role": "active comparator"
+    },
+    {
+      "name": "metformin",
+      "role": "background therapy"
+    }
+  ],
+  "mechanism_of_action": "Dual GLP-1 and glucagon receptor agonist.",
+  "primary_endpoint": "Changes in HbA1c and body weight at week 14.",
+  "efficacy_outcome": "Cotadutide significantly decreased HbA1c and body weight versus placebo at weeks 14 and 54 (all P < 0.001).",
+  "efficacy_direction": "positive",
+  "safety_signal": "The most common adverse events with cotadutide were nausea (35%) and vomiting (17%); these decreased over time.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1276,
+    "output_tokens": 394,
+    "cost_usd": 0.000325
+  }
+}

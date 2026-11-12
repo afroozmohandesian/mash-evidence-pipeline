@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02681055",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "MN-001 (Tipelukast)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Novel, orally bioavailable small molecule with anti-inflammatory activity.",
+  "primary_endpoint": "Mean change from baseline in cholesterol efflux capacity at 12 weeks and triglyceride levels at 8 weeks.",
+  "efficacy_outcome": "Open-label arm: cholesterol efflux capacity changed by −0.013 at 12 weeks; triglycerides changed by −21.67 mg/dL at 8 weeks. No comparator or statistical significance was reported.",
+  "efficacy_direction": "negative",
+  "safety_signal": "No serious adverse events among 19 participants; no deaths.",
+  "evidence_type": "single-arm trial",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1070,
+    "output_tokens": 434,
+    "cost_usd": 0.000324
+  }
+}

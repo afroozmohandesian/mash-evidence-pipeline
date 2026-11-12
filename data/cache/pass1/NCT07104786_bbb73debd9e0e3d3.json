@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07104786",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Obeticholic Acid",
+      "role": "investigational"
+    },
+    {
+      "name": "Vitamin E",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in grade of NAFLD on ultrasound and reduction of ALT levels at 6 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 893,
+    "output_tokens": 152,
+    "cost_usd": 0.000165
+  }
+}

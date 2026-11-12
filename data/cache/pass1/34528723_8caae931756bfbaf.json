@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "34528723",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Pemafibrate",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Selective peroxisome proliferator-activated receptor alpha modulator (SPPARMalpha).",
+  "primary_endpoint": "Percentage change in MRI-PDFF from baseline to week 24.",
+  "efficacy_outcome": "Primary endpoint: −5.3% with pemafibrate vs −4.2% with placebo (treatment difference −1.0%, P=0.85). MRE-based liver stiffness decreased versus placebo at week 48 (difference −5.7%, P=0.036) and week 72 (−6.2%, P=0.024); ALT and LDL-C also decreased significantly.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Adverse events were comparable between groups; therapy was well tolerated.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1247,
+    "output_tokens": 257,
+    "cost_usd": 0.000253
+  }
+}

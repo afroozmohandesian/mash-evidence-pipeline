@@ -1,0 +1,32 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32230987",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "metronidazole",
+      "role": "investigational"
+    },
+    {
+      "name": "inulin",
+      "role": "investigational"
+    },
+    {
+      "name": "very-low-calorie diet (VLCD)",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "ALT and body weight at 12 weeks.",
+  "efficacy_outcome": "ALT change was −19.6 U/L with metronidazole followed by inulin versus −0.2 U/L with placebo-placebo (p=0.026); weight-loss maintenance did not differ.",
+  "efficacy_direction": "mixed",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1125,
+    "output_tokens": 449,
+    "cost_usd": 0.000337
+  }
+}

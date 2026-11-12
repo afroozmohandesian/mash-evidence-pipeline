@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05402371",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Rencofilstat",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Proportion with ≥1-stage fibrosis improvement (NASH CRN) or NASH resolution without worsening fibrosis, assessed after 1 year of dosing plus 1 month observation and follow-up.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 939,
+    "output_tokens": 116,
+    "cost_usd": 0.000152
+  }
+}

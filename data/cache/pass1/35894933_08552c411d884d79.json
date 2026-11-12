@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "35894933",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "tofogliflozin",
+      "role": "investigational"
+    },
+    {
+      "name": "glimepiride",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": "Tofogliflozin is a sodium-glucose cotransporter 2 (SGLT2) inhibitor.",
+  "primary_endpoint": "At 48 weeks, percentage of participants with at least a 1-point improvement in each histological score for steatosis, hepatocellular ballooning, lobular inflammation, and fibrosis.",
+  "efficacy_outcome": "Tofogliflozin-group scores improved for fibrosis (60%, P=0.001), steatosis (65%, P=0.001), ballooning (55%, P=0.002), and lobular inflammation (50%, P=0.003); glimepiride improved ballooning (25%, P=0.025). Between-group change in fibrosis was not significant (P=0.172); the primary endpoint result was not reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1265,
+    "output_tokens": 502,
+    "cost_usd": 0.000378
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03053050",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Selonsertib",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "≥1-stage fibrosis improvement without worsening of NASH at Week 48; event-free survival at Week 240.",
+  "efficacy_outcome": "At Week 48, fibrosis improvement occurred in 9.6% (SEL 18 mg), 12.1% (SEL 6 mg), and 13.2% (placebo); p=0.4941 and p=0.9321, respectively. No Week 240 event-free survival result was reported.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious AEs affected 47/322 participants on SEL 18 mg, 36/321 on SEL 6 mg, and 17/159 on placebo; no deaths were reported in these groups.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1224,
+    "output_tokens": 405,
+    "cost_usd": 0.000325
+  }
+}

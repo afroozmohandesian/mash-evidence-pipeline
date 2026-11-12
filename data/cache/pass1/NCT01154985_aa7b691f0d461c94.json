@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01154985",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "EPA-E",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Histological response at 12 months and ALT levels at 3 and 6 months.",
+  "efficacy_outcome": "Histological response: placebo 18, EPA-E 1800 mg/day 18, and 2700 mg/day 20 participants; trend-test p=0.57. ALT change at 3 months was −19.3 U/L with placebo, −3.0 with 1800 mg/day (p=0.0137), and +2.8 with 2700 mg/day (p=0.0006); at 6 months, changes were −19.1, −9.5 (p=0.1592), and −3.0 U/L (p=0.0153), respectively.",
+  "efficacy_direction": "mixed",
+  "safety_signal": "Serious adverse events affected 4/75 participants on placebo, 8/82 on EPA-E 1800 mg/day, and 5/86 on EPA-E 2700 mg/day; deaths were not reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1266,
+    "output_tokens": 465,
+    "cost_usd": 0.000359
+  }
+}

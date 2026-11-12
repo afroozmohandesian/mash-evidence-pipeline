@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00062764",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Actos (Pioglitazone)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Number of patients with improvement in liver histology at 48 weeks.",
+  "efficacy_outcome": "12 participants had improvement in liver histology at 48 weeks; no comparator or statistical significance reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious adverse events: 0/18 affected; deaths not reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 933,
+    "output_tokens": 299,
+    "cost_usd": 0.000243
+  }
+}

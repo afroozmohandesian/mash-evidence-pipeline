@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02653300",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Oral Insulin (ORMD-0801)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in MRI-PDFF from baseline (week 0) to week 12.",
+  "efficacy_outcome": "MRI-PDFF decreased from 21.3 to 14.4 (change −6.9); p=0.03125 (sign test).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious adverse events: 0/8 participants; deaths: 0.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1012,
+    "output_tokens": 243,
+    "cost_usd": 0.000223
+  }
+}

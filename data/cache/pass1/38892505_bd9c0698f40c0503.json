@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38892505",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "prebiotic (ITFs-inulin-type fructans)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in liver fat content measured by ¹H-MRS at 12 weeks.",
+  "efficacy_outcome": "Liver fat content did not change significantly in either the prebiotic or placebo group; liver function, metabolic, and inflammatory parameters also showed no significant changes.",
+  "efficacy_direction": "negative",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1067,
+    "output_tokens": 317,
+    "cost_usd": 0.000265
+  }
+}

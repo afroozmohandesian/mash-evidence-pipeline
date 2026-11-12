@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01992809",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Omega 3",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Efficacy in reducing the inflammatory component of NASH, measured by NAS score at 6 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 911,
+    "output_tokens": 181,
+    "cost_usd": 0.000182
+  }
+}

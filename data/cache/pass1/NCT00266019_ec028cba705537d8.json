@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00266019",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Weight Management (diet, exercise, and behavior modification)",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Liver histology score (NASH-CRN scoring system) and weight reduction at 48 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 843,
+    "output_tokens": 108,
+    "cost_usd": 0.000138
+  }
+}

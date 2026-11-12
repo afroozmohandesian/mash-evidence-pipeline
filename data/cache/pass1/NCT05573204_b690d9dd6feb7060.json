@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05573204",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Obeticholic acid",
+      "role": "investigational"
+    },
+    {
+      "name": "Vitamin E",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "At 6 months: fibrosis-stage improvement of ≥1 stage with no worsening of steatosis, and change in steatosis stage with no worsening of fibrosis, assessed by Fibroscan.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 946,
+    "output_tokens": 193,
+    "cost_usd": 0.000191
+  }
+}

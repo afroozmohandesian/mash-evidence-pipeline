@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "35889878",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "oligonol",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Modulation of gut bacterial composition.",
+  "primary_endpoint": "Change in MRI-PDFF and gut microbiota composition from baseline to week 24.",
+  "efficacy_outcome": "MRI-PDFF decreased significantly from week 0 to week 24 in the oligonol group; the decrease in the placebo group was not significant. No between-group statistical comparison was reported.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1136,
+    "output_tokens": 379,
+    "cost_usd": 0.000303
+  }
+}

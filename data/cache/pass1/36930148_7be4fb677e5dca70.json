@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36930148",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "time-restricted eating (TRE)",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "daily calorie restriction (DCR)",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in intrahepatic triglyceride content measured by MRI at 12 months.",
+  "efficacy_outcome": "At 12 months, IHTG decreased 6.9% with TRE and 7.9% with DCR; between-group difference 1.0 percentage point (95% CI, −1.6 to 3.5; P = .45).",
+  "efficacy_direction": "negative",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1459,
+    "output_tokens": 245,
+    "cost_usd": 0.000268
+  }
+}

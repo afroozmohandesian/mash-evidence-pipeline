@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "41419187",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "semaglutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Resolution of metabolic dysfunction-associated steatohepatitis; timepoint not reported.",
+  "efficacy_outcome": "MASH resolution was 62.9% (RR 1.84, 95% CI 1.49–2.27); comparator event rate not reported.",
+  "efficacy_direction": "positive",
+  "safety_signal": "No increase in psychiatric or cancer risk was observed.",
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1280,
+    "output_tokens": 292,
+    "cost_usd": 0.000274
+  }
+}

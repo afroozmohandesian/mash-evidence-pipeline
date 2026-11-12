@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06528314",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Efruxifermin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Time to first significant clinical event over 5 years; Cohort 1: proportion with ≥1-stage fibrosis improvement and no worsening of steatohepatitis at 96 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 952,
+    "output_tokens": 169,
+    "cost_usd": 0.00018
+  }
+}

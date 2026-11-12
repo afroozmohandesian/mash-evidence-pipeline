@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "33060043",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Hydroxytyrosol (HXT)",
+      "role": "investigational"
+    },
+    {
+      "name": "Vitamin E (VitE)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Antioxidant activity; the abstract attributes reduced systemic inflammation mainly to increased circulating IL-10 in response to DNA damage recovery.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "After four months, IL-6 decreased and IL-10 increased significantly only with HXT+VitE; 4-HNE and 8-OHdG also decreased significantly in that group. IL-1beta and TNF-alpha decreased in both groups; no effect sizes or p-values are reported.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1173,
+    "output_tokens": 303,
+    "cost_usd": 0.000269
+  }
+}

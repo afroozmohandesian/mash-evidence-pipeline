@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03256526",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "PF-06835919",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percent change from baseline in whole liver fat at Week 6.",
+  "efficacy_outcome": "Whole liver fat changed by −7.97% with placebo, +2.84% with PF-06835919 75 mg (p=0.1654), and −25.43% with PF-06835919 300 mg (p=0.0395).",
+  "efficacy_direction": "mixed",
+  "safety_signal": "No serious adverse events or deaths in any arm: placebo 0/19, 75 mg 0/17, and 300 mg 0/17.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1095,
+    "output_tokens": 254,
+    "cost_usd": 0.000237
+  }
+}

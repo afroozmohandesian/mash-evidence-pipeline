@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36934740",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "semaglutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Glucagon-like peptide-1 analogue.",
+  "primary_endpoint": "Proportion with improvement in liver fibrosis of at least one stage without worsening of NASH at 48 weeks.",
+  "efficacy_outcome": "Primary endpoint: 5/47 (11%) with semaglutide vs 7/24 (29%) with placebo; OR 0.28 (95% CI 0.06–1.24), p=0.087. NASH resolution also did not differ significantly (p=0.29).",
+  "efficacy_direction": "negative",
+  "safety_signal": "Adverse events occurred in 42/47 (89%) vs 19/24 (79%); serious adverse events in 6/47 (13%) vs 2/24 (8%) with semaglutide vs placebo. Nausea (45% vs 17%), diarrhoea (19% vs 8%), and vomiting (17% vs 0%) were more common with semaglutide; no decompensating events or deaths.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1487,
+    "output_tokens": 346,
+    "cost_usd": 0.000322
+  }
+}

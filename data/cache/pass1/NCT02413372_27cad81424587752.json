@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02413372",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "BMS-986036",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in MRI-measured hepatic fat fraction from baseline to Week 16.",
+  "efficacy_outcome": "Hepatic fat fraction changes were −8.43% and −6.77% with BMS-986036 10 mg QD versus −1.26% and −1.35% with placebo (p=0.0004); and −6.45% and −5.20% with 20 mg QW versus the corresponding placebo values (p=0.0084).",
+  "efficacy_direction": "positive",
+  "safety_signal": "AEs occurred in 18 participants (10 mg QD), 13 (20 mg QW), and 15 (placebo); SAEs in 1, 0, and 1, respectively. Injection-site reactions occurred in treated groups; no deaths or AE-related discontinuations were reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 2387,
+    "output_tokens": 306,
+    "cost_usd": 0.000392
+  }
+}

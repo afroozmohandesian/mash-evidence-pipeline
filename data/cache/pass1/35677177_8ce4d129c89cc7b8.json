@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "35677177",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "probiotics",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "Probiotics significantly reduced ALT (P=0.00001), AST (P=0.0009), GGT (P=0.04), TG (P=0.01), LDL-C (P=0.0005), HDL-C (P=0.0002), insulin (P=0.003), IR (P=0.03), BMI (P=0.03), TNF-alpha (P=0.03), and CRP (P=0.02); 1,403 participants were included.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1144,
+    "output_tokens": 305,
+    "cost_usd": 0.000267
+  }
+}

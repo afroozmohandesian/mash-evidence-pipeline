@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40720744",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "chiglitazar",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "PPAR pan-agonist.",
+  "primary_endpoint": "Percentage change in liver fat content measured by MRI-PDFF at week 18.",
+  "efficacy_outcome": "At week 18, liver fat decreased by 28.1% with chiglitazar 48 mg and 39.5% with 64 mg, versus 3.2% with placebo; differences versus placebo were 24.9% (p<0.05) and 36.3% (p<0.001), respectively.",
+  "efficacy_direction": "positive",
+  "safety_signal": "Both doses were well tolerated; most adverse events were mild to moderate.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1223,
+    "output_tokens": 218,
+    "cost_usd": 0.000231
+  }
+}

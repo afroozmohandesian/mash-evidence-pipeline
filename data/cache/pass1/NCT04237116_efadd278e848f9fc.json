@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04237116",
+  "relevant": false,
+  "drugs": [
+    {
+      "name": "secukinumab",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Anti-interleukin-17A treatment.",
+  "primary_endpoint": "Mean change from baseline in PASI score up to Week 12.",
+  "efficacy_outcome": "Reported values were 15.7 and 15.9 for secukinumab and placebo, respectively, and 0.8 and 13.4 for secukinumab and placebo, respectively; the registry summary does not clarify these values or report statistical comparisons.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events: 1/7 with secukinumab and 0/3 with placebo; no deaths in either arm.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1135,
+    "output_tokens": 805,
+    "cost_usd": 0.000516
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00845845",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Omega-3-acid ethyl esters (Lovaza)",
+      "role": "investigational"
+    },
+    {
+      "name": "dietary counseling",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Effect of omega-3 fatty acid supplementation on hepatic steatosis and related factors at 24 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs: 1/3 with Lovaza and 0/6 with placebo; deaths not reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1010,
+    "output_tokens": 206,
+    "cost_usd": 0.000204
+  }
+}

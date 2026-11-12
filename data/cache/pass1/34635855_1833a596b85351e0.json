@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "34635855",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "PF-05221304",
+      "role": "investigational"
+    },
+    {
+      "name": "PF-06865571",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Liver-directed ACC1/2 inhibition; the combination also includes a DGAT2 inhibitor.",
+  "primary_endpoint": "Percent change from baseline in liver fat assessed by MRI-PDFF at 16 weeks (monotherapy trial) and 6 weeks (combination trial).",
+  "efficacy_outcome": "At 16 weeks, liver-fat reductions were dose-dependent with PF-05221304: −49.9%, −55.9% and −64.8% at 10, 25 and 50 mg QD, versus −7.2% with placebo. At 6 weeks, placebo-adjusted reductions were −44.6% with PF-05221304 plus PF-06865571, −44.5% with PF-05221304 alone and −35.4% with PF-06865571 alone.",
+  "efficacy_direction": "mixed",
+  "safety_signal": "With PF-05221304 monotherapy, serum triglycerides increased in 23/305 patients (8%), leading to withdrawal in 13/305 (4%); other serum lipids also increased dose-dependently. Combination-treatment AEs occurred in 10/28 patients (36%), with no AE-related discontinuations, and the triglyceride effect was mitigated.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1440,
+    "output_tokens": 612,
+    "cost_usd": 0.00045
+  }
+}

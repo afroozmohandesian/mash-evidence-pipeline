@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37732990",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "aldafermin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Engineered analog of the human hormone FGF19.",
+  "primary_endpoint": "Change in Enhanced Liver Fibrosis from baseline to week 48.",
+  "efficacy_outcome": "At week 48, the 3 mg group had a least-squares mean difference in ELF change of −0.5 versus placebo (95% CI −0.7 to −0.2; p=0.0003).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Diarrhea occurred in 26% and 40% of the 1 mg and 3 mg groups, respectively, versus 18% with placebo. Treatment-related adverse events led to discontinuation in 2% and 9% of the 1 mg and 3 mg groups, respectively, versus 0% with placebo.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1268,
+    "output_tokens": 320,
+    "cost_usd": 0.000287
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01384578",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "pentoxiphylline",
+      "role": "investigational"
+    },
+    {
+      "name": "Vitamin E",
+      "role": "investigational"
+    },
+    {
+      "name": "Vitamin E",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Improvement or non-progression in hepatocyte injury and fibrosis (NAS score) at 3 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 925,
+    "output_tokens": 175,
+    "cost_usd": 0.00018
+  }
+}

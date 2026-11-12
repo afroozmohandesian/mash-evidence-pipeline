@@ -1,0 +1,32 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02929901",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "caffeine and chlorogenic acid",
+      "role": "investigational"
+    },
+    {
+      "name": "caffeine",
+      "role": "investigational"
+    },
+    {
+      "name": "chlorogenic acid",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Hepatic steatosis at 6 months",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2/3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 895,
+    "output_tokens": 174,
+    "cost_usd": 0.000177
+  }
+}

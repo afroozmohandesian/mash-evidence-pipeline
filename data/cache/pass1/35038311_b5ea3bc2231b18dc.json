@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "35038311",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Metformin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Improves insulin sensitivity and promotes weight loss; increased hepatic de novo lipogenesis and unchanged fatty acid oxidation partly explain the lack of improvement in intrahepatic triglyceride content.",
+  "primary_endpoint": "Change in intrahepatic triglyceride content after 12 weeks of metformin treatment.",
+  "efficacy_outcome": "After 12 weeks, intrahepatic triglyceride content and fatty acid oxidation remained unchanged; body weight decreased and insulin sensitivity improved. VLDL-triglyceride concentrations decreased, while the relative contribution of de novo lipogenesis-derived fatty acids to VLDL-triglyceride increased.",
+  "efficacy_direction": "negative",
+  "safety_signal": null,
+  "evidence_type": "single-arm trial",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1092,
+    "output_tokens": 281,
+    "cost_usd": 0.00025
+  }
+}

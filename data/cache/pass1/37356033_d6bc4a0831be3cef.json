@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37356033",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Pegozafermin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Long-acting glycopegylated FGF21 analogue.",
+  "primary_endpoint": "At 24 weeks: fibrosis improvement (≥1 stage) without worsening of NASH, and NASH resolution without worsening of fibrosis.",
+  "efficacy_outcome": "Fibrosis improvement: 7% with placebo vs. 22%, 26%, and 27% with pegozafermin 15, 30, and 44 mg, respectively; differences were significant for 30 mg (19 percentage points; P=0.009) and 44 mg (20 percentage points; P=0.008), but not 15 mg. NASH resolution: 2% with placebo vs. 37%, 23%, and 26%, respectively; reported 95% CIs for the differences excluded zero at all doses.",
+  "efficacy_direction": "mixed",
+  "safety_signal": "Most common adverse events associated with pegozafermin were nausea and diarrhea.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1427,
+    "output_tokens": 386,
+    "cost_usd": 0.000336
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01672879",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Simtuzumab (SIM, GS-6624)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Monoclonal antibody against lysyl oxidase-like 2 (LOXL2).",
+  "primary_endpoint": "Change from baseline in HVPG at Week 96 and event-free survival (EFS).",
+  "efficacy_outcome": "At Week 96, HVPG changed by −0.1 mmHg with SIM 200 mg, 0.0 mmHg with SIM 700 mg, and −0.1 mmHg with placebo. EFS comparisons had p-values of 0.41 and 0.065; group-specific EFS results were not reported.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events in the blinded phase affected 37/87 participants on SIM 200 mg, 36/86 on SIM 700 mg, and 25/85 on placebo; deaths were not reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1233,
+    "output_tokens": 398,
+    "cost_usd": 0.000322
+  }
+}

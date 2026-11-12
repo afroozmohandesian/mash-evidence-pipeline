@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02784444",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "MSDC-0602K",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Participants with hepatic histological improvement in NAS at 12 months (360 days).",
+  "efficacy_outcome": "Improvement occurred in 22 placebo participants versus 25, 27, and 34 participants receiving MSDC-0602K 62.5, 125, and 250 mg, respectively; p=0.747, 0.575, and 0.158 versus placebo.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious AEs: placebo 9/94 (1 death); MSDC-0602K 62.5 mg 5/99 (0 deaths), 125 mg 13/98 (1 death), and 250 mg 7/101 (0 deaths).",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1132,
+    "output_tokens": 293,
+    "cost_usd": 0.00026
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04006145",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Elobixibat",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Potent inhibitor of the ileal bile acid transporter (iBAT).",
+  "primary_endpoint": "Change from baseline in serum LDL-C at Week 16.",
+  "efficacy_outcome": "At Week 16, LDL-C changed by −0.57 mmol/L with elobixibat vs −0.17 mmol/L with placebo (p=0.029).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious AEs: 0/23 with elobixibat and 0/24 with placebo; no deaths in either group.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1026,
+    "output_tokens": 162,
+    "cost_usd": 0.000184
+  }
+}

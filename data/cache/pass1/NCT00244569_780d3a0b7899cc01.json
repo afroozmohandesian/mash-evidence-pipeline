@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00244569",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "13C-Methacetin",
+      "role": "investigational"
+    },
+    {
+      "name": "Breath ID Machine",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Compare mean and standard deviation of Breath ID system results among three NAFLD/NASH patient groups using chi-squared analysis; significance threshold p≤0.05.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 896,
+    "output_tokens": 127,
+    "cost_usd": 0.000153
+  }
+}

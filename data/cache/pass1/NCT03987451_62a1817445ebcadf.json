@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03987451",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Semaglutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percentage with at least one stage of liver fibrosis improvement and no worsening of NASH at Week 48.",
+  "efficacy_outcome": "At Week 48, the endpoint occurred in 10.6% with semaglutide 2.4 mg versus 29.2% with placebo (p=0.0867).",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events affected 6/47 participants with semaglutide and 2/24 with placebo; no deaths in either group.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1071,
+    "output_tokens": 259,
+    "cost_usd": 0.000237
+  }
+}

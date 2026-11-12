@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "34570916",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "semaglutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Glucagon-like peptide-1 receptor agonist.",
+  "primary_endpoint": "Change from baseline to week 48 in liver stiffness assessed by magnetic resonance elastography.",
+  "efficacy_outcome": "Liver stiffness did not differ significantly from placebo at week 48 (estimated treatment ratio 0.96, 95% CI 0.89–1.03; P=0.2798). Liver steatosis reductions were greater with semaglutide at weeks 24, 48, and 72 (estimated treatment ratios 0.70, 0.47, and 0.50; all P≤0.0002).",
+  "efficacy_direction": "negative",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1277,
+    "output_tokens": 269,
+    "cost_usd": 0.000262
+  }
+}

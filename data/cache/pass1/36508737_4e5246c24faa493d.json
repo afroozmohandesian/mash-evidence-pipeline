@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36508737",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "calorie-unrestricted low-carbohydrate, high-fat (LCHF) diet",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "calorie-unrestricted high-carbohydrate, low-fat (HCLF) diet",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Not specified in the abstract; NAFLD was assessed by liver biopsy.",
+  "efficacy_outcome": "No statistically significant between-group changes in NAFLD. Compared with HCLF, LCHF improved HbA1c more (difference in change −6.1 mmol/mol; 95% CI −9.2 to −3.0) and reduced weight more (−3.8 kg; 95% CI −6.2 to −1.4); changes were not sustained at 9 months.",
+  "efficacy_direction": "negative",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1420,
+    "output_tokens": 378,
+    "cost_usd": 0.000331
+  }
+}

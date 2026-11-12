@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38324483",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Resmetirom",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Oral, liver-directed, thyroid hormone receptor beta-selective agonist.",
+  "primary_endpoint": "At week 52: NASH resolution with no worsening of fibrosis, and fibrosis improvement by at least one stage with no worsening of the NAFLD activity score.",
+  "efficacy_outcome": "NASH resolution: 25.9% (80 mg) and 29.9% (100 mg) vs 9.7% with placebo; fibrosis improvement: 24.2% and 25.9% vs 14.2%, respectively (P<0.001 for both doses vs placebo for both endpoints).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Diarrhea and nausea were more frequent with resmetirom than placebo. Serious adverse events occurred in 10.9% (80 mg), 12.7% (100 mg), and 11.5% (placebo).",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1431,
+    "output_tokens": 329,
+    "cost_usd": 0.000308
+  }
+}

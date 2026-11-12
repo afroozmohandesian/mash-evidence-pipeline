@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06005012",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Semaglutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Glucagon-like peptide 1 receptor agonist (GLP-1 RA).",
+  "primary_endpoint": "Change in fibrosis due to NAFLD at 52 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 911,
+    "output_tokens": 142,
+    "cost_usd": 0.000162
+  }
+}

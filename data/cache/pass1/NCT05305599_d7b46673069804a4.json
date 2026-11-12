@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05305599",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "ZED1227",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Peptidomimetic designed to inhibit human tissue transglutaminase 2 (TG2).",
+  "primary_endpoint": "Relative change of PRO-C3 levels at 12 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 898,
+    "output_tokens": 111,
+    "cost_usd": 0.000145
+  }
+}

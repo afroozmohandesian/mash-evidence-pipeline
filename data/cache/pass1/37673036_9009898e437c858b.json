@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37673036",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "resistant starch (RS)",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": "Alters gut microbiota composition and functionality, with changes in branched-chain amino acid availability linked to hepatic steatosis.",
+  "primary_endpoint": "Intrahepatic triglyceride content (IHTC) after 4 months.",
+  "efficacy_outcome": "Compared with control (n=97), RS (n=99) reduced IHTC by 9.08% (5.89% after adjustment for weight loss).",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1026,
+    "output_tokens": 307,
+    "cost_usd": 0.000256
+  }
+}

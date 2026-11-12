@@ -1,0 +1,32 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02654665",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Liraglutide",
+      "role": "investigational"
+    },
+    {
+      "name": "Lifestyle modification",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "Bariatric surgery",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": "GLP-1 agonist",
+  "primary_endpoint": "Improvement in NASH at 12 months",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 873,
+    "output_tokens": 247,
+    "cost_usd": 0.000211
+  }
+}

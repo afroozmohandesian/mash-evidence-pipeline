@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "33648515",
+  "relevant": false,
+  "drugs": [
+    {
+      "name": "empagliflozin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Sodium-glucose cotransporter 2 (SGLT2) inhibitor.",
+  "primary_endpoint": "Change in epicardial fat volume between empagliflozin and placebo from baseline to 12 weeks.",
+  "efficacy_outcome": "No effect on myocardial or epicardial fat; liver fat content decreased by 27 ± 23% with empagliflozin versus 2 ± 24% with placebo (p = 0.0005).",
+  "efficacy_direction": "negative",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1524,
+    "output_tokens": 569,
+    "cost_usd": 0.000437
+  }
+}

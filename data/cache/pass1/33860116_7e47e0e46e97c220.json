@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "33860116",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Resmetirom (MGL-3196)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Selective thyroid hormone receptor-beta agonist.",
+  "primary_endpoint": "Relative liver fat reduction assessed by MRI-PDFF at week 36.",
+  "efficacy_outcome": "At OLE week 36, MRI-PDFF decreased by a mean 11.1% (SE 1.5%; P < 0.0001), corresponding to a 52.3% mean relative reduction (SE 4.4%; P < 0.0001) from baseline.",
+  "efficacy_direction": "positive",
+  "safety_signal": "Well tolerated, with few nonserious adverse events.",
+  "evidence_type": "single-arm trial",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1377,
+    "output_tokens": 351,
+    "cost_usd": 0.000313
+  }
+}

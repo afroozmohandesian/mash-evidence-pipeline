@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02927314",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "CF102",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in serum ALT and MRI-determined hepatic steatosis at 12 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 935,
+    "output_tokens": 135,
+    "cost_usd": 0.000161
+  }
+}

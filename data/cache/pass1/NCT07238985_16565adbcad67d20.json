@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07238985",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Cilostazol",
+      "role": "investigational"
+    },
+    {
+      "name": "Standard therapy",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": "The specific mechanism by which cilostazol may ameliorate hepatic steatosis is unknown.",
+  "primary_endpoint": "Change in ultrasound steatosis and fibrosis risk scores at 3 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 1/2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 970,
+    "output_tokens": 248,
+    "cost_usd": 0.000221
+  }
+}

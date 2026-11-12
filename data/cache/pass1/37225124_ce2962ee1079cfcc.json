@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37225124",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Lactobacillus acidophilus",
+      "role": "investigational"
+    },
+    {
+      "name": "Bifidobacterium lactis",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in AST to Platelet Ratio Index (APRI) score after 6 months.",
+  "efficacy_outcome": "APRI decreased over time in the probiotic group; no numerical estimate or p-value was reported. Liver fibrosis, steatosis, and inflammatory activity showed no significant between-group differences.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1287,
+    "output_tokens": 392,
+    "cost_usd": 0.000325
+  }
+}

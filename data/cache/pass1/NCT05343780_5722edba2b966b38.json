@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05343780",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Heptex",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Anti-oxidant activity.",
+  "primary_endpoint": "Anti-oxidant activity at 36 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 888,
+    "output_tokens": 173,
+    "cost_usd": 0.000175
+  }
+}

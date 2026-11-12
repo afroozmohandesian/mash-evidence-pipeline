@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36251165",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Rencofilstat (CRV431)",
+      "role": "investigational"
+    },
+    {
+      "name": "high-fat meal",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": "Cyclophilin inhibitor.",
+  "primary_endpoint": "Relative bioavailability of a single 225-mg dose under fasted versus high-fat fed conditions.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "No treatment-emergent adverse events occurred in the fasted group; 1 occurred in the high-fat meal group.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 1",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1132,
+    "output_tokens": 419,
+    "cost_usd": 0.000323
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04685993",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "LPCN 1144",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Safety and tolerability of LPCN 1144 from baseline to Week 36.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "1/25 participants had a serious adverse event; 1 death was reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 960,
+    "output_tokens": 174,
+    "cost_usd": 0.000183
+  }
+}

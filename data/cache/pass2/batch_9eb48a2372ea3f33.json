@@ -1,0 +1,65 @@
+[
+ {
+  "raw_name": "vitamin e [(all-rac)-α-tocopheryl acetate]",
+  "canonical_name": "vitamin e",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Antioxidant; vitamin E acetate",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "viusid",
+  "canonical_name": "viusid",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Multi-ingredient nutritional supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "vk2809",
+  "canonical_name": "vk2809",
+  "moa_class": "THR-beta agonist",
+  "moa_detail": "Liver-targeted THR-beta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "vonafexor",
+  "canonical_name": "vonafexor",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "vsa006",
+  "canonical_name": "vsa006",
+  "moa_class": "Unknown",
+  "moa_detail": "Unknown",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "vv-14303",
+  "canonical_name": "vv-14303",
+  "moa_class": "Unknown",
+  "moa_detail": "Unknown",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "wy-8678 (guanabenz acetate)",
+  "canonical_name": "guanabenz",
+  "moa_class": "Other",
+  "moa_detail": "Alpha-2 adrenergic receptor agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "zed1227",
+  "canonical_name": "zed1227",
+  "moa_class": "Other",
+  "moa_detail": "Transglutaminase 2 inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "zsp1601",
+  "canonical_name": "zsp1601",
+  "moa_class": "CCR2/CCR5 antagonist",
+  "moa_detail": "CCR2 and CCR5 antagonist",
+  "novel_mash_agent": true
+ }
+]

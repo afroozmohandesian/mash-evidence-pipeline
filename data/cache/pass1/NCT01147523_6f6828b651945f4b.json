@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01147523",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Spironolactone",
+      "role": "investigational"
+    },
+    {
+      "name": "Vitamin E",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Serum adipocytokine levels at 52 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 887,
+    "output_tokens": 232,
+    "cost_usd": 0.000205
+  }
+}

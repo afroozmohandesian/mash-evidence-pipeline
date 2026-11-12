@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38872173",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "low carbohydrate, high protein calorie-restricted diet, exercise, and intensive dietitian counseling",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "balanced calorie-restricted diet, exercise, and standard counseling",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in fat attenuation parameter (FAP) from baseline to week 12, analyzed in the per-protocol set.",
+  "efficacy_outcome": "Compared with control, intensive lifestyle intervention significantly reduced FAP (LS mean difference, 16.07 dB/m; 95% CI, 8.90–23.25) and BMI (1.46 kg/m²; 95% CI, 1.09–1.82); LSM improvement was not significant (0.20 kPa; 95% CI, −0.19 to 0.59).",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1382,
+    "output_tokens": 353,
+    "cost_usd": 0.000315
+  }
+}

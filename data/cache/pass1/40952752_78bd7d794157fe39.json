@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40952752",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "GLP-1 RAs",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Changes in HbA1c, fasting glucose, body weight, BMI, BMI z scores or percentiles, BMI SDS, lipids, and blood pressure.",
+  "efficacy_outcome": "GLP-1 RAs significantly reduced HbA1c (-0.44 percentage points; 95% CI, -0.68 to -0.21), fasting glucose (-9.92 mg/dL; 95% CI, -16.20 to -3.64), body weight (-3.02 kg; 95% CI, -4.98 to -1.06), BMI (-1.45; 95% CI, -2.40 to -0.49), BMI SDS (-0.20; 95% CI, -0.36 to -0.05), BMI percentile (-7.24%; 95% CI, -12.97 to -1.51), and systolic blood pressure (-2.73 mm Hg; 95% CI, -4.04 to -1.43) versus placebo.",
+  "efficacy_direction": "positive",
+  "safety_signal": "Gastrointestinal adverse events increased (log rate ratio, 0.75); other adverse events, including suicidal ideation or behaviors, showed no significant differences.",
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1634,
+    "output_tokens": 590,
+    "cost_usd": 0.000458
+  }
+}

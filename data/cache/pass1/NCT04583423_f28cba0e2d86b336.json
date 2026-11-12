@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04583423",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "MK-3655",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percentage of participants with NASH resolution without worsening of fibrosis at Week 52.",
+  "efficacy_outcome": "NASH resolution without worsening fibrosis: 16.7% (50 mg), 14.3% (100 mg), and 17.6% (300 mg) vs 5.9% with placebo; respective p-values 0.3504, 0.3730, and 0.1428.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Adverse events occurred in 70.2–76.1% of MK-3655 participants vs 77.3% with placebo; serious AEs affected 1/45, 1/47, and 1/46 participants across MK-3655 doses vs 8/44 with placebo. Discontinuations due to AEs were 2.2%, 0%, and 0% vs 0%; no deaths.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1350,
+    "output_tokens": 350,
+    "cost_usd": 0.00031
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01766713",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Ezetimibe",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in liver fat measured by MRI-PDFF from baseline to 24 weeks.",
+  "efficacy_outcome": "MRI-PDFF values reported as 15.0 vs 18.5 and 11.6 vs 16.4 for ezetimibe and placebo, respectively; no statistical comparison was reported.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious AEs: 1/25 with ezetimibe and 0/25 with placebo; no deaths in either group.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 955,
+    "output_tokens": 314,
+    "cost_usd": 0.000253
+  }
+}

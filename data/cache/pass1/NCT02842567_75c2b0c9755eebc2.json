@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02842567",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Hydroxytyrosol",
+      "role": "investigational"
+    },
+    {
+      "name": "Vitamin E",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Improvement in laboratory markers of inflammation and oxidative stress, and metabolic syndrome parameters (including lipids, gluco-insulinemic profile, and transaminases) at 4 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 951,
+    "output_tokens": 129,
+    "cost_usd": 0.00016
+  }
+}

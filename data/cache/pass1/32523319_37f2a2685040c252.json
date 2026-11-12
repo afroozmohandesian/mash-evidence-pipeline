@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32523319",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "continuous positive airway pressure (CPAP)",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1233,
+    "output_tokens": 354,
+    "cost_usd": 0.0003
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02855164",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Tropifexor (LJN452)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Treatment-emergent adverse events, change in ALT and AST, and change in liver fat by MRI; Parts A and B at Week 12, Part C at Week 48.",
+  "efficacy_outcome": "ALT decreased by 16.7–28.7 IU/L across tropifexor doses versus 8.1 IU/L for Parts A+B placebo and 11.7 IU/L for Part C placebo; AST decreased by 2.1–16.7 U/L versus 7.1 and 13.1 U/L, respectively. Liver fat decreased by 7.48%–39.54% across doses versus 6.19% and 3.58% for placebo; reported MRI comparisons included p=0.029 and p<0.001.",
+  "efficacy_direction": "mixed",
+  "safety_signal": "TEAEs occurred in 5–61 participants across tropifexor dose groups, versus 31 in Parts A+B placebo and 46 in Part C placebo. Serious AEs: 0/13, 0/17, 0/37, 4/85, 5/50, and 3/51 across tropifexor groups versus 6/97 with placebo; no deaths.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 2416,
+    "output_tokens": 499,
+    "cost_usd": 0.000491
+  }
+}

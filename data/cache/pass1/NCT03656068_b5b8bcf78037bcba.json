@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03656068",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Nitazoxanide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Safety outcomes, including treatment-emergent adverse events and clinically significant changes, assessed at 28 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Among 21 participants, 20 experienced a TEAE and 18 a drug-related TEAE; 4 experienced a serious AE, with no drug-related SAEs or deaths. One participant withdrew due to an AE.",
+  "evidence_type": "single-arm trial",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1848,
+    "output_tokens": 143,
+    "cost_usd": 0.000256
+  }
+}

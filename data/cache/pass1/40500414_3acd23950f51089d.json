@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40500414",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "TERN-501",
+      "role": "investigational"
+    },
+    {
+      "name": "TERN-101",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "TERN-501 is a thyroid hormone receptor-beta (THRβ) agonist; TERN-101 is a farnesoid X receptor agonist.",
+  "primary_endpoint": "Relative change from baseline at week 12 in liver fat content by MRI-PDFF with TERN-501 monotherapy versus placebo.",
+  "efficacy_outcome": "Week-12 MRI-PDFF least-squares mean change was −15.4% with TERN-501 1 mg, −27.5% with 3 mg (P = 0.0036), and −44.8% with 6 mg (P < 0.0001), versus −4.0% with placebo.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1207,
+    "output_tokens": 461,
+    "cost_usd": 0.000351
+  }
+}

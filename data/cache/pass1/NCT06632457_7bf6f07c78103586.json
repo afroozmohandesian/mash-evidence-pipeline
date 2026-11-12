@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06632457",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Survodutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Time to first occurrence of the composite clinical endpoint through up to 4.5 years: all-cause mortality, liver transplant, hepatic decompensation, worsening of MELD score to ≥15, or progression to CSPH.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 972,
+    "output_tokens": 124,
+    "cost_usd": 0.000159
+  }
+}

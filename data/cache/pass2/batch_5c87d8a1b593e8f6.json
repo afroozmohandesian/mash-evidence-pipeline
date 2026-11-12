@@ -1,0 +1,422 @@
+[
+ {
+  "raw_name": "catechin",
+  "canonical_name": "catechin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Plant-derived flavonoid antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "cc-90001",
+  "canonical_name": "selonsertib",
+  "moa_class": "ASK1 / apoptosis inhibitor",
+  "moa_detail": "ASK1 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "cenicriviroc",
+  "canonical_name": "cenicriviroc",
+  "moa_class": "CCR2/CCR5 antagonist",
+  "moa_detail": "CCR2 and CCR5 antagonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "cenicriviroc (cvc)",
+  "canonical_name": "cenicriviroc",
+  "moa_class": "CCR2/CCR5 antagonist",
+  "moa_detail": "CCR2 and CCR5 antagonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "cf102",
+  "canonical_name": "namodenoson",
+  "moa_class": "Other",
+  "moa_detail": "A3 adenosine receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "chazhu xiaozhi decoction",
+  "canonical_name": "chazhu xiaozhi decoction",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Traditional multi-herb decoction",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "chiglitazar",
+  "canonical_name": "chiglitazar",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "Pan-PPAR agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "chlorogenic acid",
+  "canonical_name": "chlorogenic acid",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Plant polyphenol",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "cholecalciferol",
+  "canonical_name": "cholecalciferol",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Vitamin D3",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "cholestyramine",
+  "canonical_name": "cholestyramine",
+  "moa_class": "Bile acid / UDCA",
+  "moa_detail": "Bile acid sequestrant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "chromium picolinate",
+  "canonical_name": "chromium picolinate",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Chromium supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "cilo",
+  "canonical_name": "cilofexor",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "cilofexor",
+  "canonical_name": "cilofexor",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "cilofexor (cilo)/firsocostat (fir)",
+  "canonical_name": "cilofexor + firsocostat",
+  "moa_class": "Combination therapy",
+  "moa_detail": "FXR agonist plus ACC inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "cilofexor + firsocostat",
+  "canonical_name": "cilofexor + firsocostat",
+  "moa_class": "Combination therapy",
+  "moa_detail": "FXR agonist plus ACC inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "cilofexor + selonsertib",
+  "canonical_name": "cilofexor + selonsertib",
+  "moa_class": "Combination therapy",
+  "moa_detail": "FXR agonist plus ASK1 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "cilostazol",
+  "canonical_name": "cilostazol",
+  "moa_class": "Other",
+  "moa_detail": "Phosphodiesterase 3 inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "cm-101",
+  "canonical_name": "CM-101",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Anti-CCL24 monoclonal antibody",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "coenzyme q10 forte®",
+  "canonical_name": "coenzyme q10",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Mitochondrial antioxidant supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "colesevelam",
+  "canonical_name": "colesevelam",
+  "moa_class": "Bile acid / UDCA",
+  "moa_detail": "Bile acid sequestrant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "combination drug",
+  "canonical_name": "combination drug",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Unspecified combination therapy",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "combination of cynara scolymus, silybum marianum, curcuma longa, and glycyrrhiza glabra",
+  "canonical_name": "cynara scolymus + silybum marianum + curcuma longa + glycyrrhiza glabra",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Combination of herbal extracts",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "concentrated fish oil",
+  "canonical_name": "fish oil",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "Omega-3 fatty acid supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "cotadutide",
+  "canonical_name": "cotadutide",
+  "moa_class": "GLP-1/glucagon dual agonist",
+  "moa_detail": "GLP-1 and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "crv431",
+  "canonical_name": "CRV431",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Cyclophilin inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "cs0159 (linafexor)",
+  "canonical_name": "linafexor",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "cs060380",
+  "canonical_name": "CS060380",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "csg452",
+  "canonical_name": "CSG452",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "curcumin",
+  "canonical_name": "curcumin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Turmeric-derived polyphenol",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "curcumin meriva",
+  "canonical_name": "curcumin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Curcumin phytosome formulation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "curcuminoids",
+  "canonical_name": "curcuminoids",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Turmeric-derived polyphenols",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "curcuvail® (curcuma longa extract containing 35% curcuminoids)",
+  "canonical_name": "curcumin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Turmeric extract with curcuminoids",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "cystadane",
+  "canonical_name": "betaine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Methyl donor supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "cysteamine",
+  "canonical_name": "cysteamine",
+  "moa_class": "Other",
+  "moa_detail": "Cysteine precursor; mechanism in MASH unclear",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "da-1241",
+  "canonical_name": "DA-1241",
+  "moa_class": "Other",
+  "moa_detail": "GPR119 agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "danshao shugan granules (dssg)",
+  "canonical_name": "danshao shugan granules",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Traditional Chinese herbal formulation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "dapagliflozin",
+  "canonical_name": "dapagliflozin",
+  "moa_class": "SGLT2 inhibitor",
+  "moa_detail": "Sodium-glucose cotransporter 2 inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "dapagliflozin (dapa)",
+  "canonical_name": "dapagliflozin",
+  "moa_class": "SGLT2 inhibitor",
+  "moa_detail": "Sodium-glucose cotransporter 2 inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "dasatinib",
+  "canonical_name": "dasatinib",
+  "moa_class": "Other",
+  "moa_detail": "Multikinase inhibitor; senolytic use investigated",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "dd01",
+  "canonical_name": "DD01",
+  "moa_class": "GLP-1/glucagon dual agonist",
+  "moa_detail": "GLP-1 and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "denifanstat",
+  "canonical_name": "denifanstat",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "Fatty acid synthase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "dha",
+  "canonical_name": "docosahexaenoic acid",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "Omega-3 fatty acid",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "diacerein",
+  "canonical_name": "diacerein",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Interleukin-1 modulating anti-inflammatory",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "diamel",
+  "canonical_name": "diamel",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "dietary supplement containing dry extracts of bergamot and artichoke",
+  "canonical_name": "bergamot + artichoke extract",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Combination of botanical extracts",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "digoxin",
+  "canonical_name": "digoxin",
+  "moa_class": "Other",
+  "moa_detail": "Cardiac glycoside; sodium-potassium ATPase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "dihydroartemisinin",
+  "canonical_name": "dihydroartemisinin",
+  "moa_class": "Other",
+  "moa_detail": "Artemisinin derivative; antimalarial",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "diosmin",
+  "canonical_name": "diosmin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Citrus-derived flavonoid",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "dipeptidyl peptidase 4 (dpp-4) inhibitor",
+  "canonical_name": "dipeptidyl peptidase 4 inhibitor",
+  "moa_class": "DPP-4 inhibitor",
+  "moa_detail": "Dipeptidyl peptidase 4 inhibition",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "docosahexaenoic acid plus vitamin e plus choline",
+  "canonical_name": "docosahexaenoic acid + vitamin e + choline",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Omega-3 fatty acid, vitamin, and nutrient",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "dpp4 inhibitors",
+  "canonical_name": "DPP-4 inhibitors",
+  "moa_class": "DPP-4 inhibitor",
+  "moa_detail": "Dipeptidyl peptidase 4 inhibition",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "dr cysteamine bitartrate",
+  "canonical_name": "cysteamine",
+  "moa_class": "Other",
+  "moa_detail": "Cysteine precursor; mechanism in MASH unclear",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "dr10624",
+  "canonical_name": "DR10624",
+  "moa_class": "GLP-1/GIP/glucagon triple agonist",
+  "moa_detail": "GLP-1, GIP, and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "dulaglutide",
+  "canonical_name": "dulaglutide",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ecc0509",
+  "canonical_name": "ECC0509",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ecc4703",
+  "canonical_name": "ECC4703",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "edp-305",
+  "canonical_name": "EDP-305",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "efamax",
+  "canonical_name": "efamax",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "efimosfermin",
+  "canonical_name": "efimosfermin alfa",
+  "moa_class": "FGF21 analogue",
+  "moa_detail": "Long-acting FGF21 analogue",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "efimosfermin alfa",
+  "canonical_name": "efimosfermin alfa",
+  "moa_class": "FGF21 analogue",
+  "moa_detail": "Long-acting FGF21 analogue",
+  "novel_mash_agent": true
+ }
+]

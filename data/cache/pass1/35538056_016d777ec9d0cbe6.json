@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "35538056",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Aerobic exercise",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "Diet",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Gut microbiota composition after the 8.6-month intervention.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "No adverse effects were observed with the interventions.",
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1127,
+    "output_tokens": 374,
+    "cost_usd": 0.0003
+  }
+}

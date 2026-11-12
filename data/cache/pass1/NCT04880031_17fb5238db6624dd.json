@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04880031",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Efimosfermin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Treatment-emergent adverse events and serious adverse events through end of study or early termination (Day 393); other listed primary outcomes are vital-sign changes and Grade 3/4 laboratory abnormalities.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1209,
+    "output_tokens": 117,
+    "cost_usd": 0.000179
+  }
+}

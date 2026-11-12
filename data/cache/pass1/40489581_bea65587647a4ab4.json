@@ -1,0 +1,52 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40489581",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "liraglutide",
+      "role": "investigational"
+    },
+    {
+      "name": "exenatide",
+      "role": "investigational"
+    },
+    {
+      "name": "dulaglutide",
+      "role": "investigational"
+    },
+    {
+      "name": "semaglutide",
+      "role": "investigational"
+    },
+    {
+      "name": "tirzepatide",
+      "role": "investigational"
+    },
+    {
+      "name": "efinopegdutide",
+      "role": "investigational"
+    },
+    {
+      "name": "survodutide",
+      "role": "investigational"
+    },
+    {
+      "name": "retatrutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs).",
+  "primary_endpoint": null,
+  "efficacy_outcome": "Across 25 RCTs (2,600 patients), GLP-1RAs reduced liver fat content by 5.21% over a median 24 weeks. Histological steatosis, ballooning, and lobular inflammation improved significantly; fibrosis did not improve significantly.",
+  "efficacy_direction": "positive",
+  "safety_signal": "No drug-related adverse effects involving the liver were observed.",
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1301,
+    "output_tokens": 452,
+    "cost_usd": 0.000356
+  }
+}

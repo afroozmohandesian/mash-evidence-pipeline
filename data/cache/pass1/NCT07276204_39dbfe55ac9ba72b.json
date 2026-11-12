@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07276204",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Betaine",
+      "role": "investigational"
+    },
+    {
+      "name": "Standard of Care (SOC)",
+      "role": "background therapy"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "NIS2+ at 24 weeks of treatment.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 941,
+    "output_tokens": 101,
+    "cost_usd": 0.000145
+  }
+}

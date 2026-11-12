@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04399538",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "PF-06865571",
+      "role": "investigational"
+    },
+    {
+      "name": "PF-05221304",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percent change from baseline in liver fat by MRI-PDFF at Week 6.",
+  "efficacy_outcome": "Liver fat percent change was −54.07%, −58.14%, −60.28%, and −47.75% across the four combination regimens, versus −3.58% with placebo; reported p-values were <0.0001 for three regimens and 0.0003 for the fourth.",
+  "efficacy_direction": "positive",
+  "safety_signal": "No serious adverse events or deaths were reported in any group (placebo 0/15; combination groups 0/15, 0/13, 0/18, and 0/14).",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1373,
+    "output_tokens": 304,
+    "cost_usd": 0.000289
+  }
+}

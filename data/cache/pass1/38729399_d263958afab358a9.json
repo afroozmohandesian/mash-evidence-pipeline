@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38729399",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "cotadutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Peptide co-agonist at the GLP-1 and glucagon (GCG) receptors.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "At 19 weeks, cotadutide 600 μg versus placebo reduced absolute hepatic fat fraction by 5.0 percentage points (95% CI, −8.5 to −1.5), ALT by 23.5 U/L (95% CI, −47.1 to −1.8), and AST by 16.8 U/L (95% CI, −33.0 to −0.8).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Any-grade treatment-emergent adverse events occurred in 91.7% with 600 μg, 76.9% with 300 μg, and 37.5% with placebo; events were mostly mild-to-moderate gastrointestinal events. Discontinuations due to these events occurred in 16.7%, 7.7%, and 4.2%, respectively.",
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1275,
+    "output_tokens": 458,
+    "cost_usd": 0.000356
+  }
+}

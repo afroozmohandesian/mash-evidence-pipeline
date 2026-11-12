@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02132442",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Ergocalciferol",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in hepatic triglyceride content (HTGC) at 6 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 853,
+    "output_tokens": 168,
+    "cost_usd": 0.000169
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "data_source": "PubMed",
+  "source_id": "33081717",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "beta-cryptoxanthin",
+      "role": "investigational"
+    },
+    {
+      "name": "hypocaloric high-protein diet",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "standard hypocaloric diet",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "At 12 weeks, the high-protein diet plus beta-cryptoxanthin group had greater reductions than control in ALT, AST, alkaline phosphatase, and GGT (mean differences −27.2, −7.2, −39.2, and −16.3 IU/L; all p<0.010). Grade 0 steatosis remission was 82.6% versus 0.0% in control (p<0.001).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Sixteen patients reported minor adverse events; event details were not reported.",
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1245,
+    "output_tokens": 360,
+    "cost_usd": 0.000304
+  }
+}

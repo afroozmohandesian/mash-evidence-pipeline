@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07900087",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Roflumilast",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Targets PDE4.",
+  "primary_endpoint": "Change in degree of steatosis by ultrasound at 3 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2/3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 916,
+    "output_tokens": 142,
+    "cost_usd": 0.000163
+  }
+}

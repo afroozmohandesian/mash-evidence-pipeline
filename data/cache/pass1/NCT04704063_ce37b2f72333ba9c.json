@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04704063",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Palm Tocotrienols complex",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Reduction of liver fat (VLFF) at 12 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 890,
+    "output_tokens": 143,
+    "cost_usd": 0.00016
+  }
+}

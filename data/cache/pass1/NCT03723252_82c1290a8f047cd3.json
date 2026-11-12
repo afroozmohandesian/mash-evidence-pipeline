@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03723252",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Dapagliflozin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Improvement in scored liver histology from baseline to 12 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 877,
+    "output_tokens": 93,
+    "cost_usd": 0.000134
+  }
+}

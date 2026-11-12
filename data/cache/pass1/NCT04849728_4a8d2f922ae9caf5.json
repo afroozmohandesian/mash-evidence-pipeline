@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04849728",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "IVA337 (lanifibranor)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Resolution of NASH and improvement of fibrosis at Week 72.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1067,
+    "output_tokens": 207,
+    "cost_usd": 0.00021
+  }
+}

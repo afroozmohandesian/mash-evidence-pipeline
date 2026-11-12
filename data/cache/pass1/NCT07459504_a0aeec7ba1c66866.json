@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07459504",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Essential Amino Acids Supplementation intervention",
+      "role": "investigational"
+    },
+    {
+      "name": "Low sugar diet",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in hepatic steatosis from baseline to 24 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 941,
+    "output_tokens": 108,
+    "cost_usd": 0.000148
+  }
+}

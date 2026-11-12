@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36801448",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "MSDC-0602K",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "MPC inhibition was linked to activation of mTOR and AMPK signaling, reduced BCKDH phosphorylation, and increased BCAA catabolism.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "In patients with NASH, plasma BCAA concentrations decreased from baseline with MSDC-0602K, while placebo had no effect; numerical results were not reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1343,
+    "output_tokens": 450,
+    "cost_usd": 0.000359
+  }
+}

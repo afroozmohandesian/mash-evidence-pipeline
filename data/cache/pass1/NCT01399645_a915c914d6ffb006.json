@@ -1,0 +1,32 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01399645",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Liraglutide (Victoza, Novo Nordisk)",
+      "role": "investigational"
+    },
+    {
+      "name": "Insulin glargine (Lantus, Sanofi-Aventis)",
+      "role": "active comparator"
+    },
+    {
+      "name": "metformin",
+      "role": "background therapy"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in liver fat fraction at 12 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 944,
+    "output_tokens": 217,
+    "cost_usd": 0.000203
+  }
+}

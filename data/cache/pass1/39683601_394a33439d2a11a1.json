@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "39683601",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Dietary interventions for inappropriate diets",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": "Inappropriate diets may promote MASLD and abdominal obesity through hepatic de novo lipid synthesis, insulin resistance, gut-liver dysfunction, and inflammation. Visceral fat increases free-fatty-acid flux to the liver, contributing to oxidative and endoplasmic-reticulum stress, PKC-pathway activation, and inflammation.",
+  "primary_endpoint": null,
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1201,
+    "output_tokens": 355,
+    "cost_usd": 0.000298
+  }
+}

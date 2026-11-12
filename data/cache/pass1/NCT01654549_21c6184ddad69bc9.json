@@ -1,0 +1,40 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01654549",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Omeprazole",
+      "role": "investigational"
+    },
+    {
+      "name": "Amoxicillin",
+      "role": "investigational"
+    },
+    {
+      "name": "Bismuth subcitrate",
+      "role": "investigational"
+    },
+    {
+      "name": "Azithromycin",
+      "role": "investigational"
+    },
+    {
+      "name": "Lifestyle modification",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Liver fat content at 8 weeks (6 weeks post-treatment).",
+  "efficacy_outcome": "Liver fat content decreased from 8.38 to 7.72 with H. pylori eradication and from 8.50 to 7.29 with lifestyle modification; between-group p=0.10. Within-group changes were significant (both p<0.01).",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events: 0/20 in the H. pylori eradication group and 0/20 in the no-intervention group; deaths not reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1126,
+    "output_tokens": 371,
+    "cost_usd": 0.000298
+  }
+}

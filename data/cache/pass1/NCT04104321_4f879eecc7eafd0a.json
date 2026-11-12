@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04104321",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Aramchol free acid",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Open-label part: improvement of fibrosis based on liver biopsy (up to 72 or 120 weeks); double-blind part: liver histology at 72 weeks and a composite long-term outcome.",
+  "efficacy_outcome": "Open-label fibrosis improvement percentages reported: 31.4%, 26.5%, 51.0%, 74.5%, and 41.2%. Double-blind endpoint results are expected in 2027.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "In the open-label part, 1/154 participants had a serious adverse event; the deaths entry is listed as “154” in the source.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1216,
+    "output_tokens": 465,
+    "cost_usd": 0.000354
+  }
+}

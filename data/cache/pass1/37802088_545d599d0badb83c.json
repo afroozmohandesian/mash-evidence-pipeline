@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37802088",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "efruxifermin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Bivalent Fc-FGF21 analogue that replicates FGF21 agonism of fibroblast growth factor receptor 1c, 2c, or 3c.",
+  "primary_endpoint": "Proportion with at least 1-stage fibrosis improvement and no worsening of NASH at week 24.",
+  "efficacy_outcome": "In the liver biopsy analysis set, endpoint achieved by 39% (15/38) with efruxifermin 28 mg (RR 2.3, 95% CI 1.1–4.8; p=0.025) and 41% (14/34) with 50 mg (RR 2.2, 95% CI 1.0–5.0; p=0.036), versus 20% (8/41) with placebo. In the full analysis set, rates were 36% vs 19% for 28 mg (p=0.033) and 33% vs 19% for 50 mg (p=0.123).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Diarrhoea occurred in 40% of each efruxifermin group versus 19% with placebo; nausea in 28% and 42% versus 23%, respectively, mostly grade 1–2. Five patients discontinued due to adverse events; four serious adverse events occurred in the 50 mg group, one considered drug related; no deaths.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1834,
+    "output_tokens": 387,
+    "cost_usd": 0.000377
+  }
+}

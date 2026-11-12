@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40573083",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "curcumin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Described as modulating inflammation, oxidative stress, hepatic fat accumulation, and fibrosis.",
+  "primary_endpoint": "Change in tumor necrosis factor (TNF) levels over 12 months.",
+  "efficacy_outcome": "TNF levels were significantly lower with curcumin than placebo at all follow-up points (p < 0.001). IL-1β, IL-6, and malondialdehyde also declined, antioxidant enzyme activities increased (all p < 0.001), and hepatic steatosis and liver stiffness significantly improved versus placebo; no numerical effect sizes were reported.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1225,
+    "output_tokens": 250,
+    "cost_usd": 0.000247
+  }
+}

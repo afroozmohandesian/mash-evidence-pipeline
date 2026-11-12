@@ -1,0 +1,22 @@
+# secrets & environment
+.env
+.venv/
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
+
+# OS / Office temp files
+.DS_Store
+~$*
+
+# drafts and earlier versions (kept locally only)
+data/legacy/
+pipeline-Copy1.ipynb
+
+# submission archive
+*_mash_case.zip
+
+# data/cache/ is committed on purpose: cached LLM responses let anyone
+# re-run the notebook end to end without API cost.

@@ -1,0 +1,32 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01754714",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "SAMe 1000 mg",
+      "role": "investigational"
+    },
+    {
+      "name": "SAMe 1500 mg",
+      "role": "investigational"
+    },
+    {
+      "name": "SAMe 2000 mg",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Blood methionine elimination half-life at Week 7.",
+  "efficacy_outcome": "Week 7 methionine elimination half-life: 4.29 hours (1000 mg), 4.66 hours (1500 mg), 4.25 hours (2000 mg), and 4.26 hours (no treatment). No statistical comparison reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs: 0/27 (1000 mg), 0/27 (1500 mg), 0/24 (2000 mg), and 1/28 (no treatment); deaths not reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1240,
+    "output_tokens": 350,
+    "cost_usd": 0.000299
+  }
+}

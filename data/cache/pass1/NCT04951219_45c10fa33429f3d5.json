@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04951219",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Resmetirom (MGL-3196)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Incidence of adverse events with once-daily oral resmetirom at 52 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 945,
+    "output_tokens": 102,
+    "cost_usd": 0.000146
+  }
+}

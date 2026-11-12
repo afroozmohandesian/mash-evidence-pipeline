@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03059446",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Cenicriviroc",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Number of participants with treatment-emergent adverse events from Day 1 until study termination (up to approximately 4 years).",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Treatment-emergent AEs were reported in 140 participants; serious AEs affected 40/167 participants, with 1 death.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 978,
+    "output_tokens": 216,
+    "cost_usd": 0.000206
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03517540",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Tropifexor (LJN452)",
+      "role": "investigational"
+    },
+    {
+      "name": "Cenicriviroc (CVC)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Number of participants with adverse events from first dose through week 48, with follow-up up to a maximum of 66 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs occurred in 5/50 with tropifexor 140 mg, 3/48 with CVC 150 mg, 4/47 with tropifexor 140 mcg plus CVC 150 mg, and 10/48 with tropifexor 90 mg plus CVC 150 mg; no deaths were reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1338,
+    "output_tokens": 433,
+    "cost_usd": 0.00035
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02704403",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Elafibranor",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "NASH resolution without worsening of fibrosis at 72 weeks; time to long-term composite outcome of all-cause mortality, cirrhosis, and liver-related clinical outcomes.",
+  "efficacy_outcome": "At 72 weeks, 138 participants receiving 120 mg elafibranor and 52 receiving placebo achieved NASH resolution without worsening of fibrosis (p=0.0659).",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events affected 190/1,433 participants receiving elafibranor and 95/717 receiving placebo; deaths were 6 and 3, respectively.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1729,
+    "output_tokens": 317,
+    "cost_usd": 0.000331
+  }
+}

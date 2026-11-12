@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37899788",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "semaglutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "Semaglutide increased NASH resolution (OR 3.18, 95% CI 1.70–5.95; P<0.001); fibrosis stage did not significantly improve (OR 0.71, 95% CI 0.15–3.41; P=0.67).",
+  "efficacy_direction": "not reported",
+  "safety_signal": "GI-related side effects were more frequent with semaglutide (OR 3.72, 95% CI 1.68–8.23; P=0.001); serious adverse events were similar to placebo (OR 1.40, 95% CI 0.75–2.62).",
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1544,
+    "output_tokens": 420,
+    "cost_usd": 0.000364
+  }
+}

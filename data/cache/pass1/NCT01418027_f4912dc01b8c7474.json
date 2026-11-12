@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01418027",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Intensive exercise",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "Conventional exercise",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in intrahepatic triglyceride contents at 12 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 930,
+    "output_tokens": 104,
+    "cost_usd": 0.000145
+  }
+}

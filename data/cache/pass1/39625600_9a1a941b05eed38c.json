@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "39625600",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "dapagliflozin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Sodium-glucose cotransporter 2 inhibitor.",
+  "primary_endpoint": "Change in controlled attenuation parameter (CAP) score after 24 weeks.",
+  "efficacy_outcome": "At week 24, CAP was lower with dapagliflozin than control (266.3 ± 57.8 vs 298.6 ± 59.0 dB/m; p=0.002); fatty liver grade was also lower (1.7 ± 0.7 vs 2.2 ± 0.8; p<0.001).",
+  "efficacy_direction": "positive",
+  "safety_signal": "No adverse events were observed.",
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1238,
+    "output_tokens": 232,
+    "cost_usd": 0.00024
+  }
+}

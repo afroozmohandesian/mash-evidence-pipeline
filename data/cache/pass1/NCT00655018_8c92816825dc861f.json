@@ -1,0 +1,32 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00655018",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "alpha tocopherol",
+      "role": "investigational"
+    },
+    {
+      "name": "ascorbic acid",
+      "role": "investigational"
+    },
+    {
+      "name": "lifestyle intervention",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Serum aminotransferase levels at months 12 and 24.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2/3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 948,
+    "output_tokens": 253,
+    "cost_usd": 0.000221
+  }
+}

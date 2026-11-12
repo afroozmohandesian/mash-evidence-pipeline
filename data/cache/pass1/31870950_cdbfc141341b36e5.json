@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "31870950",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "emricasan",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Oral pan-caspase inhibitor.",
+  "primary_endpoint": "Change in hepatic venous pressure gradient (HVPG) at week 24.",
+  "efficacy_outcome": "No significant difference in change in HVPG versus placebo for any dose; adjusted differences were −0.21, −0.45, and −0.58 mmHg for 5, 25, and 50 mg, respectively.",
+  "efficacy_direction": "negative",
+  "safety_signal": "New or worsening decompensating events occurred in approximately 10% over median exposure of 337 days; events and treatment-emergent adverse events were similar across groups. Emricasan appeared safe and well tolerated.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1464,
+    "output_tokens": 313,
+    "cost_usd": 0.000303
+  }
+}

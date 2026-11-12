@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "35843540",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "wheat germ",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "At 12 weeks, versus placebo, wheat germ significantly reduced hepatic steatosis (p=0.043), ALT (p=0.006), GGT (p=0.004), total cholesterol (p=0.018), triglycerides (p=0.046), and hs-CRP (p=0.031), and increased TAC (p=0.001).",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1118,
+    "output_tokens": 262,
+    "cost_usd": 0.000243
+  }
+}

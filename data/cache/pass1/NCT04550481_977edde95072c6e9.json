@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04550481",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Lisinopril",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in PRO-C3 values from baseline to 24 weeks.",
+  "efficacy_outcome": "Reported values for the lisinopril prevention group: 48, 49, and 1; the source does not clarify these values or provide a comparator or statistical test.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious adverse events affected 3/35 participants; 0 deaths.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1033,
+    "output_tokens": 314,
+    "cost_usd": 0.00026
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data_source": "PubMed",
+  "source_id": "33185364",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "semaglutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Glucagon-like peptide-1 receptor agonist.",
+  "primary_endpoint": "NASH resolution with no worsening of fibrosis at 72 weeks, assessed in patients with F2 or F3 fibrosis.",
+  "efficacy_outcome": "NASH resolution without fibrosis worsening occurred in 40%, 36%, and 59% with semaglutide 0.1, 0.2, and 0.4 mg, respectively, versus 17% with placebo (0.4 mg vs placebo, P<0.001). Fibrosis-stage improvement occurred in 43% versus 33% with 0.4 mg versus placebo (P=0.48).",
+  "efficacy_direction": "mixed",
+  "safety_signal": "Semaglutide 0.4 mg versus placebo: nausea 42% vs 11%, constipation 22% vs 12%, and vomiting 15% vs 2%. Across semaglutide groups, malignant neoplasms occurred in 3 patients (1%) versus none with placebo; overall neoplasms occurred in 15% versus 8%, without an organ-specific pattern.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2"
+}

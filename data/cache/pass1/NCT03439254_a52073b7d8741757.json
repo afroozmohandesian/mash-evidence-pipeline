@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03439254",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Obeticholic acid",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "DB phase: number of participants with ≥1-stage fibrosis improvement without worsening of NASH, up to 18 months.",
+  "efficacy_outcome": "Responders: placebo 31, OCA 10 mg 33, and OCA titrated to 25 mg 37; p=0.6172 and p=0.4184 for the reported comparisons.",
+  "efficacy_direction": "negative",
+  "safety_signal": "OLE AE/SAE outcome counts were reported as 199/213/197 and 26/50/48 across the three groups; the source excerpt does not identify which count set corresponds to each event category.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 2403,
+    "output_tokens": 482,
+    "cost_usd": 0.000481
+  }
+}

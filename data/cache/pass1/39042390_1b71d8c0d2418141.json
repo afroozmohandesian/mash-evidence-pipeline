@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "39042390",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Berberine (BBR)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "At 12 weeks, berberine versus placebo significantly reduced ALT (p=0.0105) and de Ritis ratio (p=0.0011); the between-group difference in change in total cholesterol favored berberine (p=0.0009). No significant differences were detected in other lipid or glucose parameters.",
+  "efficacy_direction": "mixed",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1357,
+    "output_tokens": 333,
+    "cost_usd": 0.000302
+  }
+}

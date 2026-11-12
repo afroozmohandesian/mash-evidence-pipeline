@@ -1,0 +1,32 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32647367",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "flaxseed",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "hesperidin",
+      "role": "investigational"
+    },
+    {
+      "name": "lifestyle modification program",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "No primary endpoint specified; hepatic steatosis, metabolic measures, inflammatory biomarkers, and fibrosis were evaluated over 12 weeks.",
+  "efficacy_outcome": "Compared with control, all three intervention groups had significant decreases in alanine aminotransferase, insulin-resistance and insulin-sensitivity indices, fasting glucose, and fatty liver index (Bonferroni-adjusted p<0.008).",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1137,
+    "output_tokens": 306,
+    "cost_usd": 0.000267
+  }
+}

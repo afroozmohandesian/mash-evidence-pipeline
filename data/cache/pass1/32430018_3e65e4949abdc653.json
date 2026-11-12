@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32430018",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "milled chia (Salvia hispanica)",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "After 8 weeks, NAFLD regressed in 52% of patients (P<0.05); visceral abdominal fat decreased 9%, body weight 1.4%, total cholesterol 2.5%, non-HDL cholesterol 3.2%, and circulating free fatty acids 8%.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "single-arm trial",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1168,
+    "output_tokens": 306,
+    "cost_usd": 0.00027
+  }
+}

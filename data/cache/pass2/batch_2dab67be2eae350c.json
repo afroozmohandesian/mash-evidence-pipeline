@@ -1,0 +1,422 @@
+[
+ {
+  "raw_name": "hl",
+  "canonical_name": "hl",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not identified",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "hm15211 (efocipegtrutide)",
+  "canonical_name": "efocipegtrutide",
+  "moa_class": "GLP-1/GIP/glucagon triple agonist",
+  "moa_detail": "GLP-1, GIP and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "hp515",
+  "canonical_name": "hp515",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not identified",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "hpg1860",
+  "canonical_name": "hpg1860",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not identified",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "hrs-4729",
+  "canonical_name": "hrs-4729",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not identified",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "hrs9531",
+  "canonical_name": "hrs9531",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "hsk31679",
+  "canonical_name": "hsk31679",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not identified",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "htd1801",
+  "canonical_name": "berberine + ursodeoxycholate",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Berberine combined with ursodeoxycholate",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "htd1801 (berberine ursodeoxycholate)",
+  "canonical_name": "berberine + ursodeoxycholate",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Berberine combined with ursodeoxycholate",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "hu6",
+  "canonical_name": "hu6",
+  "moa_class": "Other",
+  "moa_detail": "Mitochondrial uncoupling agent",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "huhuanglianzonggan",
+  "canonical_name": "huhuanglianzonggan",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Traditional multi-herb formulation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "hydrochloroquine",
+  "canonical_name": "hydroxychloroquine",
+  "moa_class": "Other",
+  "moa_detail": "Lysosomal and immunomodulatory effects",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "hydroxytyrosol",
+  "canonical_name": "hydroxytyrosol",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Polyphenol antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "hydroxytyrosol (hxt)",
+  "canonical_name": "hydroxytyrosol",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Polyphenol antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ibi362",
+  "canonical_name": "mazdutide",
+  "moa_class": "GLP-1/glucagon dual agonist",
+  "moa_detail": "GLP-1 and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "icosabutate",
+  "canonical_name": "icosabutate",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "Modulates PPAR signaling",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "icosapent ethyl (vascepa)",
+  "canonical_name": "icosapent ethyl",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "Eicosapentaenoic acid ethyl ester",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "idb 1016 (siliphos)",
+  "canonical_name": "silybin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Milk-thistle flavonolignan extract",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "idebenone",
+  "canonical_name": "idebenone",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Coenzyme Q10 analogue antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "idn-6556",
+  "canonical_name": "emricasan",
+  "moa_class": "ASK1 / apoptosis inhibitor",
+  "moa_detail": "Pan-caspase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "imm 124-e",
+  "canonical_name": "imm-124e",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Oral bovine colostrum-derived immunotherapy",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "imm-124e",
+  "canonical_name": "imm-124e",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Oral bovine colostrum-derived immunotherapy",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "imm-h014",
+  "canonical_name": "imm-h014",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not identified",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "insulin (ormd-0801)",
+  "canonical_name": "insulin",
+  "moa_class": "Insulin sensitiser (other)",
+  "moa_detail": "Oral insulin replacement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "int-747",
+  "canonical_name": "obeticholic acid",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "inulin",
+  "canonical_name": "inulin",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Prebiotic fermentable dietary fiber",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ion224",
+  "canonical_name": "ion224",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "siRNA targeting PNPLA3",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "ipragliflozin",
+  "canonical_name": "ipragliflozin",
+  "moa_class": "SGLT2 inhibitor",
+  "moa_detail": "Sodium-glucose cotransporter 2 inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "isis 703802",
+  "canonical_name": "olezarsen",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "Antisense oligonucleotide targeting APOC3",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "itopride",
+  "canonical_name": "itopride",
+  "moa_class": "Other",
+  "moa_detail": "Dopamine D2 antagonist and acetylcholinesterase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "iva337",
+  "canonical_name": "lanifibranor",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "Pan-PPAR alpha, delta and gamma agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "iva337 (lanifibranor)",
+  "canonical_name": "lanifibranor",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "Pan-PPAR alpha, delta and gamma agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "j2h-1702",
+  "canonical_name": "j2h-1702",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not identified",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "jkb-121",
+  "canonical_name": "jkb-121",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "TLR4 antagonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "jkb-122",
+  "canonical_name": "jkb-122",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "TLR4 antagonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "k-877",
+  "canonical_name": "pemafibrate",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "Selective PPAR-alpha agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "k-877-er",
+  "canonical_name": "pemafibrate",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "Extended-release selective PPAR-alpha agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ketohexokinase inhibition",
+  "canonical_name": "ketohexokinase inhibition",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "Ketohexokinase inhibition",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "l-carnitine",
+  "canonical_name": "l-carnitine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Carnitine supports fatty-acid transport",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "l-carnitine tartrate",
+  "canonical_name": "l-carnitine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Carnitine supports fatty-acid transport",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lactiplantibacillus plantarum probiotic mixture",
+  "canonical_name": "lactiplantibacillus plantarum probiotic mixture",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Modulates gut microbiota",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lactobacillus acidophilus",
+  "canonical_name": "lactobacillus acidophilus",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Modulates gut microbiota",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lactobacillus casei shirota (lcs)",
+  "canonical_name": "lactobacillus casei shirota",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Modulates gut microbiota",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "laennec (human placenta hydrolysate) iv",
+  "canonical_name": "human placenta hydrolysate",
+  "moa_class": "Other",
+  "moa_detail": "Placenta-derived hydrolysate of unclear mechanism",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lanifibranor",
+  "canonical_name": "lanifibranor",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "Pan-PPAR alpha, delta and gamma agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "lanifibranor (iva337)",
+  "canonical_name": "lanifibranor",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "Pan-PPAR alpha, delta and gamma agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "leronlimab (pro 140)",
+  "canonical_name": "leronlimab",
+  "moa_class": "CCR2/CCR5 antagonist",
+  "moa_detail": "CCR5 monoclonal antibody antagonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "levothyroxine",
+  "canonical_name": "levothyroxine",
+  "moa_class": "Other",
+  "moa_detail": "Thyroid hormone replacement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "licogliflozin (lik066)",
+  "canonical_name": "licogliflozin",
+  "moa_class": "SGLT2 inhibitor",
+  "moa_detail": "Dual SGLT1 and SGLT2 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "lik066",
+  "canonical_name": "licogliflozin",
+  "moa_class": "SGLT2 inhibitor",
+  "moa_detail": "Dual SGLT1 and SGLT2 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "linzhi jianghuang fufang huoxue anshen (ljf)",
+  "canonical_name": "linzhi jianghuang fufang huoxue anshen",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Traditional multi-herb formulation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "liraglutide",
+  "canonical_name": "liraglutide",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "liraglutide (victoza, novo nordisk)",
+  "canonical_name": "liraglutide",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lisinopril",
+  "canonical_name": "lisinopril",
+  "moa_class": "Other",
+  "moa_detail": "Angiotensin-converting enzyme inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lmb763",
+  "canonical_name": "lmb763",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "longqi jiangzhi decoction",
+  "canonical_name": "longqi jiangzhi decoction",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Traditional multi-herb formulation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "losartan",
+  "canonical_name": "losartan",
+  "moa_class": "Other",
+  "moa_detail": "Angiotensin II type 1 receptor blocker",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "losartan potassium",
+  "canonical_name": "losartan",
+  "moa_class": "Other",
+  "moa_detail": "Angiotensin II type 1 receptor blocker",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lpcn 1144",
+  "canonical_name": "lpcn 1144",
+  "moa_class": "Insulin sensitiser (other)",
+  "moa_detail": "Oral testosterone replacement prodrug",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "lpcn 1144 formulation a",
+  "canonical_name": "lpcn 1144",
+  "moa_class": "Insulin sensitiser (other)",
+  "moa_detail": "Oral testosterone replacement prodrug",
+  "novel_mash_agent": true
+ }
+]

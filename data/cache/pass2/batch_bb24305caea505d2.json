@@ -1,0 +1,422 @@
+[
+ {
+  "raw_name": "13c-methacetin",
+  "canonical_name": "13c-methacetin",
+  "moa_class": "Other",
+  "moa_detail": "13C-labelled diagnostic probe",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "68ga-fapi-46",
+  "canonical_name": "68ga-fapi-46",
+  "moa_class": "Other",
+  "moa_detail": "Radiolabelled fibroblast activation protein imaging tracer",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "a. soehngenii",
+  "canonical_name": "anaerobutyricum soehngenii",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Gut microbiome bacterial therapeutic",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "acarbose",
+  "canonical_name": "acarbose",
+  "moa_class": "Other",
+  "moa_detail": "Alpha-glucosidase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "actos (pioglitazone)",
+  "canonical_name": "pioglitazone",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "PPAR-gamma agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "adi-peg 20",
+  "canonical_name": "pegargiminase",
+  "moa_class": "Other",
+  "moa_detail": "PEGylated arginine deiminase",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "aldafermin",
+  "canonical_name": "aldafermin",
+  "moa_class": "FGF19 analogue",
+  "moa_detail": "Engineered FGF19 analogue",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "aldafermin (ngm282)",
+  "canonical_name": "aldafermin",
+  "moa_class": "FGF19 analogue",
+  "moa_detail": "Engineered FGF19 analogue",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "alg-055009",
+  "canonical_name": "alg-055009",
+  "moa_class": "THR-beta agonist",
+  "moa_detail": "Thyroid hormone receptor beta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "align probiotic supplement",
+  "canonical_name": "align probiotic supplement",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Probiotic bacterial supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "aln-cideb",
+  "canonical_name": "aln-cideb",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "siRNA targeting CIDEB",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "aln-hsd",
+  "canonical_name": "aln-hsd",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "siRNA targeting HSD17B13",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "aln-pnp",
+  "canonical_name": "aln-pnp",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "siRNA targeting purine nucleoside phosphorylase",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "alpha tocopherol",
+  "canonical_name": "alpha-tocopherol",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Vitamin E antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "als-l1023",
+  "canonical_name": "als-l1023",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Lagenaria siceraria extract",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "amlexanox",
+  "canonical_name": "amlexanox",
+  "moa_class": "Insulin sensitiser (other)",
+  "moa_detail": "TBK1 and IKK-epsilon inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "amoxicillin",
+  "canonical_name": "amoxicillin",
+  "moa_class": "Other",
+  "moa_detail": "Beta-lactam antibiotic",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "aramchol",
+  "canonical_name": "aramchol",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "SCD1 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "aramchol free acid",
+  "canonical_name": "aramchol",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "SCD1 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "ari-3037mo",
+  "canonical_name": "ari-3037mo",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "aro-hsd",
+  "canonical_name": "aro-hsd",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "siRNA targeting HSD17B13",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "aro-inhbe",
+  "canonical_name": "aro-inhbe",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "siRNA targeting INHBE",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "asc41",
+  "canonical_name": "asc41",
+  "moa_class": "THR-beta agonist",
+  "moa_detail": "Thyroid hormone receptor beta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "ascorbic acid",
+  "canonical_name": "ascorbic acid",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Vitamin C antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "asp9831",
+  "canonical_name": "asp9831",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "aspirin",
+  "canonical_name": "aspirin",
+  "moa_class": "Other",
+  "moa_detail": "Cyclooxygenase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "atorvastatin",
+  "canonical_name": "atorvastatin",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "HMG-CoA reductase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "avandia",
+  "canonical_name": "rosiglitazone",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "PPAR-gamma agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "avenciguat (bi 685509)",
+  "canonical_name": "avenciguat",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Soluble guanylate cyclase stimulator",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "axa1125",
+  "canonical_name": "axa1125",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Amino acid and metabolic substrate combination",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "az compound",
+  "canonical_name": "az compound",
+  "moa_class": "Unknown",
+  "moa_detail": "Insufficiently specified compound",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "azd2693",
+  "canonical_name": "azd2693",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "Antisense oligonucleotide targeting PNPLA3",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "azd4831 (mitiperstat)",
+  "canonical_name": "mitiperstat",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Myeloperoxidase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "azithromycin",
+  "canonical_name": "azithromycin",
+  "moa_class": "Other",
+  "moa_detail": "Macrolide antibiotic",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "b. animalis subsp. lactis",
+  "canonical_name": "bifidobacterium animalis subsp. lactis",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Probiotic bacterial species",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "belapectin (gr md-02)",
+  "canonical_name": "belapectin",
+  "moa_class": "Galectin-3 inhibitor",
+  "moa_detail": "Galectin-3 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "berberine",
+  "canonical_name": "berberine",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Plant-derived alkaloid; multiple metabolic actions",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "berberine (bbr)",
+  "canonical_name": "berberine",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Plant-derived alkaloid; multiple metabolic actions",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "beta glucosylceramide",
+  "canonical_name": "beta-glucosylceramide",
+  "moa_class": "Other",
+  "moa_detail": "Glycosphingolipid immunomodulator",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "beta-cryptoxanthin",
+  "canonical_name": "beta-cryptoxanthin",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Dietary carotenoid antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "betaine",
+  "canonical_name": "betaine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Methyl donor and osmolyte supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "bfkb8488a",
+  "canonical_name": "bfkb8488a",
+  "moa_class": "FGF21 analogue",
+  "moa_detail": "FGFR1c-beta-Klotho agonist antibody",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "bgt-002",
+  "canonical_name": "bgt-002",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "bi 1467335",
+  "canonical_name": "bi 1467335",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Semicarbazide-sensitive amine oxidase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "bi 3802876",
+  "canonical_name": "bi 3802876",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "bi 770371",
+  "canonical_name": "bi 770371",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "bifidobacterium lactis",
+  "canonical_name": "bifidobacterium animalis subsp. lactis",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Probiotic bacterial species",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "bile acids",
+  "canonical_name": "bile acids",
+  "moa_class": "Bile acid / UDCA",
+  "moa_detail": "Endogenous bile acids",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "bio89-100",
+  "canonical_name": "pegbelfermin",
+  "moa_class": "FGF21 analogue",
+  "moa_detail": "PEGylated FGF21 analogue",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "bismuth subcitrate",
+  "canonical_name": "bismuth subcitrate",
+  "moa_class": "Other",
+  "moa_detail": "Gastrointestinal mucosal protectant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "bms-986036",
+  "canonical_name": "pegbelfermin",
+  "moa_class": "FGF21 analogue",
+  "moa_detail": "PEGylated FGF21 analogue",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "bms-986251",
+  "canonical_name": "bms-986251",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "bms-986263",
+  "canonical_name": "bms-986263",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "HSP47-targeting siRNA",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "bovine colostrum powder",
+  "canonical_name": "bovine colostrum powder",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Nutritional supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "broccoli seed",
+  "canonical_name": "broccoli seed",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Sulforaphane-containing botanical",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "c-c motif chemokine receptor 2 and receptor 5 antagonists",
+  "canonical_name": "ccr2 + ccr5 antagonists",
+  "moa_class": "CCR2/CCR5 antagonist",
+  "moa_detail": "CCR2 and CCR5 chemokine receptor blockade",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "caffeine",
+  "canonical_name": "caffeine",
+  "moa_class": "Other",
+  "moa_detail": "Adenosine receptor antagonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "caffeine and chlorogenic acid",
+  "canonical_name": "caffeine + chlorogenic acid",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Caffeine plus chlorogenic acid",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "cannabidiol (cbd)",
+  "canonical_name": "cannabidiol",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Cannabis-derived cannabinoid",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "carbocysteine",
+  "canonical_name": "carbocisteine",
+  "moa_class": "Other",
+  "moa_detail": "Mucolytic and antioxidant agent",
+  "novel_mash_agent": false
+ }
+]

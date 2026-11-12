@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00063635",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Metformin",
+      "role": "investigational"
+    },
+    {
+      "name": "Vitamin E",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Participants with sustained ALT reduction to ≤50% of baseline or <40 IU/L at baseline and 96 weeks.",
+  "efficacy_outcome": "At 96 weeks, endpoint reached by 9 participants on metformin, 15 on vitamin E, and 10 on placebo; p=0.26 for metformin and p=0.83 for vitamin E (Mantel-Haenszel).",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events: metformin 7/57, vitamin E 6/58, placebo 14/58; deaths not reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1032,
+    "output_tokens": 263,
+    "cost_usd": 0.000235
+  }
+}

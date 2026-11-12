@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04031729",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Aspirin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Absolute change in intrahepatic lipid content by 1H-MRS at 6 months.",
+  "efficacy_outcome": "Mean absolute percentage change at 6 months: aspirin −6.6; placebo 3.6. No statistical comparison was reported.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events affected 1/40 participants in each group; no deaths in either group.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 1/2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 969,
+    "output_tokens": 351,
+    "cost_usd": 0.000272
+  }
+}

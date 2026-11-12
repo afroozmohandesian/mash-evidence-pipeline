@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "34670042",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "lanifibranor",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Pan-PPAR agonist that modulates metabolic, inflammatory, and fibrogenic pathways.",
+  "primary_endpoint": "At 24 weeks, decrease of at least 2 points in SAF-A score without worsening of fibrosis.",
+  "efficacy_outcome": "Primary endpoint met with lanifibranor 1200 mg vs placebo (55% vs 33%, P=0.007), but not with 800 mg (48% vs 33%, P=0.07).",
+  "efficacy_direction": "mixed",
+  "safety_signal": "Adverse-event dropout rate was <5% and similar across groups. Diarrhea, nausea, peripheral edema, anemia, and weight gain occurred more frequently with lanifibranor than placebo.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1443,
+    "output_tokens": 257,
+    "cost_usd": 0.000273
+  }
+}

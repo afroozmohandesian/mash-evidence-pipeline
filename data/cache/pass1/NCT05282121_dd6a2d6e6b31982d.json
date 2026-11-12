@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05282121",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Avenciguat (BI 685509)",
+      "role": "investigational"
+    },
+    {
+      "name": "Empagliflozin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percentage change in HVPG from baseline after 8 weeks of treatment.",
+  "efficacy_outcome": "In NASH groups, HVPG changed by +3.83% with avenciguat and +3.27% with avenciguat plus empagliflozin. Statistical significance was not reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious adverse events occurred in 6/38 patients receiving avenciguat in the NASH group and 0/25 receiving avenciguat plus empagliflozin; no deaths were reported.",
+  "evidence_type": "other",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1241,
+    "output_tokens": 484,
+    "cost_usd": 0.000366
+  }
+}

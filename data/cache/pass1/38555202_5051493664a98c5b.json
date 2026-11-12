@@ -1,0 +1,36 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38555202",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "liraglutide",
+      "role": "investigational"
+    },
+    {
+      "name": "exenatide",
+      "role": "investigational"
+    },
+    {
+      "name": "dulaglutide",
+      "role": "investigational"
+    },
+    {
+      "name": "semaglutie",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "GLP-1 receptor agonists",
+  "primary_endpoint": null,
+  "efficacy_outcome": "Histologic resolution of NASH without worsening liver fibrosis was significantly improved (2 RCTs; WMD 4.08, 95% CI 2.54–6.56; p < 0.00001). CRP was also reduced (7 RCTs; WMD −0.41, 95% CI −0.78 to −0.04; p = 0.002).",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1268,
+    "output_tokens": 379,
+    "cost_usd": 0.000316
+  }
+}

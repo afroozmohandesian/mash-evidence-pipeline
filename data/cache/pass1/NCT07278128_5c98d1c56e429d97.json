@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07278128",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "curcumin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Liver ultrasound view (gradient change), assessed before intervention and 48 hours after its end; other listed co-primary outcomes include BMI, lipid levels, and liver enzymes at the same timepoints.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2/3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1245,
+    "output_tokens": 118,
+    "cost_usd": 0.000183
+  }
+}

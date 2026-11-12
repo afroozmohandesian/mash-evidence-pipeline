@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05731596",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Rosuvastatin",
+      "role": "investigational"
+    },
+    {
+      "name": "Coenzyme Q10",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in liver stiffness measurement and ultrasound score from baseline to week 12.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 931,
+    "output_tokens": 105,
+    "cost_usd": 0.000146
+  }
+}

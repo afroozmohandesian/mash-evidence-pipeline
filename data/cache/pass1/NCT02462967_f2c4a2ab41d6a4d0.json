@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02462967",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "GR-MD-02",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Complex carbohydrate drug that binds to galectin 3.",
+  "primary_endpoint": "Change in HVPG from baseline at 1 year.",
+  "efficacy_outcome": "Mean change in HVPG was -0.39 mm Hg with 2 mg/kg and -0.24 mm Hg with 8 mg/kg, versus +0.19 mm Hg with placebo; p=1.000 for both comparisons.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events: 10/53 (2 mg/kg), 16/54 (8 mg/kg), and 12/54 (placebo); deaths: 1, 0, and 0, respectively.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1100,
+    "output_tokens": 252,
+    "cost_usd": 0.000236
+  }
+}

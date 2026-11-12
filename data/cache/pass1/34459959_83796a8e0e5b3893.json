@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "34459959",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "vitamin D",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Not stated; the abstract notes reported anti-inflammatory and insulin-sensitizing effects.",
+  "primary_endpoint": "Change in hepatic fat content and NAFLD progression after 6 months, assessed by liver biopsy.",
+  "efficacy_outcome": "Compared with placebo, vitamin D significantly improved hepatic steatosis and lobular inflammation, but not hepatocyte ballooning or fibrosis. AST, ALT, TG, LDL, FBG, FBI, and HOMA-IR decreased, while vitamin D levels and HDL increased (P < 0.05).",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1261,
+    "output_tokens": 169,
+    "cost_usd": 0.000211
+  }
+}

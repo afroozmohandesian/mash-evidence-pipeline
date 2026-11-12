@@ -1,0 +1,19 @@
+{
+  "data_source": "PubMed",
+  "source_id": "36857968",
+  "relevant": false,
+  "drugs": [],
+  "mechanism_of_action": "Dasatinib and quercetin are described as senolytics that target senescent cells.",
+  "primary_endpoint": "Adverse events and study feasibility over the 3-week dosing period.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "No serious adverse events related to dasatinib and quercetin were reported. Sleep disturbances and anxiety occurred in 4/6 participants receiving dasatinib and quercetin versus 0/6 receiving placebo.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 1",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1370,
+    "output_tokens": 305,
+    "cost_usd": 0.000289
+  }
+}

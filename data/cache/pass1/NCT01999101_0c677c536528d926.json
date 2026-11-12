@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01999101",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Px-104",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Farnesoid X receptor (FXR) agonist.",
+  "primary_endpoint": "Safety at 28 days.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 843,
+    "output_tokens": 94,
+    "cost_usd": 0.000131
+  }
+}

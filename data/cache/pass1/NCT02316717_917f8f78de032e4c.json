@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02316717",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "IMM-124E",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Safety outcome and percentage of hepatic fat fraction at 24 weeks.",
+  "efficacy_outcome": "Hepatic fat fraction changed by −1.55, −0.90, and −1.85 percentage points in Treatment Arms A, B, and C, respectively; statistical comparisons were not reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Adverse events affected 17 participants with IMM-124E 600 mg, 14 with 1200 mg, and 13 with placebo. Serious AEs affected 1/43, 2/46, and 3/44, respectively; there were no deaths in the IMM-124E groups and one with placebo.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1158,
+    "output_tokens": 376,
+    "cost_usd": 0.000304
+  }
+}

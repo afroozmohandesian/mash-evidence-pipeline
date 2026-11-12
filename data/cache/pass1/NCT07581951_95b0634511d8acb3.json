@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07581951",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "HSK31679",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Resolution of steatohepatitis without worsening of fibrosis and improvement of fibrosis by ≥1 stage without worsening of steatohepatitis at Week 52; time to first disease progression (up to 4.5 years).",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 960,
+    "output_tokens": 125,
+    "cost_usd": 0.000159
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04140123",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "ZSP1601",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Number and severity of treatment-emergent adverse events (TEAEs) and serious adverse events (SAEs), from Day 1 through 2 weeks post-treatment.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 1/2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 968,
+    "output_tokens": 114,
+    "cost_usd": 0.000154
+  }
+}

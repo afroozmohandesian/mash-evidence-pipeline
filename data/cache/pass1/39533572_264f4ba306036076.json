@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "39533572",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "ertugliflozin",
+      "role": "investigational"
+    },
+    {
+      "name": "pioglitazone",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": "Sodium-glucose cotransporter 2 (SGLT2) inhibitor.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "At 24 weeks, fatty liver grades improved, especially with ertugliflozin; Grade 2 cases decreased from 45% to 23.4% with ertugliflozin and from 41.7% to 26.6% with pioglitazone. AST and ALT decreased across groups, especially with ertugliflozin (P ≤ .001).",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1265,
+    "output_tokens": 354,
+    "cost_usd": 0.000304
+  }
+}

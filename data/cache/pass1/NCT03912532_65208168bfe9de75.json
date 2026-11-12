@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03912532",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "NGM282 (Aldafermin)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Liver fibrosis response and treatment-emergent adverse events from baseline to Week 24.",
+  "efficacy_outcome": "Fibrosis response scores were 0.24, 0.25, and 0.27 for aldafermin 0.3, 1.0, and 3.0 mg, respectively, versus 0.23 for placebo (p=0.5534).",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious AEs affected 1/43, 4/41, and 1/43 participants in the aldafermin 0.3, 1.0, and 3.0 mg groups, respectively, versus 3/43 with placebo. One death was reported in the 1.0 mg group; none in the other groups.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 2311,
+    "output_tokens": 404,
+    "cost_usd": 0.000433
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04321031",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "PF-06865571",
+      "role": "investigational"
+    },
+    {
+      "name": "PF-05221304",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Proportion achieving NASH resolution without worsening of fibrosis, fibrosis improvement by ≥1 stage without worsening of NASH, or both, at Week 48.",
+  "efficacy_outcome": "At Week 48, Bayesian-model proportions were 0.38 with placebo and 0.45, 0.48, 0.50, and 0.51 with PF-06865571 at 25, 75, 150, and 300 mg BID, respectively. Statistical comparisons were not reported.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events occurred in 1/34 placebo participants and 1/35, 5/48, 1/42, and 4/31 participants receiving PF-06865571 at 25, 75, 150, and 300 mg BID; rates were 5/35 and 2/30 with combination arms. No deaths were reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1679,
+    "output_tokens": 533,
+    "cost_usd": 0.000434
+  }
+}

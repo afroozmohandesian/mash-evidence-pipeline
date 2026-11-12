@@ -1,0 +1,422 @@
+[
+ {
+  "raw_name": "lpcn 1144 formulation b",
+  "canonical_name": "testosterone",
+  "moa_class": "Other",
+  "moa_detail": "testosterone replacement therapy",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lubiprostone",
+  "canonical_name": "lubiprostone",
+  "moa_class": "Other",
+  "moa_detail": "chloride channel activator",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lum-201 (ibutamoren mesylate)",
+  "canonical_name": "ibutamoren",
+  "moa_class": "Other",
+  "moa_detail": "growth hormone secretagogue",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lyophilized fecal microbiota transplantation",
+  "canonical_name": "fecal microbiota transplantation",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "modulates gut microbiota",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "lys006",
+  "canonical_name": "lys006",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "leukotriene A4 hydrolase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "mb12066",
+  "canonical_name": "mb12066",
+  "moa_class": "Unknown",
+  "moa_detail": "mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "medi0382",
+  "canonical_name": "cotadutide",
+  "moa_class": "GLP-1/glucagon dual agonist",
+  "moa_detail": "GLP-1 and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "met409",
+  "canonical_name": "met409",
+  "moa_class": "FXR agonist",
+  "moa_detail": "farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "met642",
+  "canonical_name": "met642",
+  "moa_class": "FXR agonist",
+  "moa_detail": "farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "metadoxine",
+  "canonical_name": "metadoxine",
+  "moa_class": "Other",
+  "moa_detail": "pyridoxine-pyrrolidone carboxylate salt",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "metformin",
+  "canonical_name": "metformin",
+  "moa_class": "Insulin sensitiser (other)",
+  "moa_detail": "reduces hepatic glucose production",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "metreleptin",
+  "canonical_name": "metreleptin",
+  "moa_class": "Other",
+  "moa_detail": "leptin receptor agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "metreleptin (recombinant-methionyl human leptin (r-methuleptin))",
+  "canonical_name": "metreleptin",
+  "moa_class": "Other",
+  "moa_detail": "leptin receptor agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "metronidazole",
+  "canonical_name": "metronidazole",
+  "moa_class": "Other",
+  "moa_detail": "nitroimidazole antimicrobial",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "mgl-3196",
+  "canonical_name": "resmetirom",
+  "moa_class": "THR-beta agonist",
+  "moa_detail": "selective thyroid hormone receptor beta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "mgl-3196 (resmetirom)",
+  "canonical_name": "resmetirom",
+  "moa_class": "THR-beta agonist",
+  "moa_detail": "selective thyroid hormone receptor beta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "micronutrient-probiotic-combination",
+  "canonical_name": "micronutrients + probiotics",
+  "moa_class": "Combination therapy",
+  "moa_detail": "micronutrient supplementation and microbiome modulation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "milk thistle (mt)",
+  "canonical_name": "milk thistle",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "silymarin-containing botanical extract",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "miricorilant",
+  "canonical_name": "miricorilant",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "glucocorticoid receptor modulator",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "misocholic tab",
+  "canonical_name": "misocholic tab",
+  "moa_class": "Unknown",
+  "moa_detail": "mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "misoprostol",
+  "canonical_name": "misoprostol",
+  "moa_class": "Other",
+  "moa_detail": "prostaglandin E1 analogue",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "mitoquinone mesylate",
+  "canonical_name": "mitoquinone",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "mitochondria-targeted antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "mk-3655",
+  "canonical_name": "efruxifermin",
+  "moa_class": "FGF21 analogue",
+  "moa_detail": "FGF21 analogue",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "mn-001",
+  "canonical_name": "tipelukast",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "leukotriene receptor and PDE inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "mn-001 (tipelukast)",
+  "canonical_name": "tipelukast",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "leukotriene receptor and PDE inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "montelukast",
+  "canonical_name": "montelukast",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "cysteinyl leukotriene receptor antagonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "msdc-0602k",
+  "canonical_name": "mitoglitazone",
+  "moa_class": "Insulin sensitiser (other)",
+  "moa_detail": "mitochondrial pyruvate carrier modulator",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "mt-3995",
+  "canonical_name": "mt-3995",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "peroxisome proliferator-activated receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "myoinosiol",
+  "canonical_name": "myo-inositol",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "inositol supplement affecting insulin signaling",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "n acetyl cysteine",
+  "canonical_name": "acetylcysteine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "glutathione precursor and antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "n-acetyl cysteine",
+  "canonical_name": "acetylcysteine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "glutathione precursor and antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "n-acetyl cysteine (nac)",
+  "canonical_name": "acetylcysteine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "glutathione precursor and antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "n-acetylcysteine",
+  "canonical_name": "acetylcysteine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "glutathione precursor and antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "naltrexone/bupropion",
+  "canonical_name": "naltrexone + bupropion",
+  "moa_class": "Combination therapy",
+  "moa_detail": "opioid antagonist plus norepinephrine-dopamine reuptake inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "namodenoson",
+  "canonical_name": "namodenoson",
+  "moa_class": "Other",
+  "moa_detail": "adenosine A3 receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "naringenin",
+  "canonical_name": "naringenin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "citrus-derived flavonoid",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ngm282",
+  "canonical_name": "aldafermin",
+  "moa_class": "FGF19 analogue",
+  "moa_detail": "engineered FGF19 analogue",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "ngm282 (aldafermin)",
+  "canonical_name": "aldafermin",
+  "moa_class": "FGF19 analogue",
+  "moa_detail": "engineered FGF19 analogue",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "niacinamide",
+  "canonical_name": "nicotinamide",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "vitamin B3 form and NAD precursor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "nicotinamide",
+  "canonical_name": "nicotinamide",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "vitamin B3 form and NAD precursor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "nicotinamide riboside",
+  "canonical_name": "nicotinamide riboside",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "NAD precursor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "nitazoxanide",
+  "canonical_name": "nitazoxanide",
+  "moa_class": "Other",
+  "moa_detail": "antiprotozoal and antimicrobial agent",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "nnc0174 0833",
+  "canonical_name": "nnc0174 0833",
+  "moa_class": "Unknown",
+  "moa_detail": "mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "nnc0194 0499",
+  "canonical_name": "nnc0194 0499",
+  "moa_class": "Unknown",
+  "moa_detail": "mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "norursodeoxycholic acid",
+  "canonical_name": "norursodeoxycholic acid",
+  "moa_class": "Bile acid / UDCA",
+  "moa_detail": "side-chain-shortened hydrophilic bile acid",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "nrl972",
+  "canonical_name": "nrl972",
+  "moa_class": "Unknown",
+  "moa_detail": "mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ns-0200",
+  "canonical_name": "ns-0200",
+  "moa_class": "Unknown",
+  "moa_detail": "mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "obeticholic acid",
+  "canonical_name": "obeticholic acid",
+  "moa_class": "FXR agonist",
+  "moa_detail": "farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "obeticholic acid (oca)",
+  "canonical_name": "obeticholic acid",
+  "moa_class": "FXR agonist",
+  "moa_detail": "farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "okt3",
+  "canonical_name": "muromonab-CD3",
+  "moa_class": "Other",
+  "moa_detail": "CD3-directed monoclonal antibody",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "oligonol",
+  "canonical_name": "oligonol",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "lychee-derived oligomeric polyphenol",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "oltipraz",
+  "canonical_name": "oltipraz",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "activates Nrf2 antioxidant response",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "omega 3",
+  "canonical_name": "omega-3 fatty acids",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "reduces triglyceride synthesis",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "omega 3 fish oil supplements",
+  "canonical_name": "omega-3 fatty acids",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "reduces triglyceride synthesis",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "omega-3 -fish oil",
+  "canonical_name": "omega-3 fatty acids",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "reduces triglyceride synthesis",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "omega-3 carboxylic acid",
+  "canonical_name": "omega-3 carboxylic acids",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "reduces triglyceride synthesis",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "omega-3 carboxylic acids",
+  "canonical_name": "omega-3 carboxylic acids",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "reduces triglyceride synthesis",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "omega-3 fatty acid (dha ee)",
+  "canonical_name": "docosahexaenoic acid ethyl ester",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "omega-3 fatty acid ethyl ester",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "omega-3 fatty acid (dha ee) & vitamin e [(all-rac)-α-tocopheryl acetate]",
+  "canonical_name": "docosahexaenoic acid ethyl ester + alpha-tocopheryl acetate",
+  "moa_class": "Combination therapy",
+  "moa_detail": "omega-3 fatty acid plus antioxidant vitamin",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "omega-3 fatty acids",
+  "canonical_name": "omega-3 fatty acids",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "reduces triglyceride synthesis",
+  "novel_mash_agent": false
+ }
+]

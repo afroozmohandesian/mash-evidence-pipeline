@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "35594631",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "concentrated fish oil",
+      "role": "investigational"
+    },
+    {
+      "name": "corn oil",
+      "role": "active comparator"
+    }
+  ],
+  "mechanism_of_action": "Proposed to ameliorate NAFLD by regulating the FGF21-adiponectin axis.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "After 3 months, fish oil versus corn oil significantly reduced serum ALT (net change −5.4 ± 14.5 vs −0.25 ± 4.70 U/L; P=0.001) and triacylglycerol (−0.70 ± 1.10 vs 0.11 ± 1.04 mmol/L; P=0.018), decreased FGF21, and increased adiponectin.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1236,
+    "output_tokens": 440,
+    "cost_usd": 0.000344
+  }
+}

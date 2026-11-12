@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04932512",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "ION224",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percentage of participants with at least a 2-point reduction in NAS, with at least a 1-point improvement in hepatocellular ballooning or lobular inflammation and no worsening in fibrosis stage at EOT (up to Week 49).",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 963,
+    "output_tokens": 162,
+    "cost_usd": 0.000177
+  }
+}

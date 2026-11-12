@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03669133",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Vitamin E",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percent change in liver fat content by MRI-PDFF from randomization (day 1) to week 24.",
+  "efficacy_outcome": "At week 24, percent change was 0% with Vitamin E and 4% with placebo; no statistical comparison reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs: 0/1 affected in each group; deaths: 0 in each group.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 959,
+    "output_tokens": 144,
+    "cost_usd": 0.000168
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03776175",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "PF-05221304",
+      "role": "investigational"
+    },
+    {
+      "name": "PF-06865571",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percent change from baseline in whole-liver PDFF at Day 42.",
+  "efficacy_outcome": "At Day 42, PDFF changed by 8.14% with placebo, −40.01% with PF-05221304, −30.14% with PF-06865571, and −40.13% with the combination. The three active-arm comparisons with placebo had p-values of 0.0000, 0.0007, and 0.0000, respectively.",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious adverse events: placebo 0/14, PF-05221304 0/29, PF-06865571 0/28, and combination 1/28; no deaths in any arm.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1491,
+    "output_tokens": 336,
+    "cost_usd": 0.000317
+  }
+}

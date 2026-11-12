@@ -1,0 +1,36 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06117137",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "empagliflozin",
+      "role": "investigational"
+    },
+    {
+      "name": "dapagliflozin",
+      "role": "investigational"
+    },
+    {
+      "name": "stander treatment of type two diabetes mellitus",
+      "role": "background therapy"
+    },
+    {
+      "name": "standard treatment of type 2 Diabetes mellitus",
+      "role": "background therapy"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "At 6 months: number of participants with treatment-related adverse events (CTCAE v4.0) and number with tightly controlled diabetes mellitus.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 921,
+    "output_tokens": 332,
+    "cost_usd": 0.000258
+  }
+}

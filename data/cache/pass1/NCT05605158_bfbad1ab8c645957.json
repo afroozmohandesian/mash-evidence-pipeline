@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05605158",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Pioglitazone",
+      "role": "active comparator"
+    },
+    {
+      "name": "Empagliflozin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Changes in FIB-4 and APRI from baseline to week 24, and liver enzymes from baseline to weeks 12 and 24.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 972,
+    "output_tokens": 165,
+    "cost_usd": 0.00018
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05632861",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "HuHuangLianzonggan capsule",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change from baseline in hepatic fat fraction assessed by MRI-PDFF at week 12, and proportion of subjects with ≥30% relative fat reduction on MRI-PDFF at week 12.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 997,
+    "output_tokens": 155,
+    "cost_usd": 0.000177
+  }
+}

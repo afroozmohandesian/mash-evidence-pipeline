@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37717295",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "semaglutide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in serum alanine transaminase level at 24 weeks.",
+  "efficacy_outcome": "Semaglutide reduced serum alanine transaminase (mean difference 14.07 U/L; 95% CI 19.39 to -8.75; p<0.001).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious adverse events were more frequent versus placebo (RR 1.54; 95% CI 1.02–2.34; p=0.04); common events included gastrointestinal and gallbladder-related disorders.",
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1252,
+    "output_tokens": 253,
+    "cost_usd": 0.000252
+  }
+}

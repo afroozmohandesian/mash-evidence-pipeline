@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT02960204",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Emricasan",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Oral caspase inhibitor.",
+  "primary_endpoint": "Mean change in hepatic venous pressure gradient (HVPG) from baseline to Week 24.",
+  "efficacy_outcome": "Mean HVPG change: −0.48 mmHg (5 mg), −0.81 mmHg (25 mg), and −0.70 mmHg (50 mg), versus −0.18 mmHg with placebo; statistical significance was not reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs affected 15/65, 23/65, and 21/66 participants in the 5 mg, 25 mg, and 50 mg emricasan groups, respectively, versus 16/67 with placebo. Deaths were 1, 2, and 1 versus 0.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1058,
+    "output_tokens": 374,
+    "cost_usd": 0.000293
+  }
+}

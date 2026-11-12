@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05327127",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "K-877-ER",
+      "role": "investigational"
+    },
+    {
+      "name": "CSG452",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Improvement in disease activity and no worsening of liver fibrosis (Yes/No) from baseline to Week 48.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 902,
+    "output_tokens": 164,
+    "cost_usd": 0.000172
+  }
+}

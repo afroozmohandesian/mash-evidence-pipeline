@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04328077",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "TERN-101",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Number of participants with adverse events for TERN-101 versus placebo at 16 weeks.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Participants with adverse events: placebo 10; TERN-101 5 mg 13, 10 mg 14, and 15 mg 15. Serious AEs: placebo 1/26, 5 mg 0/25, 10 mg 0/26, and 15 mg 1/23; no deaths.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1094,
+    "output_tokens": 262,
+    "cost_usd": 0.00024
+  }
+}

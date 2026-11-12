@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32065376",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "silymarin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Acts as a free radical scavenger and modulates enzymes associated with cellular damage, fibrosis, and cirrhosis.",
+  "primary_endpoint": null,
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Generally well tolerated, with a low incidence of adverse events; no treatment-related serious adverse events or deaths were reported in clinical trials.",
+  "evidence_type": "other",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1101,
+    "output_tokens": 418,
+    "cost_usd": 0.000319
+  }
+}

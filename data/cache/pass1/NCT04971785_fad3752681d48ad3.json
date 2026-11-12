@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04971785",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Semaglutide (SEMA)",
+      "role": "investigational"
+    },
+    {
+      "name": "Cilofexor (CILO)/Firsocostat (FIR)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percentage achieving ≥1-stage fibrosis improvement without worsening NASH at Week 72.",
+  "efficacy_outcome": "At Week 72, 13.7% with SEMA + CILO/FIR FDC versus 8.3% with matched placebo; p=0.2289.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious AEs: 17/124 with SEMA + CILO/FIR FDC; 13/122 with SEMA + PTM CILO/FIR; 18/123 with PTM SEMA + CILO/FIR FDC; and 11/84 with both PTM treatments. Deaths: 0, 1, 1, and 0, respectively.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1298,
+    "output_tokens": 393,
+    "cost_usd": 0.000326
+  }
+}

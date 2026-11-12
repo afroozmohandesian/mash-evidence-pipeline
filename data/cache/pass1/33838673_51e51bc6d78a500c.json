@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "33838673",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "chlorogenic acid",
+      "role": "investigational"
+    },
+    {
+      "name": "caffeine",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Reduction in hepatic fat and stiffness measured by FibroScan, and changes in serum hepatic enzymes and CK-18 levels over 6 months.",
+  "efficacy_outcome": "Neither chlorogenic acid nor caffeine was superior to placebo for hepatic fat, stiffness, or other hepatic outcomes. Compared with placebo, total cholesterol was lower with caffeine (p=0.04), and insulin was higher with chlorogenic acid plus caffeine (p=0.01); other between-group differences were not significant.",
+  "efficacy_direction": "negative",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1271,
+    "output_tokens": 269,
+    "cost_usd": 0.000262
+  }
+}

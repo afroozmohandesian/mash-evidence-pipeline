@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37047163",
+  "relevant": false,
+  "drugs": [
+    {
+      "name": "bariatric surgery",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "conventional treatment",
+      "role": "background therapy"
+    }
+  ],
+  "mechanism_of_action": "The source states that bariatric surgery results in long-term weight loss and improves metabolic syndrome; it does not specify a mechanism of action.",
+  "primary_endpoint": "Future cancer incidence after bariatric surgery (timepoint not specified).",
+  "efficacy_outcome": "Bariatric surgery was associated with lower overall cancer incidence (RR 0.62, 95% CI 0.46–0.84; p<0.002) and cancer-associated mortality (RR 0.51, 95% CI 0.42–0.62; p<0.00001) versus conventional treatment.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1342,
+    "output_tokens": 384,
+    "cost_usd": 0.000326
+  }
+}

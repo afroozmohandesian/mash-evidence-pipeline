@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "39878023",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "flaxseed powder",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "health education",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Intrahepatic lipid content assessed by MRI proton density fat fraction at 12 weeks.",
+  "efficacy_outcome": "Liver fat content was significantly lower after 12 weeks in the flaxseed group than before intervention (P < 0.05); no between-group result for the primary endpoint was specified.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1331,
+    "output_tokens": 333,
+    "cost_usd": 0.0003
+  }
+}

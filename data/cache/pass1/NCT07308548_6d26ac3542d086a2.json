@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07308548",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "HP515",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Relative change from baseline in liver fat fraction by MRI-PDFF at Week 12.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1076,
+    "output_tokens": 146,
+    "cost_usd": 0.000181
+  }
+}

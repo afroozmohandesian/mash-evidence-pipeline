@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06569524",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "TQA2225/AP025",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Recombinant human FGF21-Fc fusion protein.",
+  "primary_endpoint": "Change from baseline in liver biopsy NASH CRN score at Week 48 for 25 mg or 50 mg TQA2225 versus matching placebo.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1019,
+    "output_tokens": 190,
+    "cost_usd": 0.000197
+  }
+}

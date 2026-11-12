@@ -1,0 +1,430 @@
+canonical_name,moa_class,moa_detail,novel_mash_agent,clean_name
+13c-methacetin,Other,13C-labelled diagnostic probe,False,13c-methacetin
+68ga-fapi-46,Other,Radiolabelled fibroblast activation protein imaging tracer,False,68ga-fapi-46
+anaerobutyricum soehngenii,Probiotic / microbiome,Gut microbiome bacterial therapeutic,True,a. soehngenii
+acarbose,Other,Alpha-glucosidase inhibitor,False,acarbose
+pioglitazone,PPAR agonist,PPAR-gamma agonist,False,actos (pioglitazone)
+pegargiminase,Other,PEGylated arginine deiminase,True,adi-peg 20
+aldafermin,FGF19 analogue,Engineered FGF19 analogue,True,aldafermin
+aldafermin,FGF19 analogue,Engineered FGF19 analogue,True,aldafermin (ngm282)
+alg-055009,THR-beta agonist,Thyroid hormone receptor beta agonist,True,alg-055009
+align probiotic supplement,Probiotic / microbiome,Probiotic bacterial supplement,False,align probiotic supplement
+aln-cideb,RNA therapy (siRNA/ASO),siRNA targeting CIDEB,True,aln-cideb
+aln-hsd,RNA therapy (siRNA/ASO),siRNA targeting HSD17B13,True,aln-hsd
+aln-pnp,RNA therapy (siRNA/ASO),siRNA targeting purine nucleoside phosphorylase,True,aln-pnp
+alpha-tocopherol,Vitamin / antioxidant / supplement,Vitamin E antioxidant,False,alpha tocopherol
+als-l1023,Herbal / natural product,Lagenaria siceraria extract,False,als-l1023
+amlexanox,Insulin sensitiser (other),TBK1 and IKK-epsilon inhibitor,False,amlexanox
+amoxicillin,Other,Beta-lactam antibiotic,False,amoxicillin
+aramchol,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),SCD1 inhibitor,True,aramchol
+aramchol,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),SCD1 inhibitor,True,aramchol free acid
+ari-3037mo,Unknown,Mechanism not established,False,ari-3037mo
+aro-hsd,RNA therapy (siRNA/ASO),siRNA targeting HSD17B13,True,aro-hsd
+aro-inhbe,RNA therapy (siRNA/ASO),siRNA targeting INHBE,True,aro-inhbe
+asc41,THR-beta agonist,Thyroid hormone receptor beta agonist,True,asc41
+ascorbic acid,Vitamin / antioxidant / supplement,Vitamin C antioxidant,False,ascorbic acid
+asp9831,Unknown,Mechanism not established,False,asp9831
+aspirin,Other,Cyclooxygenase inhibitor,False,aspirin
+atorvastatin,Lipid-lowering (statin/omega-3/other),HMG-CoA reductase inhibitor,False,atorvastatin
+rosiglitazone,PPAR agonist,PPAR-gamma agonist,False,avandia
+avenciguat,Other anti-fibrotic / anti-inflammatory,Soluble guanylate cyclase stimulator,True,avenciguat (bi 685509)
+axa1125,Combination therapy,Amino acid and metabolic substrate combination,True,axa1125
+az compound,Unknown,Insufficiently specified compound,False,az compound
+azd2693,RNA therapy (siRNA/ASO),Antisense oligonucleotide targeting PNPLA3,True,azd2693
+mitiperstat,Other anti-fibrotic / anti-inflammatory,Myeloperoxidase inhibitor,True,azd4831 (mitiperstat)
+azithromycin,Other,Macrolide antibiotic,False,azithromycin
+bifidobacterium animalis subsp. lactis,Probiotic / microbiome,Probiotic bacterial species,False,b. animalis subsp. lactis
+belapectin,Galectin-3 inhibitor,Galectin-3 inhibitor,True,belapectin (gr md-02)
+berberine,Herbal / natural product,Plant-derived alkaloid; multiple metabolic actions,False,berberine
+berberine,Herbal / natural product,Plant-derived alkaloid; multiple metabolic actions,False,berberine (bbr)
+beta-glucosylceramide,Other,Glycosphingolipid immunomodulator,False,beta glucosylceramide
+beta-cryptoxanthin,Vitamin / antioxidant / supplement,Dietary carotenoid antioxidant,False,beta-cryptoxanthin
+betaine,Vitamin / antioxidant / supplement,Methyl donor and osmolyte supplement,False,betaine
+bfkb8488a,FGF21 analogue,FGFR1c-beta-Klotho agonist antibody,True,bfkb8488a
+bgt-002,Unknown,Mechanism not established,False,bgt-002
+bi 1467335,Other anti-fibrotic / anti-inflammatory,Semicarbazide-sensitive amine oxidase inhibitor,True,bi 1467335
+bi 3802876,Unknown,Mechanism not established,False,bi 3802876
+bi 770371,Unknown,Mechanism not established,False,bi 770371
+bifidobacterium animalis subsp. lactis,Probiotic / microbiome,Probiotic bacterial species,False,bifidobacterium lactis
+bile acids,Bile acid / UDCA,Endogenous bile acids,False,bile acids
+pegbelfermin,FGF21 analogue,PEGylated FGF21 analogue,True,bio89-100
+bismuth subcitrate,Other,Gastrointestinal mucosal protectant,False,bismuth subcitrate
+pegbelfermin,FGF21 analogue,PEGylated FGF21 analogue,True,bms-986036
+bms-986251,Unknown,Mechanism not established,False,bms-986251
+bms-986263,RNA therapy (siRNA/ASO),HSP47-targeting siRNA,True,bms-986263
+bovine colostrum powder,Vitamin / antioxidant / supplement,Nutritional supplement,False,bovine colostrum powder
+broccoli seed,Herbal / natural product,Sulforaphane-containing botanical,False,broccoli seed
+ccr2 + ccr5 antagonists,CCR2/CCR5 antagonist,CCR2 and CCR5 chemokine receptor blockade,False,c-c motif chemokine receptor 2 and receptor 5 antagonists
+caffeine,Other,Adenosine receptor antagonist,False,caffeine
+caffeine + chlorogenic acid,Combination therapy,Caffeine plus chlorogenic acid,False,caffeine and chlorogenic acid
+cannabidiol,Herbal / natural product,Cannabis-derived cannabinoid,False,cannabidiol (cbd)
+carbocisteine,Other,Mucolytic and antioxidant agent,False,carbocysteine
+catechin,Herbal / natural product,Plant-derived flavonoid antioxidant,False,catechin
+selonsertib,ASK1 / apoptosis inhibitor,ASK1 inhibitor,True,cc-90001
+cenicriviroc,CCR2/CCR5 antagonist,CCR2 and CCR5 antagonist,True,cenicriviroc
+cenicriviroc,CCR2/CCR5 antagonist,CCR2 and CCR5 antagonist,True,cenicriviroc (cvc)
+namodenoson,Other,A3 adenosine receptor agonist,True,cf102
+chazhu xiaozhi decoction,Herbal / natural product,Traditional multi-herb decoction,False,chazhu xiaozhi decoction
+chiglitazar,PPAR agonist,Pan-PPAR agonist,True,chiglitazar
+chlorogenic acid,Herbal / natural product,Plant polyphenol,False,chlorogenic acid
+cholecalciferol,Vitamin / antioxidant / supplement,Vitamin D3,False,cholecalciferol
+cholestyramine,Bile acid / UDCA,Bile acid sequestrant,False,cholestyramine
+chromium picolinate,Vitamin / antioxidant / supplement,Chromium supplement,False,chromium picolinate
+cilofexor,FXR agonist,Farnesoid X receptor agonist,True,cilo
+cilofexor,FXR agonist,Farnesoid X receptor agonist,True,cilofexor
+cilofexor + firsocostat,Combination therapy,FXR agonist plus ACC inhibitor,True,cilofexor (cilo)/firsocostat (fir)
+cilofexor + firsocostat,Combination therapy,FXR agonist plus ACC inhibitor,True,cilofexor + firsocostat
+cilofexor + selonsertib,Combination therapy,FXR agonist plus ASK1 inhibitor,True,cilofexor + selonsertib
+cilostazol,Other,Phosphodiesterase 3 inhibitor,False,cilostazol
+CM-101,Other anti-fibrotic / anti-inflammatory,Anti-CCL24 monoclonal antibody,True,cm-101
+coenzyme q10,Vitamin / antioxidant / supplement,Mitochondrial antioxidant supplement,False,coenzyme q10 forte®
+colesevelam,Bile acid / UDCA,Bile acid sequestrant,False,colesevelam
+combination drug,Combination therapy,Unspecified combination therapy,False,combination drug
+cynara scolymus + silybum marianum + curcuma longa + glycyrrhiza glabra,Combination therapy,Combination of herbal extracts,False,"combination of cynara scolymus, silybum marianum, curcuma longa, and glycyrrhiza glabra"
+fish oil,Lipid-lowering (statin/omega-3/other),Omega-3 fatty acid supplement,False,concentrated fish oil
+cotadutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,cotadutide
+CRV431,Other anti-fibrotic / anti-inflammatory,Cyclophilin inhibitor,True,crv431
+linafexor,FXR agonist,Farnesoid X receptor agonist,True,cs0159 (linafexor)
+CS060380,Unknown,Mechanism not established,False,cs060380
+CSG452,Unknown,Mechanism not established,False,csg452
+curcumin,Herbal / natural product,Turmeric-derived polyphenol,False,curcumin
+curcumin,Herbal / natural product,Curcumin phytosome formulation,False,curcumin meriva
+curcuminoids,Herbal / natural product,Turmeric-derived polyphenols,False,curcuminoids
+curcumin,Herbal / natural product,Turmeric extract with curcuminoids,False,curcuvail® (curcuma longa extract containing 35% curcuminoids)
+betaine,Vitamin / antioxidant / supplement,Methyl donor supplement,False,cystadane
+cysteamine,Other,Cysteine precursor; mechanism in MASH unclear,False,cysteamine
+DA-1241,Other,GPR119 agonist,True,da-1241
+danshao shugan granules,Herbal / natural product,Traditional Chinese herbal formulation,False,danshao shugan granules (dssg)
+dapagliflozin,SGLT2 inhibitor,Sodium-glucose cotransporter 2 inhibitor,False,dapagliflozin
+dapagliflozin,SGLT2 inhibitor,Sodium-glucose cotransporter 2 inhibitor,False,dapagliflozin (dapa)
+dasatinib,Other,Multikinase inhibitor; senolytic use investigated,False,dasatinib
+DD01,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,dd01
+denifanstat,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Fatty acid synthase inhibitor,True,denifanstat
+docosahexaenoic acid,Lipid-lowering (statin/omega-3/other),Omega-3 fatty acid,False,dha
+diacerein,Other anti-fibrotic / anti-inflammatory,Interleukin-1 modulating anti-inflammatory,False,diacerein
+diamel,Unknown,Mechanism not established,False,diamel
+bergamot + artichoke extract,Combination therapy,Combination of botanical extracts,False,dietary supplement containing dry extracts of bergamot and artichoke
+digoxin,Other,Cardiac glycoside; sodium-potassium ATPase inhibitor,False,digoxin
+dihydroartemisinin,Other,Artemisinin derivative; antimalarial,False,dihydroartemisinin
+diosmin,Herbal / natural product,Citrus-derived flavonoid,False,diosmin
+dipeptidyl peptidase 4 inhibitor,DPP-4 inhibitor,Dipeptidyl peptidase 4 inhibition,False,dipeptidyl peptidase 4 (dpp-4) inhibitor
+docosahexaenoic acid + vitamin e + choline,Combination therapy,"Omega-3 fatty acid, vitamin, and nutrient",False,docosahexaenoic acid plus vitamin e plus choline
+DPP-4 inhibitors,DPP-4 inhibitor,Dipeptidyl peptidase 4 inhibition,False,dpp4 inhibitors
+cysteamine,Other,Cysteine precursor; mechanism in MASH unclear,False,dr cysteamine bitartrate
+DR10624,GLP-1/GIP/glucagon triple agonist,"GLP-1, GIP, and glucagon receptor agonist",True,dr10624
+dulaglutide,GLP-1 receptor agonist,GLP-1 receptor agonist,False,dulaglutide
+ECC0509,Unknown,Mechanism not established,False,ecc0509
+ECC4703,Unknown,Mechanism not established,False,ecc4703
+EDP-305,FXR agonist,Farnesoid X receptor agonist,True,edp-305
+efamax,Unknown,Mechanism not established,False,efamax
+efimosfermin alfa,FGF21 analogue,Long-acting FGF21 analogue,True,efimosfermin
+efimosfermin alfa,FGF21 analogue,Long-acting FGF21 analogue,True,efimosfermin alfa
+efinopegdutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,efinopegdutide
+efinopegdutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,efinopegdutide (mk-6024)
+efruxifermin,FGF21 analogue,FGF21 analogue activating FGF receptors,True,efruxifermin
+efruxifermin,FGF21 analogue,FGF21 analogue activating FGF receptors,True,efx
+elafibranor,PPAR agonist,PPAR-alpha/delta agonist,True,elafibranor
+elobixibat,Other,Ileal bile acid transporter inhibitor,False,elobixibat
+empagliflozin,SGLT2 inhibitor,Sodium-glucose cotransporter 2 inhibitor,False,empagliflozin
+emricasan,ASK1 / apoptosis inhibitor,Pan-caspase inhibitor,True,emricasan
+emricasan,ASK1 / apoptosis inhibitor,Pan-caspase inhibitor,True,emricasan (idn-6556-12)
+icosapent ethyl,Lipid-lowering (statin/omega-3/other),Eicosapentaenoic acid ethyl ester,False,epa-e
+icosabutate,Lipid-lowering (statin/omega-3/other),Synthetic omega-3 fatty acid derivative,True,epeleuton
+epigallocatechin gallate,Herbal / natural product,Tea-derived polyphenol antioxidant,False,epigallocatechin gallate (egcg)
+erdosteine,Other,Mucolytic thiol antioxidant,False,erdosteine
+ergocalciferol,Vitamin / antioxidant / supplement,Vitamin D2,False,ergocalciferol
+ertugliflozin,SGLT2 inhibitor,Sodium-glucose cotransporter 2 inhibitor,False,ertugliflozin
+esomeprazole,Other,Proton pump inhibitor,False,esomeprazole
+essential amino acid supplement,Vitamin / antioxidant / supplement,Essential amino acid nutritional supplementation,False,essential amino acid supplement by amino co
+essential amino acid supplementation,Vitamin / antioxidant / supplement,Essential amino acid nutritional supplementation,False,essential amino acids supplementation intervention
+estradiol,Other,Estrogen receptor agonist hormone therapy,False,estradiol patch
+exenatide,GLP-1 receptor agonist,GLP-1 receptor agonist,False,exenatide
+deferasirox,Other,Oral iron chelator,False,exjade
+ezetimibe,Lipid-lowering (statin/omega-3/other),NPC1L1 cholesterol absorption inhibitor,False,ezetimibe
+ezetimibe,Lipid-lowering (statin/omega-3/other),NPC1L1 cholesterol absorption inhibitor,False,ezetimibe (zetia)
+farnesoid X receptor agonists,FXR agonist,Farnesoid X receptor agonism,False,farnesoid x nuclear receptor agonists
+febuxostat,Other,Xanthine oxidase inhibitor,False,febuxostat
+fenofibrate,PPAR agonist,PPAR-alpha agonist,False,feno
+fenofibrate,PPAR agonist,PPAR-alpha agonist,False,fenofibrate
+firsocostat,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Unrecognized name,True,fir
+firsocostat,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Acetyl-CoA carboxylase inhibitor,True,firsocostat
+fish oil,Lipid-lowering (statin/omega-3/other),Omega-3 fatty acid supplement,False,fish oil
+fm101,Unknown,Unrecognized development code,False,fm101
+foralumab,Other,Fully human anti-CD3 monoclonal antibody,False,foralumab
+fructo-oligosaccharides,Probiotic / microbiome,Prebiotic selectively supporting gut bacteria,False,fructo-oligosaccharides
+ft-4101,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Fatty acid synthase inhibitor,True,ft-4101
+ganzhixiao,Herbal / natural product,Traditional herbal formulation,False,ganzhixiao
+gb1211,Galectin-3 inhibitor,Galectin-3 inhibitor,True,gb1211
+gemcabene,Lipid-lowering (statin/omega-3/other),Reduces hepatic apoC-III and inflammatory lipids,True,gemcabene
+genistein,Herbal / natural product,Soy-derived isoflavone phytoestrogen,False,genistein
+elafibranor,PPAR agonist,PPAR-alpha/delta agonist,True,gft505
+gh509,Unknown,Unrecognized development code,False,gh509
+ginger,Herbal / natural product,Ginger-derived botanical supplement,False,ginger supplement
+pioglitazone,Insulin sensitiser (other),PPAR-gamma agonist insulin sensitizer,False,glitos（pioglitazone）
+glp-1 receptor agonists,GLP-1 receptor agonist,Glucagon-like peptide-1 receptor agonism,False,glp-1 agonists
+glp-1 receptor agonists,GLP-1 receptor agonist,Glucagon-like peptide-1 receptor agonism,False,glp-1 ras
+glp-1 receptor agonists,GLP-1 receptor agonist,Glucagon-like peptide-1 receptor agonism,False,glp-1ras
+glucomannan,Vitamin / antioxidant / supplement,Soluble dietary fiber supplement,False,glucomannan
+godex,Combination therapy,Multicomponent hepatoprotective formulation,False,godex
+belapectin,Galectin-3 inhibitor,Galectin-3 inhibitor,True,gr-md-02
+green tea extract,Herbal / natural product,Tea-derived polyphenol mixture,False,green tea extract
+somatropin,Other,Recombinant human growth hormone,False,"growth hormone, genotropin (pfizer)"
+selonsertib,ASK1 / apoptosis inhibitor,Apoptosis signal-regulating kinase 1 inhibitor,True,gs-4997 (sel)
+gs-9450,ASK1 / apoptosis inhibitor,"Caspase inhibitor targeting caspases 1, 8, 9",True,gs-9450
+cilofexor,FXR agonist,Farnesoid X receptor agonist,True,gs-9674
+gsk4532990,RNA therapy (siRNA/ASO),siRNA targeting hepatic HSD17B13,True,gsk4532990
+cannabidiol,Other,Non-intoxicating cannabinoid,False,gwp42003
+hec96719,FXR agonist,Farnesoid X receptor agonist,True,hec96719
+hepar-p,Unknown,Unrecognized product name,False,hepar-p
+hepastem,Other anti-fibrotic / anti-inflammatory,Allogeneic liver-derived progenitor cell therapy,True,hepastem
+heptex,Unknown,Unrecognized product name,False,heptex
+hesperidin,Herbal / natural product,Citrus-derived flavonoid,False,hesperidin
+hl,Unknown,Mechanism not identified,False,hl
+efocipegtrutide,GLP-1/GIP/glucagon triple agonist,"GLP-1, GIP and glucagon receptor agonist",True,hm15211 (efocipegtrutide)
+hp515,Unknown,Mechanism not identified,False,hp515
+hpg1860,Unknown,Mechanism not identified,False,hpg1860
+hrs-4729,Unknown,Mechanism not identified,False,hrs-4729
+hrs9531,GLP-1 receptor agonist,GLP-1 receptor agonist,True,hrs9531
+hsk31679,Unknown,Mechanism not identified,False,hsk31679
+berberine + ursodeoxycholate,Combination therapy,Berberine combined with ursodeoxycholate,True,htd1801
+berberine + ursodeoxycholate,Combination therapy,Berberine combined with ursodeoxycholate,True,htd1801 (berberine ursodeoxycholate)
+hu6,Other,Mitochondrial uncoupling agent,True,hu6
+huhuanglianzonggan,Herbal / natural product,Traditional multi-herb formulation,False,huhuanglianzonggan
+hydroxychloroquine,Other,Lysosomal and immunomodulatory effects,False,hydrochloroquine
+hydroxytyrosol,Vitamin / antioxidant / supplement,Polyphenol antioxidant,False,hydroxytyrosol
+hydroxytyrosol,Vitamin / antioxidant / supplement,Polyphenol antioxidant,False,hydroxytyrosol (hxt)
+mazdutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,ibi362
+icosabutate,PPAR agonist,Modulates PPAR signaling,True,icosabutate
+icosapent ethyl,Lipid-lowering (statin/omega-3/other),Eicosapentaenoic acid ethyl ester,False,icosapent ethyl (vascepa)
+silybin,Herbal / natural product,Milk-thistle flavonolignan extract,False,idb 1016 (siliphos)
+idebenone,Vitamin / antioxidant / supplement,Coenzyme Q10 analogue antioxidant,False,idebenone
+emricasan,ASK1 / apoptosis inhibitor,Pan-caspase inhibitor,True,idn-6556
+imm-124e,Other anti-fibrotic / anti-inflammatory,Oral bovine colostrum-derived immunotherapy,True,imm 124-e
+imm-124e,Other anti-fibrotic / anti-inflammatory,Oral bovine colostrum-derived immunotherapy,True,imm-124e
+imm-h014,Unknown,Mechanism not identified,False,imm-h014
+insulin,Insulin sensitiser (other),Oral insulin replacement,False,insulin (ormd-0801)
+obeticholic acid,FXR agonist,Farnesoid X receptor agonist,True,int-747
+inulin,Probiotic / microbiome,Prebiotic fermentable dietary fiber,False,inulin
+ion224,RNA therapy (siRNA/ASO),siRNA targeting PNPLA3,True,ion224
+ipragliflozin,SGLT2 inhibitor,Sodium-glucose cotransporter 2 inhibitor,False,ipragliflozin
+olezarsen,RNA therapy (siRNA/ASO),Antisense oligonucleotide targeting APOC3,True,isis 703802
+itopride,Other,Dopamine D2 antagonist and acetylcholinesterase inhibitor,False,itopride
+lanifibranor,PPAR agonist,"Pan-PPAR alpha, delta and gamma agonist",True,iva337
+lanifibranor,PPAR agonist,"Pan-PPAR alpha, delta and gamma agonist",True,iva337 (lanifibranor)
+j2h-1702,Unknown,Mechanism not identified,False,j2h-1702
+jkb-121,Other anti-fibrotic / anti-inflammatory,TLR4 antagonist,True,jkb-121
+jkb-122,Other anti-fibrotic / anti-inflammatory,TLR4 antagonist,True,jkb-122
+pemafibrate,PPAR agonist,Selective PPAR-alpha agonist,False,k-877
+pemafibrate,PPAR agonist,Extended-release selective PPAR-alpha agonist,False,k-877-er
+ketohexokinase inhibition,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Ketohexokinase inhibition,True,ketohexokinase inhibition
+l-carnitine,Vitamin / antioxidant / supplement,Carnitine supports fatty-acid transport,False,l-carnitine
+l-carnitine,Vitamin / antioxidant / supplement,Carnitine supports fatty-acid transport,False,l-carnitine tartrate
+lactiplantibacillus plantarum probiotic mixture,Probiotic / microbiome,Modulates gut microbiota,False,lactiplantibacillus plantarum probiotic mixture
+lactobacillus acidophilus,Probiotic / microbiome,Modulates gut microbiota,False,lactobacillus acidophilus
+lactobacillus casei shirota,Probiotic / microbiome,Modulates gut microbiota,False,lactobacillus casei shirota (lcs)
+human placenta hydrolysate,Other,Placenta-derived hydrolysate of unclear mechanism,False,laennec (human placenta hydrolysate) iv
+lanifibranor,PPAR agonist,"Pan-PPAR alpha, delta and gamma agonist",True,lanifibranor
+lanifibranor,PPAR agonist,"Pan-PPAR alpha, delta and gamma agonist",True,lanifibranor (iva337)
+leronlimab,CCR2/CCR5 antagonist,CCR5 monoclonal antibody antagonist,False,leronlimab (pro 140)
+levothyroxine,Other,Thyroid hormone replacement,False,levothyroxine
+licogliflozin,SGLT2 inhibitor,Dual SGLT1 and SGLT2 inhibitor,True,licogliflozin (lik066)
+licogliflozin,SGLT2 inhibitor,Dual SGLT1 and SGLT2 inhibitor,True,lik066
+linzhi jianghuang fufang huoxue anshen,Herbal / natural product,Traditional multi-herb formulation,False,linzhi jianghuang fufang huoxue anshen (ljf)
+liraglutide,GLP-1 receptor agonist,GLP-1 receptor agonist,False,liraglutide
+liraglutide,GLP-1 receptor agonist,GLP-1 receptor agonist,False,"liraglutide (victoza, novo nordisk)"
+lisinopril,Other,Angiotensin-converting enzyme inhibitor,False,lisinopril
+lmb763,FXR agonist,Farnesoid X receptor agonist,True,lmb763
+longqi jiangzhi decoction,Herbal / natural product,Traditional multi-herb formulation,False,longqi jiangzhi decoction
+losartan,Other,Angiotensin II type 1 receptor blocker,False,losartan
+losartan,Other,Angiotensin II type 1 receptor blocker,False,losartan potassium
+lpcn 1144,Insulin sensitiser (other),Oral testosterone replacement prodrug,True,lpcn 1144
+lpcn 1144,Insulin sensitiser (other),Oral testosterone replacement prodrug,True,lpcn 1144 formulation a
+testosterone,Other,testosterone replacement therapy,False,lpcn 1144 formulation b
+lubiprostone,Other,chloride channel activator,False,lubiprostone
+ibutamoren,Other,growth hormone secretagogue,False,lum-201 (ibutamoren mesylate)
+fecal microbiota transplantation,Probiotic / microbiome,modulates gut microbiota,False,lyophilized fecal microbiota transplantation
+lys006,Other anti-fibrotic / anti-inflammatory,leukotriene A4 hydrolase inhibitor,True,lys006
+mb12066,Unknown,mechanism not established,False,mb12066
+cotadutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,medi0382
+met409,FXR agonist,farnesoid X receptor agonist,True,met409
+met642,FXR agonist,farnesoid X receptor agonist,True,met642
+metadoxine,Other,pyridoxine-pyrrolidone carboxylate salt,False,metadoxine
+metformin,Insulin sensitiser (other),reduces hepatic glucose production,False,metformin
+metreleptin,Other,leptin receptor agonist,False,metreleptin
+metreleptin,Other,leptin receptor agonist,False,metreleptin (recombinant-methionyl human leptin (r-methuleptin))
+metronidazole,Other,nitroimidazole antimicrobial,False,metronidazole
+resmetirom,THR-beta agonist,selective thyroid hormone receptor beta agonist,True,mgl-3196
+resmetirom,THR-beta agonist,selective thyroid hormone receptor beta agonist,True,mgl-3196 (resmetirom)
+micronutrients + probiotics,Combination therapy,micronutrient supplementation and microbiome modulation,False,micronutrient-probiotic-combination
+milk thistle,Herbal / natural product,silymarin-containing botanical extract,False,milk thistle (mt)
+miricorilant,Other anti-fibrotic / anti-inflammatory,glucocorticoid receptor modulator,True,miricorilant
+misocholic tab,Unknown,mechanism not established,False,misocholic tab
+misoprostol,Other,prostaglandin E1 analogue,False,misoprostol
+mitoquinone,Vitamin / antioxidant / supplement,mitochondria-targeted antioxidant,False,mitoquinone mesylate
+efruxifermin,FGF21 analogue,FGF21 analogue,True,mk-3655
+tipelukast,Other anti-fibrotic / anti-inflammatory,leukotriene receptor and PDE inhibitor,True,mn-001
+tipelukast,Other anti-fibrotic / anti-inflammatory,leukotriene receptor and PDE inhibitor,True,mn-001 (tipelukast)
+montelukast,Other anti-fibrotic / anti-inflammatory,cysteinyl leukotriene receptor antagonist,False,montelukast
+mitoglitazone,Insulin sensitiser (other),mitochondrial pyruvate carrier modulator,True,msdc-0602k
+mt-3995,PPAR agonist,peroxisome proliferator-activated receptor agonist,True,mt-3995
+myo-inositol,Vitamin / antioxidant / supplement,inositol supplement affecting insulin signaling,False,myoinosiol
+acetylcysteine,Vitamin / antioxidant / supplement,glutathione precursor and antioxidant,False,n acetyl cysteine
+acetylcysteine,Vitamin / antioxidant / supplement,glutathione precursor and antioxidant,False,n-acetyl cysteine
+acetylcysteine,Vitamin / antioxidant / supplement,glutathione precursor and antioxidant,False,n-acetyl cysteine (nac)
+acetylcysteine,Vitamin / antioxidant / supplement,glutathione precursor and antioxidant,False,n-acetylcysteine
+naltrexone + bupropion,Combination therapy,opioid antagonist plus norepinephrine-dopamine reuptake inhibitor,False,naltrexone/bupropion
+namodenoson,Other,adenosine A3 receptor agonist,True,namodenoson
+naringenin,Herbal / natural product,citrus-derived flavonoid,False,naringenin
+aldafermin,FGF19 analogue,engineered FGF19 analogue,True,ngm282
+aldafermin,FGF19 analogue,engineered FGF19 analogue,True,ngm282 (aldafermin)
+nicotinamide,Vitamin / antioxidant / supplement,vitamin B3 form and NAD precursor,False,niacinamide
+nicotinamide,Vitamin / antioxidant / supplement,vitamin B3 form and NAD precursor,False,nicotinamide
+nicotinamide riboside,Vitamin / antioxidant / supplement,NAD precursor,False,nicotinamide riboside
+nitazoxanide,Other,antiprotozoal and antimicrobial agent,False,nitazoxanide
+nnc0174 0833,Unknown,mechanism not established,False,nnc0174 0833
+nnc0194 0499,Unknown,mechanism not established,False,nnc0194 0499
+norursodeoxycholic acid,Bile acid / UDCA,side-chain-shortened hydrophilic bile acid,True,norursodeoxycholic acid
+nrl972,Unknown,mechanism not established,False,nrl972
+ns-0200,Unknown,mechanism not established,False,ns-0200
+obeticholic acid,FXR agonist,farnesoid X receptor agonist,True,obeticholic acid
+obeticholic acid,FXR agonist,farnesoid X receptor agonist,True,obeticholic acid (oca)
+muromonab-CD3,Other,CD3-directed monoclonal antibody,False,okt3
+oligonol,Herbal / natural product,lychee-derived oligomeric polyphenol,False,oligonol
+oltipraz,Other anti-fibrotic / anti-inflammatory,activates Nrf2 antioxidant response,False,oltipraz
+omega-3 fatty acids,Lipid-lowering (statin/omega-3/other),reduces triglyceride synthesis,False,omega 3
+omega-3 fatty acids,Lipid-lowering (statin/omega-3/other),reduces triglyceride synthesis,False,omega 3 fish oil supplements
+omega-3 fatty acids,Lipid-lowering (statin/omega-3/other),reduces triglyceride synthesis,False,omega-3 -fish oil
+omega-3 carboxylic acids,Lipid-lowering (statin/omega-3/other),reduces triglyceride synthesis,False,omega-3 carboxylic acid
+omega-3 carboxylic acids,Lipid-lowering (statin/omega-3/other),reduces triglyceride synthesis,False,omega-3 carboxylic acids
+docosahexaenoic acid ethyl ester,Lipid-lowering (statin/omega-3/other),omega-3 fatty acid ethyl ester,False,omega-3 fatty acid (dha ee)
+docosahexaenoic acid ethyl ester + alpha-tocopheryl acetate,Combination therapy,omega-3 fatty acid plus antioxidant vitamin,False,omega-3 fatty acid (dha ee) & vitamin e [(all-rac)-α-tocopheryl acetate]
+omega-3 fatty acids,Lipid-lowering (statin/omega-3/other),reduces triglyceride synthesis,False,omega-3 fatty acids
+omega-3-acid ethyl esters,Lipid-lowering (statin/omega-3/other),Omega-3 fatty acids reduce triglycerides,False,omega-3-acid ethyl esters (lovaza)
+omeprazole,Other,Proton pump inhibitor,False,omeprazole
+opk-88006,GLP-1 receptor agonist,GLP-1 receptor agonist,True,opk-88006
+orlistat,Other,Gastrointestinal lipase inhibitor,False,orlistat
+ormd-0801,Other,Oral insulin,True,ormd-0801
+ormd-0801,Other,Oral insulin,True,ormd-0801 (insulin)
+palm tocotrienols complex,Vitamin / antioxidant / supplement,Vitamin E tocotrienol antioxidant supplement,False,palm tocotrienols complex
+pasteurized akkermansia muciniphila,Probiotic / microbiome,Pasteurized gut microbiome bacterium,False,pasteurized a. muciniphila
+pegbelfermin,FGF21 analogue,PEGylated FGF21 analogue,True,pegbelfermin
+pegozafermin,FGF21 analogue,GlycoPEGylated FGF21 analogue,True,pegozafermin
+pemafibrate,PPAR agonist,Selective PPAR-alpha modulator,True,pemafibrate
+pemvidutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,pemvidutide
+pentoxifylline,Other anti-fibrotic / anti-inflammatory,Nonselective phosphodiesterase inhibitor,False,pentoxifylline
+pentoxifylline,Other anti-fibrotic / anti-inflammatory,Nonselective phosphodiesterase inhibitor,False,pentoxifylline (ptx)
+pentoxifylline,Other anti-fibrotic / anti-inflammatory,Nonselective phosphodiesterase inhibitor,False,pentoxifylline (trental sr®)
+pentoxifylline,Other anti-fibrotic / anti-inflammatory,Nonselective phosphodiesterase inhibitor,False,pentoxiphylline
+pf-05221304,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Acetyl-CoA carboxylase inhibitor,True,pf-05221304
+pf-06835919,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Ketohexokinase inhibitor,True,pf-06835919
+pf-06865571,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Diacylglycerol acyltransferase 2 inhibitor,True,pf-06865571
+phentermine + topiramate,Combination therapy,Appetite suppression and anticonvulsant combination,False,phentermine/topiramate
+phosphatidylcholine,Vitamin / antioxidant / supplement,Phospholipid nutritional supplement,False,phosphatidyl choline
+phosphatidylcholine + curcumin,Combination therapy,Phospholipid and curcumin supplement combination,False,phosphatidylcholine-curcumin complex supplement
+curcumin,Herbal / natural product,Curcumin botanical anti-inflammatory,False,phytosomal curcumin
+pinitol,Insulin sensitiser (other),Insulin-mimetic cyclitol,False,pinitol
+pioglitazone,PPAR agonist,PPAR-gamma agonist,False,pioglitazone
+piperine,Herbal / natural product,Black pepper alkaloid,False,piperine
+omega-3 fatty acids,Lipid-lowering (statin/omega-3/other),EPA-rich omega-3 fatty acids,False,polyunsaturated fatty acid (opti-epa)
+pradigastat,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Diacylglycerol acyltransferase 1 inhibitor,True,pradigastat (lcq908)
+inulin-type fructans,Probiotic / microbiome,Prebiotic fermentable dietary fibers,False,prebiotic (itfs-inulin-type fructans)
+prim-dj2727,Unknown,Mechanism not established,False,prim-dj2727
+vsl#3,Probiotic / microbiome,Multistrain probiotic formulation,False,probiotic formulation vsl#3
+probiotic-containing powder,Probiotic / microbiome,Probiotic microbial formulation,False,probiotic-containing powder
+probiotics,Probiotic / microbiome,Live beneficial microorganisms,False,probiotics
+probiotics,Probiotic / microbiome,Live beneficial bacterial strains,False,"probiotics (p. pentosaceus, l. lactis or l. helveticus)"
+proliverenol,Unknown,Mechanism not established,False,proliverenol
+px-104,FXR agonist,Farnesoid X receptor agonist,True,px-104
+pxl065,Insulin sensitiser (other),Deuterated R-pioglitazone mitochondrial modulator,True,pxl065
+pxl770,Other,Direct AMP-activated protein kinase activator,True,pxl770
+coenzyme q10,Vitamin / antioxidant / supplement,Mitochondrial electron transport antioxidant,False,q10
+ql2401,Unknown,Mechanism not established,False,ql2401
+quercetin,Herbal / natural product,Plant-derived flavonoid antioxidant,False,quercetin
+qurse revand,Herbal / natural product,Traditional botanical preparation,False,qurse revand
+rapirosiran,RNA therapy (siRNA/ASO),siRNA targeting angiopoietin-like 3,True,rapirosiran
+multispecies probiotics + calcium butyrate + fructooligosaccharides,Combination therapy,Probiotics with butyrate and prebiotic fiber,False,"ready-to-use sinbiotic preparation of multispecies probiotics, ca-butyrate and fos"
+rencofilstat,Other anti-fibrotic / anti-inflammatory,Cyclophilin inhibitor,True,rencofilstat
+rencofilstat,Other anti-fibrotic / anti-inflammatory,Cyclophilin inhibitor,True,rencofilstat (crv431)
+resmetirom,THR-beta agonist,Selective thyroid hormone receptor beta agonist,True,resmetirom
+resmetirom,THR-beta agonist,Selective thyroid hormone receptor beta agonist,True,resmetirom (mgl-3196)
+resveratrol,Herbal / natural product,Plant-derived polyphenol antioxidant,False,resveratrol
+retatrutide,GLP-1/GIP/glucagon triple agonist,"GLP-1, GIP, and glucagon receptor agonist",True,retatrutide
+rimonabant,Other,Cannabinoid CB1 receptor antagonist,False,rimonabant
+roflumilast,Other,Phosphodiesterase 4 inhibitor,False,roflumilast
+rosiglitazone,PPAR agonist,PPAR-gamma agonist,False,rosiglitazone
+rosuvastatin,Lipid-lowering (statin/omega-3/other),HMG-CoA reductase inhibitor,False,rosuvastatin
+rosuvastatin,Lipid-lowering (statin/omega-3/other),HMG-CoA reductase inhibitor,False,rosuvastatin (rsv)
+runihol,Unknown,Mechanism not established,False,runihol
+rupatadine,Other,Histamine H1 and platelet-activating factor antagonist,False,rupatadin
+rutin + ascorbic acid,Combination therapy,Flavonoid and vitamin antioxidant combination,False,rutin + vitamin c
+s-adenosylmethionine,Vitamin / antioxidant / supplement,Methyl donor and glutathione precursor,False,s-adenosylmethionine
+s-adenosylmethionine,Vitamin / antioxidant / supplement,Methyl donor and glutathione precursor,False,same
+cotadutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,sar425899
+saroglitazar,PPAR agonist,PPAR-alpha/gamma agonist,True,saroglitazar
+selonsertib,ASK1 / apoptosis inhibitor,Unknown,True,sel
+seladelpar,PPAR agonist,PPAR-delta agonist,True,seladelpar
+selonsertib,ASK1 / apoptosis inhibitor,Apoptosis signal-regulating kinase 1 inhibitor,True,selonsertib
+semaglutide,GLP-1 receptor agonist,GLP-1 receptor agonist,True,semaglutide
+semaglutide,GLP-1 receptor agonist,GLP-1 receptor agonist,True,semaglutide (sema)
+semaglutide,GLP-1 receptor agonist,GLP-1 receptor agonist,True,semaglutide (wegovy)
+semaglutide,GLP-1 receptor agonist,GLP-1 receptor agonist,True,semaglutide pen injector
+semaglutide,GLP-1 receptor agonist,GLP-1 receptor agonist,True,semaglutie
+serine,Vitamin / antioxidant / supplement,Amino acid supplement,False,serine
+serine,Vitamin / antioxidant / supplement,Amino acid supplement,False,serine supplementation
+sglt2 inhibitors,SGLT2 inhibitor,Sodium-glucose cotransporter 2 inhibition,False,sglt2 inhibitors
+sgm-1019,Unknown,Unknown,False,sgm-1019
+linerixibat,Bile acid / UDCA,Ileal bile acid transporter inhibitor,True,shp626
+silymarin,Herbal / natural product,Milk thistle extract,False,sillymarin
+silymarin,Herbal / natural product,Milk thistle extract,False,silymarin
+simtuzumab,Other anti-fibrotic / anti-inflammatory,Anti-LOXL2 monoclonal antibody,True,"simtuzumab (sim, gs-6624)"
+sitagliptin,DPP-4 inhibitor,Dipeptidyl peptidase-4 inhibitor,False,sitagliptin
+snp-610,Unknown,Unknown,False,snp-610
+snp-612,Unknown,Unknown,False,snp-612
+solithromycin,Other,Ketolide antibiotic,False,solithromycin
+spironolactone,Other,Mineralocorticoid receptor antagonist,False,spironolactone
+standard soy milk,Other,Soy-based food,False,standard soy milk
+statins,Lipid-lowering (statin/omega-3/other),HMG-CoA reductase inhibitors,False,statins
+aramchol,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),"Target enzyme, not a drug name",True,stearoyl-coa desaturase-1
+sulforaphane,Herbal / natural product,Cruciferous vegetable-derived isothiocyanate,False,sulforaphane (sfn)
+survodutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,survodutide
+survodutide,GLP-1/glucagon dual agonist,GLP-1 and glucagon receptor agonist,True,survodutide (bi456906)
+synbiotic,Probiotic / microbiome,Probiotic and prebiotic combination,False,synbiotic
+levothyroxine,Other,Synthetic thyroid hormone replacement,False,synthroid
+tern-101,FXR agonist,Farnesoid X receptor agonist,True,tern-101
+tern-501,THR-beta agonist,Thyroid hormone receptor beta agonist,True,tern-501
+tesamorelin,Other,Growth hormone-releasing hormone analogue,False,tesamorelin
+testosterone,Other,Androgen receptor agonist,False,testosterone undecanoate
+tev-45478,Unknown,Unknown,False,tev-45478
+tgm-312-sc01,Unknown,Unknown,False,tgm-312-sc01
+thyroid hormone receptor beta agonists,THR-beta agonist,Thyroid hormone receptor beta agonism,False,thyroid hormone receptor beta agonists
+tirzepatide,GLP-1/GIP dual agonist,GLP-1 and GIP receptor agonist,True,tirzepatide
+tirzepatide,GLP-1/GIP dual agonist,GLP-1 and GIP receptor agonist,True,tirzepatide (ly3298176)
+tlc-2716,Unknown,Unknown,False,tlc-2716
+tocotrienol,Vitamin / antioxidant / supplement,Vitamin E family antioxidant,False,tocotrienol (tct)
+tofogliflozin,SGLT2 inhibitor,Sodium-glucose cotransporter 2 inhibitor,False,tofogliflozin
+tqa2225 + ap025,Combination therapy,Combination of two development agents,False,tqa2225/ap025
+fenugreek seed extract,Herbal / natural product,Fenugreek seed extract,False,trigonella foenum-graecum seed extract
+trimetazidine,Other,Inhibits fatty acid beta-oxidation,False,trimetazidine
+olesoxime,Other,Mitochondrial membrane-targeting neuroprotective agent,False,tro19622
+tropifexor,FXR agonist,Farnesoid X receptor agonist,True,tropifexor (ljn452)
+turmeric,Herbal / natural product,Curcuma longa botanical product,False,turmeric
+denifanstat,Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK),Fatty acid synthase inhibitor,True,tvb-2640
+ubt251,GLP-1/GIP/glucagon triple agonist,"GLP-1, GIP and glucagon receptor agonist",True,ubt251
+ursodeoxycholic acid,Bile acid / UDCA,Hydrophilic bile acid,False,ursodesoxycholic acid
+ursodeoxycholic acid,Bile acid / UDCA,Hydrophilic bile acid,False,ursodiol
+vas,Unknown,Unknown,False,vas
+vigabatrin,Other,Irreversible GABA transaminase inhibitor,False,vigabatrin
+vitamin d,Vitamin / antioxidant / supplement,Vitamin D supplement,False,vitamin d
+cholecalciferol,Vitamin / antioxidant / supplement,Vitamin D3 supplement,False,vitamin d3
+vitamin e,Vitamin / antioxidant / supplement,Antioxidant vitamin,False,vitamin e
+vitamin e,Vitamin / antioxidant / supplement,Antioxidant vitamin,False,vitamin e (vite)
+vitamin e + pioglitazone,Combination therapy,Antioxidant vitamin plus PPAR-gamma agonist,False,vitamin e + pioglitazone
+vitamin e,Vitamin / antioxidant / supplement,Antioxidant; vitamin E acetate,False,vitamin e [(all-rac)-α-tocopheryl acetate]
+viusid,Vitamin / antioxidant / supplement,Multi-ingredient nutritional supplement,False,viusid
+vk2809,THR-beta agonist,Liver-targeted THR-beta agonist,True,vk2809
+vonafexor,FXR agonist,Farnesoid X receptor agonist,True,vonafexor
+vsa006,Unknown,Unknown,False,vsa006
+vv-14303,Unknown,Unknown,False,vv-14303
+guanabenz,Other,Alpha-2 adrenergic receptor agonist,False,wy-8678 (guanabenz acetate)
+zed1227,Other,Transglutaminase 2 inhibitor,False,zed1227
+zsp1601,CCR2/CCR5 antagonist,CCR2 and CCR5 antagonist,True,zsp1601

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03938246",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "TVB-2640",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percent change in hepatic fat fraction by MRI-PDFF from baseline at 12 weeks.",
+  "efficacy_outcome": "At 12 weeks, percent changes were −11.31% (25 mg US), −27.59% (50 mg US), −28.68% (50 mg China), and −35.77% (75 mg US); placebo changes were 2.52% (US) and −15.63% (China). No statistical comparisons were reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "No serious adverse events or deaths were reported in any arm.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1286,
+    "output_tokens": 360,
+    "cost_usd": 0.000309
+  }
+}

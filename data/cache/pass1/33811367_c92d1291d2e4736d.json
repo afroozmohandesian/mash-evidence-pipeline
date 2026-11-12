@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "33811367",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "saroglitazar",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Dual peroxisome proliferator-activated receptor-alpha/gamma agonist.",
+  "primary_endpoint": "Percentage change from baseline in ALT levels at week 16.",
+  "efficacy_outcome": "Week-16 ALT change was −25.5%, −27.7%, and −45.8% with saroglitazar 1, 2, and 4 mg, respectively, versus +3.4% with placebo (P < 0.001 for all).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Saroglitazar was well tolerated; mean weight gain was 1.5 kg with 4 mg versus 0.3 kg with placebo (P = 0.27).",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1359,
+    "output_tokens": 310,
+    "cost_usd": 0.000291
+  }
+}

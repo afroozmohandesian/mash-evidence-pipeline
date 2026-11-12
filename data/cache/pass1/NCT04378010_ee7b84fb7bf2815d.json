@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04378010",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "EDP-305",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "At Week 72, proportion achieving ≥1-stage fibrosis improvement without worsening steatohepatitis and/or steatohepatitis resolution without worsening fibrosis, determined by liver biopsy.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs: 2/32 with EDP-305 1.5 mg, 0/33 with EDP-305 2 mg, and 0/32 with placebo; no deaths.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1071,
+    "output_tokens": 243,
+    "cost_usd": 0.000229
+  }
+}

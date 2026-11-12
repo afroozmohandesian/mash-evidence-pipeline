@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT07833514",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Misocholic Tab",
+      "role": "investigational"
+    },
+    {
+      "name": "Silymarin (Silybum marianum)",
+      "role": "background therapy"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Change in serum ALT and AST levels from baseline to Day 30.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 966,
+    "output_tokens": 113,
+    "cost_usd": 0.000153
+  }
+}

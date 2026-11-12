@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "31818232",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "phytosomal curcumin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "At 8 weeks, versus placebo, curcumin significantly reduced CML (148 ± 108 vs 197 ± 101 ng/mL; P=0.04), 8-OHdG (46.9 ± 31.1 vs 52.1 ± 43.1 ng/mL; P=0.03), liver enzymes (P<0.001), and several anthropometric measures. It did not significantly change sRAGE, hip circumference, waist/hip ratio, or fat-free mass.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1203,
+    "output_tokens": 346,
+    "cost_usd": 0.000293
+  }
+}

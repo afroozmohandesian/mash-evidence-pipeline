@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "37778441",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "DT-enabled personalized nutrition, activity, and sleep",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "standard care",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": "Digital twin technology predicts postprandial glycemic responses to personalize nutrition, activity, and sleep; the source states postprandial hyperglycemia drives insulin resistance and inflammation.",
+  "primary_endpoint": "Change in HbA1c and medicine reduction between groups at 1 year.",
+  "efficacy_outcome": "At 1 year, HbA1c decreased by 2.9 (SD 1.8) with DT versus 0.3 (SD 1.2) with standard care (P < .001); T2D remission with DT was 72.7%. In participants with abnormal baseline values, NAFLD liver fat score changed by −2.5 (SD 2.0) versus −0.1 (SD 1.5), and NAFLD fibrosis score by −1.20 (SD 0.9) versus −0.1 (SD 1.0), both P < .001.",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1243,
+    "output_tokens": 470,
+    "cost_usd": 0.000359
+  }
+}

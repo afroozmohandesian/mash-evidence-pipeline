@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05583344",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "GSK4532990",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "17 β-Hydroxysteroid Dehydrogenase Type 13 minimization.",
+  "primary_endpoint": "At Week 52 in the F3 cohort: percentage achieving ≥1-stage histological fibrosis improvement with no worsening of NASH, and percentage achieving NASH resolution with no worsening of fibrosis.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 958,
+    "output_tokens": 132,
+    "cost_usd": 0.000162
+  }
+}

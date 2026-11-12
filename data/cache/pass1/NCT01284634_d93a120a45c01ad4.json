@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01284634",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "GWP42003",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percent change from baseline in mean liver triglyceride levels at EOT (Day 57) or early termination.",
+  "efficacy_outcome": "Percent changes were −0.68% (200 mg/day), −0.28% (400 mg/day), 0.65% (800 mg/day), and 6.36% (placebo); reported p-values were 0.222, 0.133, and 0.302.",
+  "efficacy_direction": "negative",
+  "safety_signal": "No serious adverse events: 0/7, 0/6, and 0/7 participants in the respective GWP42003 groups and 0/5 on placebo; deaths not reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1277,
+    "output_tokens": 321,
+    "cost_usd": 0.000288
+  }
+}

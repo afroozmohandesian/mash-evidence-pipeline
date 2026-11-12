@@ -1,0 +1,36 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32912770",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "pioglitazone",
+      "role": "investigational"
+    },
+    {
+      "name": "GLP-1 agonists",
+      "role": "investigational"
+    },
+    {
+      "name": "SGLT2 inhibitors",
+      "role": "investigational"
+    },
+    {
+      "name": "DPP4 inhibitors",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "ALT decreased with pioglitazone (MD −38.41, p<0.001), SGLT2 inhibitors (−16.17, p<0.001), GLP-1 agonists (−27.98, p=0.04), and DPP-4 inhibitors (−7.41, p<0.001). Steatosis improved significantly with pioglitazone (SMD −1.01, p<0.001) and GLP-1 agonists (−2.53, p=0.03), but not significantly with SGLT2 inhibitors or DPP-4 inhibitors (p=0.06 for each).",
+  "efficacy_direction": "mixed",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1246,
+    "output_tokens": 454,
+    "cost_usd": 0.000352
+  }
+}

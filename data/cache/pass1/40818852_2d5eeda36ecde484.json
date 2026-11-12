@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "40818852",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "efruxifermin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Bivalent fibroblast growth factor 21 analogue.",
+  "primary_endpoint": "Improvement in liver fibrosis (decrease ≥1 stage) without worsening of MASH at week 24; week-96 evaluation also reported.",
+  "efficacy_outcome": "At week 96, fibrosis improvement without MASH worsening occurred in 19% with placebo, 30% with efruxifermin 28 mg (difference 12 percentage points; p=0.19), and 49% with 50 mg (difference 31 percentage points; p=0.0030).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Adverse events were reported by 95% (28 mg), 100% (50 mg), and 98% (placebo); mild-to-moderate gastrointestinal events were more common with efruxifermin. No drug-induced liver injury or deaths were reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1576,
+    "output_tokens": 232,
+    "cost_usd": 0.000274
+  }
+}

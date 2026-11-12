@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "38579127",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "silymarin",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": null,
+  "efficacy_outcome": "Across 26 RCTs (2,375 patients), silymarin improved several measures, including ALT (SMD −12.39, 95% CI −19.69 to −5.08), AST (SMD −10.97, 95% CI −15.51 to −6.43), and hepatic steatosis (OR 3.25, 95% CI 1.80–5.87). HOMA-IR was not significantly changed (SMD −0.37, 95% CI −0.77 to 0.04).",
+  "efficacy_direction": "positive",
+  "safety_signal": null,
+  "evidence_type": "meta-analysis / systematic review",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1344,
+    "output_tokens": 351,
+    "cost_usd": 0.00031
+  }
+}

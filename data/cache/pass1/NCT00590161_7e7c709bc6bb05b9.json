@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00590161",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "pentoxifylline (PTX)",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Histological improvement of at least 2 points in NAS on liver biopsy after 1 year.",
+  "efficacy_outcome": "Reported NAS score change: −1.6 with pentoxifylline versus −0.1 with placebo; no statistical comparison reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs: 0/26 with pentoxifylline and 0/29 with placebo; deaths not reported.",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1039,
+    "output_tokens": 368,
+    "cost_usd": 0.000288
+  }
+}

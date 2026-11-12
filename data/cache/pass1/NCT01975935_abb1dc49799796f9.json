@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01975935",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Amlexanox",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Difference in hemoglobin A1c at 12 weeks.",
+  "efficacy_outcome": "Reported hemoglobin A1c values were 7.77 and 7.76 for placebo and 7.68 and 7.44 for amlexanox; two-sided t-test p=0.05.",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious adverse events: 1/21 participants in each group; no deaths.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1026,
+    "output_tokens": 665,
+    "cost_usd": 0.000435
+  }
+}

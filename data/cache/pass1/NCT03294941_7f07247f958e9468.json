@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03294941",
+  "relevant": false,
+  "drugs": [
+    {
+      "name": "HepQuant SHUNT Liver Diagnostic Kit",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Baseline DSI and change in DSI from baseline to 48 weeks.",
+  "efficacy_outcome": "Baseline DSI was 21.63 in the placebo parallel study and 20.93 in the active-drug parallel study. Change to 48 weeks was −1.08 and −1.00, respectively.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs: 0/17 affected; deaths: 0.",
+  "evidence_type": "other",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1009,
+    "output_tokens": 467,
+    "cost_usd": 0.000334
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01482065",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "CPAP (ResMed S9 autoset CPAP)",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Cross-sectional analysis of NAFLD versus sleep apnea severity indices (AHI) at 6 months.",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious AEs: 0/4 in deferred CPAP and 0/5 in CPAP; deaths not reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 956,
+    "output_tokens": 246,
+    "cost_usd": 0.000219
+  }
+}

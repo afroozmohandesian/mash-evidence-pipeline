@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT06104319",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "GSK4532990",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Predicted mean percent change from baseline in liver biopsy-derived HSD17B13 protein and mRNA expression at weeks 8, 12, and 28.",
+  "efficacy_outcome": "Protein expression changes ranged from -26.82% to -88.79%; mRNA expression changes ranged from -28.55% to -92.95% across doses and reported timepoints. No comparator or statistical significance values were provided.",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious adverse events occurred in 1/17 participants at 25 mg, 0/15 at 200 mg, 1/15 at 400 mg, and 0/14 at 800 mg; no deaths were reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1520,
+    "output_tokens": 457,
+    "cost_usd": 0.00038
+  }
+}

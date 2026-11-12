@@ -1,0 +1,422 @@
+[
+ {
+  "raw_name": "omega-3-acid ethyl esters (lovaza)",
+  "canonical_name": "omega-3-acid ethyl esters",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "Omega-3 fatty acids reduce triglycerides",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "omeprazole",
+  "canonical_name": "omeprazole",
+  "moa_class": "Other",
+  "moa_detail": "Proton pump inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "opk-88006",
+  "canonical_name": "opk-88006",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "orlistat",
+  "canonical_name": "orlistat",
+  "moa_class": "Other",
+  "moa_detail": "Gastrointestinal lipase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ormd-0801",
+  "canonical_name": "ormd-0801",
+  "moa_class": "Other",
+  "moa_detail": "Oral insulin",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "ormd-0801 (insulin)",
+  "canonical_name": "ormd-0801",
+  "moa_class": "Other",
+  "moa_detail": "Oral insulin",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "palm tocotrienols complex",
+  "canonical_name": "palm tocotrienols complex",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Vitamin E tocotrienol antioxidant supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "pasteurized a. muciniphila",
+  "canonical_name": "pasteurized akkermansia muciniphila",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Pasteurized gut microbiome bacterium",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "pegbelfermin",
+  "canonical_name": "pegbelfermin",
+  "moa_class": "FGF21 analogue",
+  "moa_detail": "PEGylated FGF21 analogue",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "pegozafermin",
+  "canonical_name": "pegozafermin",
+  "moa_class": "FGF21 analogue",
+  "moa_detail": "GlycoPEGylated FGF21 analogue",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "pemafibrate",
+  "canonical_name": "pemafibrate",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "Selective PPAR-alpha modulator",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "pemvidutide",
+  "canonical_name": "pemvidutide",
+  "moa_class": "GLP-1/glucagon dual agonist",
+  "moa_detail": "GLP-1 and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "pentoxifylline",
+  "canonical_name": "pentoxifylline",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Nonselective phosphodiesterase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "pentoxifylline (ptx)",
+  "canonical_name": "pentoxifylline",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Nonselective phosphodiesterase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "pentoxifylline (trental sr®)",
+  "canonical_name": "pentoxifylline",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Nonselective phosphodiesterase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "pentoxiphylline",
+  "canonical_name": "pentoxifylline",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Nonselective phosphodiesterase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "pf-05221304",
+  "canonical_name": "pf-05221304",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "Acetyl-CoA carboxylase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "pf-06835919",
+  "canonical_name": "pf-06835919",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "Ketohexokinase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "pf-06865571",
+  "canonical_name": "pf-06865571",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "Diacylglycerol acyltransferase 2 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "phentermine/topiramate",
+  "canonical_name": "phentermine + topiramate",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Appetite suppression and anticonvulsant combination",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "phosphatidyl choline",
+  "canonical_name": "phosphatidylcholine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Phospholipid nutritional supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "phosphatidylcholine-curcumin complex supplement",
+  "canonical_name": "phosphatidylcholine + curcumin",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Phospholipid and curcumin supplement combination",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "phytosomal curcumin",
+  "canonical_name": "curcumin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Curcumin botanical anti-inflammatory",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "pinitol",
+  "canonical_name": "pinitol",
+  "moa_class": "Insulin sensitiser (other)",
+  "moa_detail": "Insulin-mimetic cyclitol",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "pioglitazone",
+  "canonical_name": "pioglitazone",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "PPAR-gamma agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "piperine",
+  "canonical_name": "piperine",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Black pepper alkaloid",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "polyunsaturated fatty acid (opti-epa)",
+  "canonical_name": "omega-3 fatty acids",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "EPA-rich omega-3 fatty acids",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "pradigastat (lcq908)",
+  "canonical_name": "pradigastat",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "Diacylglycerol acyltransferase 1 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "prebiotic (itfs-inulin-type fructans)",
+  "canonical_name": "inulin-type fructans",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Prebiotic fermentable dietary fibers",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "prim-dj2727",
+  "canonical_name": "prim-dj2727",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "probiotic formulation vsl#3",
+  "canonical_name": "vsl#3",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Multistrain probiotic formulation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "probiotic-containing powder",
+  "canonical_name": "probiotic-containing powder",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Probiotic microbial formulation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "probiotics",
+  "canonical_name": "probiotics",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Live beneficial microorganisms",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "probiotics (p. pentosaceus, l. lactis or l. helveticus)",
+  "canonical_name": "probiotics",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Live beneficial bacterial strains",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "proliverenol",
+  "canonical_name": "proliverenol",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "px-104",
+  "canonical_name": "px-104",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "pxl065",
+  "canonical_name": "pxl065",
+  "moa_class": "Insulin sensitiser (other)",
+  "moa_detail": "Deuterated R-pioglitazone mitochondrial modulator",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "pxl770",
+  "canonical_name": "pxl770",
+  "moa_class": "Other",
+  "moa_detail": "Direct AMP-activated protein kinase activator",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "q10",
+  "canonical_name": "coenzyme q10",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Mitochondrial electron transport antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ql2401",
+  "canonical_name": "ql2401",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "quercetin",
+  "canonical_name": "quercetin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Plant-derived flavonoid antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "qurse revand",
+  "canonical_name": "qurse revand",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Traditional botanical preparation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "rapirosiran",
+  "canonical_name": "rapirosiran",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "siRNA targeting angiopoietin-like 3",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "ready-to-use sinbiotic preparation of multispecies probiotics, ca-butyrate and fos",
+  "canonical_name": "multispecies probiotics + calcium butyrate + fructooligosaccharides",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Probiotics with butyrate and prebiotic fiber",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "rencofilstat",
+  "canonical_name": "rencofilstat",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Cyclophilin inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "rencofilstat (crv431)",
+  "canonical_name": "rencofilstat",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Cyclophilin inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "resmetirom",
+  "canonical_name": "resmetirom",
+  "moa_class": "THR-beta agonist",
+  "moa_detail": "Selective thyroid hormone receptor beta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "resmetirom (mgl-3196)",
+  "canonical_name": "resmetirom",
+  "moa_class": "THR-beta agonist",
+  "moa_detail": "Selective thyroid hormone receptor beta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "resveratrol",
+  "canonical_name": "resveratrol",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Plant-derived polyphenol antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "retatrutide",
+  "canonical_name": "retatrutide",
+  "moa_class": "GLP-1/GIP/glucagon triple agonist",
+  "moa_detail": "GLP-1, GIP, and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "rimonabant",
+  "canonical_name": "rimonabant",
+  "moa_class": "Other",
+  "moa_detail": "Cannabinoid CB1 receptor antagonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "roflumilast",
+  "canonical_name": "roflumilast",
+  "moa_class": "Other",
+  "moa_detail": "Phosphodiesterase 4 inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "rosiglitazone",
+  "canonical_name": "rosiglitazone",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "PPAR-gamma agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "rosuvastatin",
+  "canonical_name": "rosuvastatin",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "HMG-CoA reductase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "rosuvastatin (rsv)",
+  "canonical_name": "rosuvastatin",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "HMG-CoA reductase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "runihol",
+  "canonical_name": "runihol",
+  "moa_class": "Unknown",
+  "moa_detail": "Mechanism not established",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "rupatadin",
+  "canonical_name": "rupatadine",
+  "moa_class": "Other",
+  "moa_detail": "Histamine H1 and platelet-activating factor antagonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "rutin + vitamin c",
+  "canonical_name": "rutin + ascorbic acid",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Flavonoid and vitamin antioxidant combination",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "s-adenosylmethionine",
+  "canonical_name": "s-adenosylmethionine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Methyl donor and glutathione precursor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "same",
+  "canonical_name": "s-adenosylmethionine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Methyl donor and glutathione precursor",
+  "novel_mash_agent": false
+ }
+]

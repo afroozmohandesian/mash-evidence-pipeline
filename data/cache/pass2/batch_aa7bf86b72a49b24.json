@@ -1,0 +1,422 @@
+[
+ {
+  "raw_name": "efinopegdutide",
+  "canonical_name": "efinopegdutide",
+  "moa_class": "GLP-1/glucagon dual agonist",
+  "moa_detail": "GLP-1 and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "efinopegdutide (mk-6024)",
+  "canonical_name": "efinopegdutide",
+  "moa_class": "GLP-1/glucagon dual agonist",
+  "moa_detail": "GLP-1 and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "efruxifermin",
+  "canonical_name": "efruxifermin",
+  "moa_class": "FGF21 analogue",
+  "moa_detail": "FGF21 analogue activating FGF receptors",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "efx",
+  "canonical_name": "efruxifermin",
+  "moa_class": "FGF21 analogue",
+  "moa_detail": "FGF21 analogue activating FGF receptors",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "elafibranor",
+  "canonical_name": "elafibranor",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "PPAR-alpha/delta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "elobixibat",
+  "canonical_name": "elobixibat",
+  "moa_class": "Other",
+  "moa_detail": "Ileal bile acid transporter inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "empagliflozin",
+  "canonical_name": "empagliflozin",
+  "moa_class": "SGLT2 inhibitor",
+  "moa_detail": "Sodium-glucose cotransporter 2 inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "emricasan",
+  "canonical_name": "emricasan",
+  "moa_class": "ASK1 / apoptosis inhibitor",
+  "moa_detail": "Pan-caspase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "emricasan (idn-6556-12)",
+  "canonical_name": "emricasan",
+  "moa_class": "ASK1 / apoptosis inhibitor",
+  "moa_detail": "Pan-caspase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "epa-e",
+  "canonical_name": "icosapent ethyl",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "Eicosapentaenoic acid ethyl ester",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "epeleuton",
+  "canonical_name": "icosabutate",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "Synthetic omega-3 fatty acid derivative",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "epigallocatechin gallate (egcg)",
+  "canonical_name": "epigallocatechin gallate",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Tea-derived polyphenol antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "erdosteine",
+  "canonical_name": "erdosteine",
+  "moa_class": "Other",
+  "moa_detail": "Mucolytic thiol antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ergocalciferol",
+  "canonical_name": "ergocalciferol",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Vitamin D2",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ertugliflozin",
+  "canonical_name": "ertugliflozin",
+  "moa_class": "SGLT2 inhibitor",
+  "moa_detail": "Sodium-glucose cotransporter 2 inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "esomeprazole",
+  "canonical_name": "esomeprazole",
+  "moa_class": "Other",
+  "moa_detail": "Proton pump inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "essential amino acid supplement by amino co",
+  "canonical_name": "essential amino acid supplement",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Essential amino acid nutritional supplementation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "essential amino acids supplementation intervention",
+  "canonical_name": "essential amino acid supplementation",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Essential amino acid nutritional supplementation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "estradiol patch",
+  "canonical_name": "estradiol",
+  "moa_class": "Other",
+  "moa_detail": "Estrogen receptor agonist hormone therapy",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "exenatide",
+  "canonical_name": "exenatide",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "exjade",
+  "canonical_name": "deferasirox",
+  "moa_class": "Other",
+  "moa_detail": "Oral iron chelator",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ezetimibe",
+  "canonical_name": "ezetimibe",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "NPC1L1 cholesterol absorption inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ezetimibe (zetia)",
+  "canonical_name": "ezetimibe",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "NPC1L1 cholesterol absorption inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "farnesoid x nuclear receptor agonists",
+  "canonical_name": "farnesoid X receptor agonists",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonism",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "febuxostat",
+  "canonical_name": "febuxostat",
+  "moa_class": "Other",
+  "moa_detail": "Xanthine oxidase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "feno",
+  "canonical_name": "fenofibrate",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "PPAR-alpha agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "fenofibrate",
+  "canonical_name": "fenofibrate",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "PPAR-alpha agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "fir",
+  "canonical_name": "fir",
+  "moa_class": "Unknown",
+  "moa_detail": "Unrecognized name",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "firsocostat",
+  "canonical_name": "firsocostat",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "Acetyl-CoA carboxylase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "fish oil",
+  "canonical_name": "fish oil",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "Omega-3 fatty acid supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "fm101",
+  "canonical_name": "fm101",
+  "moa_class": "Unknown",
+  "moa_detail": "Unrecognized development code",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "foralumab",
+  "canonical_name": "foralumab",
+  "moa_class": "Other",
+  "moa_detail": "Fully human anti-CD3 monoclonal antibody",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "fructo-oligosaccharides",
+  "canonical_name": "fructo-oligosaccharides",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Prebiotic selectively supporting gut bacteria",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ft-4101",
+  "canonical_name": "ft-4101",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "Fatty acid synthase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "ganzhixiao",
+  "canonical_name": "ganzhixiao",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Traditional herbal formulation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "gb1211",
+  "canonical_name": "gb1211",
+  "moa_class": "Galectin-3 inhibitor",
+  "moa_detail": "Galectin-3 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "gemcabene",
+  "canonical_name": "gemcabene",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "Reduces hepatic apoC-III and inflammatory lipids",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "genistein",
+  "canonical_name": "genistein",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Soy-derived isoflavone phytoestrogen",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "gft505",
+  "canonical_name": "elafibranor",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "PPAR-alpha/delta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "gh509",
+  "canonical_name": "gh509",
+  "moa_class": "Unknown",
+  "moa_detail": "Unrecognized development code",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ginger supplement",
+  "canonical_name": "ginger",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Ginger-derived botanical supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "glitos（pioglitazone）",
+  "canonical_name": "pioglitazone",
+  "moa_class": "Insulin sensitiser (other)",
+  "moa_detail": "PPAR-gamma agonist insulin sensitizer",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "glp-1 agonists",
+  "canonical_name": "glp-1 receptor agonists",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "Glucagon-like peptide-1 receptor agonism",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "glp-1 ras",
+  "canonical_name": "glp-1 receptor agonists",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "Glucagon-like peptide-1 receptor agonism",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "glp-1ras",
+  "canonical_name": "glp-1 receptor agonists",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "Glucagon-like peptide-1 receptor agonism",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "glucomannan",
+  "canonical_name": "glucomannan",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Soluble dietary fiber supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "godex",
+  "canonical_name": "godex",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Multicomponent hepatoprotective formulation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "gr-md-02",
+  "canonical_name": "belapectin",
+  "moa_class": "Galectin-3 inhibitor",
+  "moa_detail": "Galectin-3 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "green tea extract",
+  "canonical_name": "green tea extract",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Tea-derived polyphenol mixture",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "growth hormone, genotropin (pfizer)",
+  "canonical_name": "somatropin",
+  "moa_class": "Other",
+  "moa_detail": "Recombinant human growth hormone",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "gs-4997 (sel)",
+  "canonical_name": "selonsertib",
+  "moa_class": "ASK1 / apoptosis inhibitor",
+  "moa_detail": "Apoptosis signal-regulating kinase 1 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "gs-9450",
+  "canonical_name": "gs-9450",
+  "moa_class": "ASK1 / apoptosis inhibitor",
+  "moa_detail": "Caspase inhibitor targeting caspases 1, 8, 9",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "gs-9674",
+  "canonical_name": "cilofexor",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "gsk4532990",
+  "canonical_name": "gsk4532990",
+  "moa_class": "RNA therapy (siRNA/ASO)",
+  "moa_detail": "siRNA targeting hepatic HSD17B13",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "gwp42003",
+  "canonical_name": "cannabidiol",
+  "moa_class": "Other",
+  "moa_detail": "Non-intoxicating cannabinoid",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "hec96719",
+  "canonical_name": "hec96719",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "hepar-p",
+  "canonical_name": "hepar-p",
+  "moa_class": "Unknown",
+  "moa_detail": "Unrecognized product name",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "hepastem",
+  "canonical_name": "hepastem",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Allogeneic liver-derived progenitor cell therapy",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "heptex",
+  "canonical_name": "heptex",
+  "moa_class": "Unknown",
+  "moa_detail": "Unrecognized product name",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "hesperidin",
+  "canonical_name": "hesperidin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Citrus-derived flavonoid",
+  "novel_mash_agent": false
+ }
+]

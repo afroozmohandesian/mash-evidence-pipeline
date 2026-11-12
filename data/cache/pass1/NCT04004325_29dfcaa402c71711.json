@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04004325",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "FT-4101",
+      "role": "investigational"
+    },
+    {
+      "name": "Deuterated Water",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Safety endpoints through 20 weeks and change/percent change in liver fat by MRI-PDFF at week 12.",
+  "efficacy_outcome": "At week 12, MRI-PDFF liver fat percent change was −18.02% with FT-4101 3.0 mg versus +25.98% with placebo; absolute change was −3.65 versus +4.16 percentage points. No statistical significance is reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "TEAEs occurred in 3 participants in each group; clinically significant laboratory and physical examination changes occurred in 0 participants in each group. No serious AEs or deaths were reported (FT-4101 0/9; placebo 0/5).",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 1/2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 2244,
+    "output_tokens": 226,
+    "cost_usd": 0.000337
+  }
+}

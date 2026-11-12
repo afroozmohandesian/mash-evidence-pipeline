@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT03205345",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Emricasan",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Caspase inhibitor.",
+  "primary_endpoint": "Event-free survival versus placebo based on a composite clinical endpoint, assessed from baseline to final treatment visit (at least 48 to a maximum of 120 weeks).",
+  "efficacy_outcome": null,
+  "efficacy_direction": "not reported",
+  "safety_signal": null,
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 945,
+    "output_tokens": 148,
+    "cost_usd": 0.000169
+  }
+}

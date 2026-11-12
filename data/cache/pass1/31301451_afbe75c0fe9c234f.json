@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "31301451",
+  "relevant": false,
+  "drugs": [
+    {
+      "name": "fecal microbiota transplantation (FMT)",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Safety through follow-up to week 26.",
+  "efficacy_outcome": "No significant difference in adverse events between FMT and placebo; no significant change in mean BMI at week 12 in either group.",
+  "efficacy_direction": "negative",
+  "safety_signal": "No significant differences in adverse events between FMT and placebo; FMT capsules were well tolerated.",
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1293,
+    "output_tokens": 462,
+    "cost_usd": 0.00036
+  }
+}

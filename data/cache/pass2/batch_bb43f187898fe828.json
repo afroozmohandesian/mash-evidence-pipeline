@@ -1,0 +1,422 @@
+[
+ {
+  "raw_name": "sar425899",
+  "canonical_name": "cotadutide",
+  "moa_class": "GLP-1/glucagon dual agonist",
+  "moa_detail": "GLP-1 and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "saroglitazar",
+  "canonical_name": "saroglitazar",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "PPAR-alpha/gamma agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "sel",
+  "canonical_name": "sel",
+  "moa_class": "Unknown",
+  "moa_detail": "Unknown",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "seladelpar",
+  "canonical_name": "seladelpar",
+  "moa_class": "PPAR agonist",
+  "moa_detail": "PPAR-delta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "selonsertib",
+  "canonical_name": "selonsertib",
+  "moa_class": "ASK1 / apoptosis inhibitor",
+  "moa_detail": "Apoptosis signal-regulating kinase 1 inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "semaglutide",
+  "canonical_name": "semaglutide",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "semaglutide (sema)",
+  "canonical_name": "semaglutide",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "semaglutide (wegovy)",
+  "canonical_name": "semaglutide",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "semaglutide pen injector",
+  "canonical_name": "semaglutide",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "semaglutie",
+  "canonical_name": "semaglutide",
+  "moa_class": "GLP-1 receptor agonist",
+  "moa_detail": "GLP-1 receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "serine",
+  "canonical_name": "serine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Amino acid supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "serine supplementation",
+  "canonical_name": "serine",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Amino acid supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "sglt2 inhibitors",
+  "canonical_name": "sglt2 inhibitors",
+  "moa_class": "SGLT2 inhibitor",
+  "moa_detail": "Sodium-glucose cotransporter 2 inhibition",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "sgm-1019",
+  "canonical_name": "sgm-1019",
+  "moa_class": "Unknown",
+  "moa_detail": "Unknown",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "shp626",
+  "canonical_name": "linerixibat",
+  "moa_class": "Bile acid / UDCA",
+  "moa_detail": "Ileal bile acid transporter inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "sillymarin",
+  "canonical_name": "silymarin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Milk thistle extract",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "silymarin",
+  "canonical_name": "silymarin",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Milk thistle extract",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "simtuzumab (sim, gs-6624)",
+  "canonical_name": "simtuzumab",
+  "moa_class": "Other anti-fibrotic / anti-inflammatory",
+  "moa_detail": "Anti-LOXL2 monoclonal antibody",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "sitagliptin",
+  "canonical_name": "sitagliptin",
+  "moa_class": "DPP-4 inhibitor",
+  "moa_detail": "Dipeptidyl peptidase-4 inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "snp-610",
+  "canonical_name": "snp-610",
+  "moa_class": "Unknown",
+  "moa_detail": "Unknown",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "snp-612",
+  "canonical_name": "snp-612",
+  "moa_class": "Unknown",
+  "moa_detail": "Unknown",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "solithromycin",
+  "canonical_name": "solithromycin",
+  "moa_class": "Other",
+  "moa_detail": "Ketolide antibiotic",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "spironolactone",
+  "canonical_name": "spironolactone",
+  "moa_class": "Other",
+  "moa_detail": "Mineralocorticoid receptor antagonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "standard soy milk",
+  "canonical_name": "standard soy milk",
+  "moa_class": "Other",
+  "moa_detail": "Soy-based food",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "statins",
+  "canonical_name": "statins",
+  "moa_class": "Lipid-lowering (statin/omega-3/other)",
+  "moa_detail": "HMG-CoA reductase inhibitors",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "stearoyl-coa desaturase-1",
+  "canonical_name": "stearoyl-coa desaturase-1",
+  "moa_class": "Unknown",
+  "moa_detail": "Target enzyme, not a drug name",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "sulforaphane (sfn)",
+  "canonical_name": "sulforaphane",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Cruciferous vegetable-derived isothiocyanate",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "survodutide",
+  "canonical_name": "survodutide",
+  "moa_class": "GLP-1/glucagon dual agonist",
+  "moa_detail": "GLP-1 and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "survodutide (bi456906)",
+  "canonical_name": "survodutide",
+  "moa_class": "GLP-1/glucagon dual agonist",
+  "moa_detail": "GLP-1 and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "synbiotic",
+  "canonical_name": "synbiotic",
+  "moa_class": "Probiotic / microbiome",
+  "moa_detail": "Probiotic and prebiotic combination",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "synthroid",
+  "canonical_name": "levothyroxine",
+  "moa_class": "Other",
+  "moa_detail": "Synthetic thyroid hormone replacement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "tern-101",
+  "canonical_name": "tern-101",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "tern-501",
+  "canonical_name": "tern-501",
+  "moa_class": "THR-beta agonist",
+  "moa_detail": "Thyroid hormone receptor beta agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "tesamorelin",
+  "canonical_name": "tesamorelin",
+  "moa_class": "Other",
+  "moa_detail": "Growth hormone-releasing hormone analogue",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "testosterone undecanoate",
+  "canonical_name": "testosterone",
+  "moa_class": "Other",
+  "moa_detail": "Androgen receptor agonist",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "tev-45478",
+  "canonical_name": "tev-45478",
+  "moa_class": "Unknown",
+  "moa_detail": "Unknown",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "tgm-312-sc01",
+  "canonical_name": "tgm-312-sc01",
+  "moa_class": "Unknown",
+  "moa_detail": "Unknown",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "thyroid hormone receptor beta agonists",
+  "canonical_name": "thyroid hormone receptor beta agonists",
+  "moa_class": "THR-beta agonist",
+  "moa_detail": "Thyroid hormone receptor beta agonism",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "tirzepatide",
+  "canonical_name": "tirzepatide",
+  "moa_class": "GLP-1/GIP dual agonist",
+  "moa_detail": "GLP-1 and GIP receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "tirzepatide (ly3298176)",
+  "canonical_name": "tirzepatide",
+  "moa_class": "GLP-1/GIP dual agonist",
+  "moa_detail": "GLP-1 and GIP receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "tlc-2716",
+  "canonical_name": "tlc-2716",
+  "moa_class": "Unknown",
+  "moa_detail": "Unknown",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "tocotrienol (tct)",
+  "canonical_name": "tocotrienol",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Vitamin E family antioxidant",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "tofogliflozin",
+  "canonical_name": "tofogliflozin",
+  "moa_class": "SGLT2 inhibitor",
+  "moa_detail": "Sodium-glucose cotransporter 2 inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "tqa2225/ap025",
+  "canonical_name": "tqa2225 + ap025",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Combination of two development agents",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "trigonella foenum-graecum seed extract",
+  "canonical_name": "fenugreek seed extract",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Fenugreek seed extract",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "trimetazidine",
+  "canonical_name": "trimetazidine",
+  "moa_class": "Other",
+  "moa_detail": "Inhibits fatty acid beta-oxidation",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "tro19622",
+  "canonical_name": "olesoxime",
+  "moa_class": "Other",
+  "moa_detail": "Mitochondrial membrane-targeting neuroprotective agent",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "tropifexor (ljn452)",
+  "canonical_name": "tropifexor",
+  "moa_class": "FXR agonist",
+  "moa_detail": "Farnesoid X receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "turmeric",
+  "canonical_name": "turmeric",
+  "moa_class": "Herbal / natural product",
+  "moa_detail": "Curcuma longa botanical product",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "tvb-2640",
+  "canonical_name": "denifanstat",
+  "moa_class": "Lipogenesis inhibitor (ACC/FASN/SCD1/DGAT2/KHK)",
+  "moa_detail": "Fatty acid synthase inhibitor",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "ubt251",
+  "canonical_name": "ubt251",
+  "moa_class": "GLP-1/GIP/glucagon triple agonist",
+  "moa_detail": "GLP-1, GIP and glucagon receptor agonist",
+  "novel_mash_agent": true
+ },
+ {
+  "raw_name": "ursodesoxycholic acid",
+  "canonical_name": "ursodeoxycholic acid",
+  "moa_class": "Bile acid / UDCA",
+  "moa_detail": "Hydrophilic bile acid",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "ursodiol",
+  "canonical_name": "ursodeoxycholic acid",
+  "moa_class": "Bile acid / UDCA",
+  "moa_detail": "Hydrophilic bile acid",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "vas",
+  "canonical_name": "vas",
+  "moa_class": "Unknown",
+  "moa_detail": "Unknown",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "vigabatrin",
+  "canonical_name": "vigabatrin",
+  "moa_class": "Other",
+  "moa_detail": "Irreversible GABA transaminase inhibitor",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "vitamin d",
+  "canonical_name": "vitamin d",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Vitamin D supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "vitamin d3",
+  "canonical_name": "cholecalciferol",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Vitamin D3 supplement",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "vitamin e",
+  "canonical_name": "vitamin e",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Antioxidant vitamin",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "vitamin e (vite)",
+  "canonical_name": "vitamin e",
+  "moa_class": "Vitamin / antioxidant / supplement",
+  "moa_detail": "Antioxidant vitamin",
+  "novel_mash_agent": false
+ },
+ {
+  "raw_name": "vitamin e + pioglitazone",
+  "canonical_name": "vitamin e + pioglitazone",
+  "moa_class": "Combination therapy",
+  "moa_detail": "Antioxidant vitamin plus PPAR-gamma agonist",
+  "novel_mash_agent": false
+ }
+]

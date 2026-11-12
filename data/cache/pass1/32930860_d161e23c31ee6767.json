@@ -1,0 +1,24 @@
+{
+  "data_source": "PubMed",
+  "source_id": "32930860",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "PX-104",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": "Non-steroidal farnesoid X receptor (FXR) agonist; FXR is described as a regulator of bile acid, glucose, and lipid homeostasis.",
+  "primary_endpoint": null,
+  "efficacy_outcome": "After 4 weeks, ALT (p=0.027) and GGT (p=0.019) decreased, and insulin sensitivity improved in 92% of patients (p=0.02); hepatic steatosis measures did not change.",
+  "efficacy_direction": "mixed",
+  "safety_signal": "No serious adverse events; short intervals of cardiac arrhythmia in 2 patients led to study termination.",
+  "evidence_type": "single-arm trial",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1232,
+    "output_tokens": 407,
+    "cost_usd": 0.000327
+  }
+}

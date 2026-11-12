@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT05415722",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "TERN-501",
+      "role": "investigational"
+    },
+    {
+      "name": "TERN-101",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Relative change from baseline in MRI-PDFF at Week 12 for TERN-501 monotherapy versus placebo.",
+  "efficacy_outcome": "MRI-PDFF change was −15.39% (1 mg; p=0.1303), −27.48% (3 mg; p=0.0036), and −44.81% (6 mg; p<0.0001), versus −4.01% with placebo.",
+  "efficacy_direction": "mixed",
+  "safety_signal": "Serious AEs: TERN-501 1 mg, 1/23; 3 mg, 0/23; 6 mg, 0/22; placebo, 0/24. No deaths were reported in these arms.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1352,
+    "output_tokens": 311,
+    "cost_usd": 0.000291
+  }
+}

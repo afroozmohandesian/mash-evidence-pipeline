@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT04134091",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "LPCN 1144 Formulation A",
+      "role": "investigational"
+    },
+    {
+      "name": "LPCN 1144 Formulation B",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Absolute change in hepatic fat fraction by MRI-PDFF from baseline to Week 12.",
+  "efficacy_outcome": "MRI-PDFF liver fat change was −7.68 for Treatment A, −9.17 for Treatment B, and −1.54 for placebo; p<0.0001 for each treatment comparison (ANCOVA).",
+  "efficacy_direction": "positive",
+  "safety_signal": "Serious AEs: Treatment A, 2/18 (1 death); Treatment B, 2/19 (0 deaths); placebo, 1/19 (1 death).",
+  "evidence_type": "RCT",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1170,
+    "output_tokens": 389,
+    "cost_usd": 0.000311
+  }
+}

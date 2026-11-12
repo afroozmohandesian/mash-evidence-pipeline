@@ -1,0 +1,28 @@
+{
+  "data_source": "PubMed",
+  "source_id": "33358648",
+  "relevant": false,
+  "drugs": [
+    {
+      "name": "MANTA VCD",
+      "role": "non-drug intervention"
+    },
+    {
+      "name": "2 ProGlides",
+      "role": "non-drug intervention"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Access site-related major or minor vascular complications at 30 days.",
+  "efficacy_outcome": "Primary endpoint: 10% with MANTA vs. 4% with ProGlide (p = 0.16). Modified VCD failure: 20% vs. 40% (p < 0.01), respectively.",
+  "efficacy_direction": "negative",
+  "safety_signal": "Clinically significant access site bleeding was 9% with MANTA vs. 6% with ProGlide (p = 0.57).",
+  "evidence_type": "RCT",
+  "study_phase": "not reported",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1222,
+    "output_tokens": 315,
+    "cost_usd": 0.00028
+  }
+}

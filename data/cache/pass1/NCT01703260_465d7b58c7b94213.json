@@ -1,0 +1,28 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01703260",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Roflumilast",
+      "role": "investigational"
+    },
+    {
+      "name": "Pioglitazone",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Percent change from baseline in serum ALT at Month 4.",
+  "efficacy_outcome": "At Month 4, serum ALT changed by −53.89% with roflumilast plus pioglitazone, −56.22% with roflumilast alone, and −28.86% with pioglitazone alone; statistical comparisons were not reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious adverse events affected 0/7 participants in the combination group, 0/7 with roflumilast alone, and 0/6 with pioglitazone alone; deaths were not reported.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1165,
+    "output_tokens": 541,
+    "cost_usd": 0.000387
+  }
+}

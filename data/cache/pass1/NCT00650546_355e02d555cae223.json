@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT00650546",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "Exenatide",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Number of patients with improvement in liver histology between baseline and 24–28 weeks; change in NAS from baseline to 28 weeks.",
+  "efficacy_outcome": "Eight participants had improvement in liver histology; mean change in NAS was −1.5. No comparator or statistical significance was reported.",
+  "efficacy_direction": "not reported",
+  "safety_signal": "Serious adverse events: 0/8 participants in the exenatide group; deaths not reported.",
+  "evidence_type": "single-arm trial",
+  "study_phase": "Phase 2/3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 999,
+    "output_tokens": 369,
+    "cost_usd": 0.000284
+  }
+}

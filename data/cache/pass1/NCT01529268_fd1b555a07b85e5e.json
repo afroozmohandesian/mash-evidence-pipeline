@@ -1,0 +1,24 @@
+{
+  "data_source": "ClinicalTrials.gov",
+  "source_id": "NCT01529268",
+  "relevant": true,
+  "drugs": [
+    {
+      "name": "DR cysteamine bitartrate",
+      "role": "investigational"
+    }
+  ],
+  "mechanism_of_action": null,
+  "primary_endpoint": "Improvement in NAFLD at 52 weeks.",
+  "efficacy_outcome": "Improvement was reported for 25 participants with DR cysteamine bitartrate and 18 with placebo; p=0.34 (Cochran-Mantel-Haenszel).",
+  "efficacy_direction": "negative",
+  "safety_signal": "Serious adverse events: 5/88 with DR cysteamine bitartrate and 4/81 with placebo; no deaths in either group.",
+  "evidence_type": "registry record",
+  "study_phase": "Phase 2/3",
+  "_usage": {
+    "model": "gpt-6-luna",
+    "input_tokens": 1133,
+    "output_tokens": 218,
+    "cost_usd": 0.000222
+  }
+}
